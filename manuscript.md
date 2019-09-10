@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/e0bffa192dff361945557e5be243e0a50b8f5971/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/3a667f27c909db1916a912a13956969ed497080e/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@e0bffa1](https://github.com/greenelab/scihub-manuscript-es/tree/e0bffa192dff361945557e5be243e0a50b8f5971)
+from [greenelab/scihub-manuscript-es@3a667f2](https://github.com/greenelab/scihub-manuscript-es/tree/3a667f27c909db1916a912a13956969ed497080e)
 on September 10, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -117,6 +117,7 @@ Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on 
 
 ## Abstract {.page_break_before}
 
+<details><summary>Inglés Original</summary>
 The website Sci-Hub enables users to download PDF versions of scholarly articles, including many articles that are paywalled at their journal's site.
 Sci-Hub has grown rapidly since its creation in 2011, but the extent of its coverage was unclear.
 Here we report that, as of March 2017, Sci-Hub's database contains 68.9% of the 81.6 million scholarly articles registered with Crossref and 85.1% of articles published in toll access journals.
@@ -125,56 +126,73 @@ For toll access articles, we find that Sci-Hub provides greater coverage than th
 Green open access to toll access articles via licit services, on the other hand, remains quite limited.
 Our interactive browser at <https://greenelab.github.io/scihub> allows users to explore these findings in more detail.
 For the first time, nearly all scholarly literature is available gratis to anyone with an Internet connection, suggesting the toll access business model may become unsustainable.
+</details>
 
 
 ## Introduction {.page_break_before}
 
+<details><summary>Inglés Original</summary>
 Recent estimates suggest paywalls on the web limit access to three-quarters of scholarly literature [@eOi5pOoT; @MNHagzoO; @9JroGcRn].
 The open access movement strives to remedy this situation [@PuP45jrB].
 After decades of effort by the open access community [@3k6GM8o4], nearly 50% of newly published articles are available without paywalls [@eOi5pOoT; @n1xo9kJ7; @NE5AByb0].
+</details>
 
+<details><summary>Inglés Original</summary>
 Despite these gains, access to scholarly literature remains a pressing global issue.
 Foremost, widespread subscription access remains restricted to institutions, such as universities or medical centers.
 Smaller institutions or those in the developing world often have poor access to scholarly literature [@16BrOMxI0; @13ynzWtv8; @17wtGC2m7].
 As a result, only a tiny percentage of the world's population has been able to access much of the scholarly literature, despite the fact that the underlying research was often publicly or philanthropically funded.
 Compounding the problem is that publications have historically been the primary, if not sole, output of scholarship.
 Although copyright does not apply to ideas, journals leverage the copyright covering an article's prose, figures, and typesetting to effectively paywall its knowledge.
+</details>
 
+<details><summary>Inglés Original</summary>
 Since each article is unique, libraries cannot substitute one journal subscription for another without depriving their users of potentially crucial access.
 As a result, the price of journal subscriptions has grown at a faster rate than inflation for several decades [@PR3qioJB], leading to an ever-present "serials crisis" that has pushed library budgets to their brink while diverting funds from other services [@18zoY6Ild].
 Meanwhile, publishing has trended towards oligopoly [@OGMKPsIG], with nondisclosure clauses obfuscating price information among subscribers [@7oTLbigW] while publishers profit immensely [@bGUjzQuG; @D9un8JYo; @xDn5v2f3].
 Price increases have persisted over the last decade [@AgjD0tTw; @12rSJsEKK; @GWp5Zx0w].
 For example, EBSCO estimates that per-journal subscription costs increased by 25% from 2013–2017, with annual subscription to a journal for research libraries now averaging $1,396 [@5e9PbvWY].
+</details>
 
+<details><summary>Inglés Original</summary>
 In this study, we use the term "toll access" (also known as "closed access") to refer to paywalled literature [@zBPP9YKu].
 On the other hand, we refer to literature that is free to read as "open access".
 Furthermore, we discuss two variants of open access: "libre" and "gratis" [@zBPP9YKu; @tSEdUvgK].
 Libre open access refers to literature that is [openly licensed](http://opendefinition.org/) to allow reuse.
 Gratis open access refers to literature that is accessible free of charge, although permission barriers may remain (usually due to copyright) [@7aXVorCC].
+</details>
 
+<details><summary>Inglés Original</summary>
 The website Sci-Hub, now in its sixth year of existence, provides gratis access to scholarly literature, despite the continued presence of paywalls.
 Sci-Hub brands itself as "the first pirate website in the world to provide mass and public access to tens of millions of research papers."
 The website, started in 2011, is run by Alexandra Elbakyan, a graduate student and native of Kazakhstan who now resides in Russia [@JVjciZPv; @sR4uAYxB].
 Elbakyan describes herself as motivated to provide universal access to knowledge [@nZZjs6T6; @1BUarVNFD; @K6n65WB0].
+</details>
 
+<details><summary>Inglés Original</summary>
 Sci-Hub does not restrict itself to only openly licensed content.
 Instead, it retrieves and distributes scholarly literature without regard to copyright.
 **Readers should note that, in many jurisdictions, use of Sci-Hub may constitute copyright infringement.
 Users of Sci-Hub do so at their own risk.
 This study is not an endorsement of using Sci-Hub, and its authors and publishers accept no responsibility on behalf of readers.
 There is a possibility that Sci-Hub users — especially those not using privacy-enhancing services such as Tor — could have their usage history unmasked and face legal or reputational consequences.**
+</details>
 
+<details><summary>Inglés Original</summary>
 Sci-Hub is currently served at domains including https://sci-hub.hk, https://sci-hub.la, https://sci-hub.mn, https://sci-hub.name, https://sci-hub.tv, and https://sci-hub.tw, as well as at scihub22266oqcxt.onion — a Tor Hidden Service [@zvVsLNxf].
 Elbakyan described the project's technical scope in July 2017 [@1H8x8f4Y7]:
 "Sci-Hub technically is by itself a repository, or a library if you like, and not a search engine for some other repository.
 But of course, the most important part in Sci-Hub is not a repository, but the script that can download papers closed behind paywalls."
+</details>
 
+<details><summary>Inglés Original</summary>
 One method Sci-Hub uses to bypass paywalls is by obtaining leaked authentication credentials for educational institutions [@1H8x8f4Y7].
 These credentials enable Sci-Hub to use institutional networks as proxies and gain subscription journal access.
 While the open access movement has progressed slowly [@KDvO1ctK], Sci-Hub represents a seismic shift in access to scholarly literature.
 Since its inception, Sci-Hub has experienced sustained growth, with spikes in interest and awareness driven by legal proceedings, service outages, news coverage, and social media (Figure @fig:history and @fig:downloads).
 Here we investigate the extent to which Sci-Hub provides access to scholarly literature.
 If Sci-Hub's coverage is sufficiently broad, then a radical shift may be underway in how individuals access scholarly literature.
+</details>
 
 ![
 **The history of Sci-Hub.**
@@ -186,6 +204,17 @@ The first pink dotted line represents the collection date of the LibGen scimag m
 The second pink dotted line shows the date of Sci-Hub's tweeted DOI catalog used in this study.
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/explore/trends/google-trends.png){#fig:history width="100%" .white}
 
+<details><summary>Inglés Subtítulo Original</summary>
+**The history of Sci-Hub.**
+Weekly interest from Google Trends is plotted over time for the search terms "Sci-Hub" and "LibGen".
+The light green period indicates when Sci-Hub used LibGen as its database for storing articles [@1H8x8f4Y7].
+Light blue indicates the collection period of the Sci-Hub access logs that we analyze throughout this study [@kQFQ8EaO].
+Based on these logs and newly released logs for 2017, Figure @fig:downloads shows the number of articles downloaded from Sci-Hub over time, providing an alternative look into Sci-Hub's growth.
+The first pink dotted line represents the collection date of the LibGen scimag metadata used in Cabanac's study [@18KKRwlN6; @GxWkjeN2].
+The second pink dotted line shows the date of Sci-Hub's tweeted DOI catalog used in this study.
+</details>
+
+<details><summary>Inglés Original</summary>
 In Figure @fig:history, The ⓛⓔⓣⓣⓔⓡⓢ refer to the following events:
 
 + **Ⓐ** Created by Alexandra Elbakyan, the Sci-Hub website goes live on September 5, 2011.
@@ -209,14 +238,18 @@ Their "prayer for relief" requests that Internet search engines and Internet ser
 Four days later, Sci-Hub restores access after receiving "many letters of support from Russian researchers" [@GLDH745f].
 + **Ⓛ** The court rules on the American Chemical Society suit, ordering Sci-Hub to pay $4.8 million in damages and that "any person or entity in active concert or participation" with Sci-Hub "including any Internet search engines, web hosting and Internet service providers, domain name registrars, and domain name registries, cease facilitating access" [@WBnZqVXT; @XI4kiPR4].
 Within five weeks, the domains sci-hub.io, sci-hub.ac, sci-hub.cc, and sci-hub.bz were suspended by their respective domain name registries [@pmrIfHRq], leaving only the Tor hidden service and several newly-registered/revealed domains in operation.
+</details>
 
+<details><summary>Inglés Original</summary>
 Past research sheds some light on Sci-Hub's reach.
 From the Spring of 2013 until the end of 2014, Sci-Hub relied on the Library Genesis (LibGen) scimag repository to store articles [@1H8x8f4Y7].
 Whenever a user requested an article, Sci-Hub would check LibGen for a copy.
 If the article was not in LibGen, Sci-Hub would fetch the article for the user and then upload it to LibGen.
 Cabanac compared the number of articles in the LibGen scimag database at the start of 2014 to the total number of Crossref DOIs, estimating that LibGen contained 36% of all published scholarly articles [@18KKRwlN6].
 Coverage was higher for several prominent publishers: 77% for Elsevier, 73% for Wiley, and 53% for Springer (prior to its merger with Macmillan / Nature [@ynhlmOBH]).
+</details>
 
+<details><summary>Inglés Original</summary>
 Later, Bohannon analyzed six months of Sci-Hub's server access logs, starting in September 2015 [@RsNXQAG2].
 He found a global pattern of usage.
 Based on these logs, Gardner, McLaughlin, and Asher estimated the ratio of publisher downloads to Sci-Hub downloads within the U.S. for several publishers [@17rORqxsI].
@@ -225,7 +258,9 @@ They also noted that 25% of Sci-Hub downloads in the U.S. were for articles rela
 Greshake also analyzed the logs to identify per capita Sci-Hub usage [@uBm4Sor6].
 Portugal, Iran, Tunisia, and Greece had the highest usage, suggesting Sci-Hub is preferentially used in countries with poor institutional access to scholarly literature.
 In a subsequent study, Greshake found especially high Sci-Hub usage in chemistry, with 12 of the top 20 requested journals specializing in chemistry [@iLKgjFDu; @nnSxBFFr].
+</details>
 
+<details><summary>Inglés Original</summary>
 Since 2015, Sci-Hub has operated its own repository, distinct from LibGen.
 On March 19, 2017, Sci-Hub released the list of DOIs for articles in its database.
 Greshake retrieved metadata for 77% of Sci-Hub DOIs [@iLKgjFDu; @nnSxBFFr].
@@ -234,6 +269,7 @@ Sci-Hub requests were even more skewed towards recent articles, with only 5% tar
 Greshake's study did not incorporate a catalog of all scholarly literature.
 This study analyzes Sci-Hub's catalog in the context of all scholarly literature and thus assesses coverage.
 In other words, what percentage of articles in a given domain does Sci-Hub have in its repository?
+</details>
 
 ## Results {.page_break_before}
 
