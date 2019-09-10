@@ -4,7 +4,7 @@
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://greenelab.github.io/scihub-manuscript/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://greenelab.github.io/scihub-manuscript/manuscript.pdf)
-[![Build Status](https://travis-ci.org/greenelab/scihub-manuscript.svg?branch=master)](https://travis-ci.org/greenelab/scihub-manuscript)
+[![Build Status](https://travis-ci.com/greenelab/scihub-manuscript-es.svg?branch=master)](https://travis-ci.com/greenelab/scihub-manuscript-es)
 
 ## Manuscript description
 
@@ -23,7 +23,7 @@ Daniel S Himmelstein, Ariel Rodriguez Romero, Jacob G Levernier, Thomas Anthony 
 *eLife* (2018-03-01) <https://doi.org/ckcj>  
 DOI: [10.7554/elife.32822](https://doi.org/10.7554/elife.32822) · PMID: [29424689](https://www.ncbi.nlm.nih.gov/pubmed/29424689) · PMCID: [PMC5832410](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5832410)
 
-Please leave feedback on the study via [GitHub Issues](https://github.com/greenelab/scihub-manuscript/issues) or suggest changes by pull request.
+Please leave feedback on the study via [GitHub Issues](https://github.com/greenelab/scihub-manuscript-es/issues) or suggest changes by pull request.
 The analyses for the study reside in the separate [`greenelab/scihub`](https://github.com/greenelab/scihub) repository.
 
 ## Manubot
@@ -87,7 +87,7 @@ bash build/autobuild.sh
 
 ### Continuous Integration
 
-[![Build Status](https://travis-ci.org/greenelab/scihub-manuscript.svg?branch=master)](https://travis-ci.org/greenelab/scihub-manuscript)
+[![Build Status](https://travis-ci.com/greenelab/scihub-manuscript-es.svg?branch=master)](https://travis-ci.com/greenelab/scihub-manuscript-es)
 
 Whenever a pull request is opened, Travis CI will test whether the changes break the build process to generate a formatted manuscript.
 The build process aims to detect common errors, such as invalid citations.
@@ -112,7 +112,7 @@ We encourage users to openly license their manuscripts, which is the default as 
 [![License: CC0 1.0](https://img.shields.io/badge/License%20Parts-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Except when noted otherwise, the entirety of this repository is licensed under a CC BY 4.0 License ([`LICENSE.md`](LICENSE.md)), which allows reuse with attribution.
-Please attribute by linking to https://github.com/greenelab/scihub-manuscript.
+Please attribute by linking to https://github.com/greenelab/scihub-manuscript-es.
 
 Since CC BY is not ideal for code and data, certain repository components are also released under the CC0 1.0 public domain dedication ([`LICENSE-CC0.md`](LICENSE-CC0.md)).
 All files matched by the following glob patterns are dual licensed under CC BY 4.0 and CC0 1.0:
@@ -132,4 +132,4 @@ All other files are only available under CC BY 4.0, including:
 + `*.pdf`
 + `*.docx`
 
-Please open [an issue](https://github.com/greenelab/scihub-manuscript/issues) for any question related to licensing.
+Please open [an issue](https://github.com/greenelab/scihub-manuscript-es/issues) for any question related to licensing.
