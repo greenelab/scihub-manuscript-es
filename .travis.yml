@@ -7,7 +7,7 @@ branches:
   only:
     - master
 env:
-  - BUILD_DOCX=true
+  - BUILD_DOCX=false
 install:
   - source ci/install.sh
 script:
