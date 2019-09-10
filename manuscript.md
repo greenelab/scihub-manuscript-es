@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/742c29cc2f92b3c57e91b0d7f510d968dc3f1407/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/e0bffa192dff361945557e5be243e0a50b8f5971/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@742c29c](https://github.com/greenelab/scihub-manuscript-es/tree/742c29cc2f92b3c57e91b0d7f510d968dc3f1407)
+from [greenelab/scihub-manuscript-es@e0bffa1](https://github.com/greenelab/scihub-manuscript-es/tree/e0bffa192dff361945557e5be243e0a50b8f5971)
 on September 10, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>

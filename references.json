@@ -38,7 +38,7 @@
     },
     "type": "webpage",
     "id": "8zeVK2hX",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: doi:10.1000/182"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: doi:10.1000/182\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: 8zeVK2hX"
   },
   {
     "publisher": "Wiley",
@@ -556,7 +556,7 @@
     "volume": "551",
     "issue": "7680",
     "page": "399-400",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: doi:10.1038/d41586-017-05922-9"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: doi:10.1038/d41586-017-05922-9\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: u69TZrHD"
   },
   {
     "publisher": "Springer Nature",
@@ -1964,7 +1964,7 @@
     ],
     "type": "chapter",
     "id": "R9mR68Y4",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: doi:10.2139/ssrn.2616636"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: doi:10.2139/ssrn.2616636\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: R9mR68Y4"
   },
   {
     "URL": "https://doi.org/10.2139/ssrn.2816925",
@@ -1988,7 +1988,7 @@
     ],
     "type": "paper-conference",
     "id": "2TjdrEPp",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: doi:10.2139/ssrn.2816925"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: doi:10.2139/ssrn.2816925\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: 2TjdrEPp"
   },
   {
     "publisher": "JMIR Publications Inc.",
@@ -2113,7 +2113,7 @@
     "container-title": "BSI British Standards",
     "URL": "https://doi.org/10.3403/30177056",
     "id": "LS0mB1CD",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: doi:10.3403/30177056"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: doi:10.3403/30177056\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: LS0mB1CD"
   },
   {
     "publisher": "Pensoft Publishers",
@@ -2560,7 +2560,7 @@
     "publisher": "Figshare",
     "title": "Scimag catalogue of LibGen as of January 1st, 2014",
     "type": "dataset",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: doi:10.6084/m9.figshare.4906367.v1"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: doi:10.6084/m9.figshare.4906367.v1\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: GxWkjeN2"
   },
   {
     "type": "dataset",
@@ -2906,7 +2906,7 @@
       }
     ],
     "type": "webpage",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:http://alla-astakhova.ru/sci-hub/"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:http://alla-astakhova.ru/sci-hub/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: GLDH745f"
   },
   {
     "id": "SlcfPQQQ",
@@ -2991,7 +2991,7 @@
       }
     ],
     "type": "webpage",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:http://blog.impactstory.org/introducting-oadoi/"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:http://blog.impactstory.org/introducting-oadoi/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: GhX9kmM1"
   },
   {
     "id": "xn59qVAG",
@@ -3100,7 +3100,7 @@
       ]
     },
     "type": "webpage",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:http://foreignpolicy.com/2017/09/06/the-worlds-largest-free-scientific-resource-is-now-blocked-in-russia/"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:http://foreignpolicy.com/2017/09/06/the-worlds-largest-free-scientific-resource-is-now-blocked-in-russia/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: PxpGmdxJ"
   },
   {
     "URL": "http://lj.libraryjournal.com/2017/04/publishing/new-world-same-model-periodicals-price-survey-2017/",
@@ -3127,7 +3127,7 @@
         "family": "Henderson"
       }
     ],
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:http://lj.libraryjournal.com/2017/04/publishing/new-world-same-model-periodicals-price-survey-2017/"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:http://lj.libraryjournal.com/2017/04/publishing/new-world-same-model-periodicals-price-survey-2017/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: AgjD0tTw"
   },
   {
     "id": "bGUjzQuG",
@@ -3183,7 +3183,7 @@
         ]
       ]
     },
-    "note": "Date issued from press release at http://www.arl.org/news/arl-news/4246-arl-statistics-2014-2015-and-updated-trends-graphs-published\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:http://www.arl.org/storage/documents/expenditure-trends.pdf",
+    "note": "Date issued from press release at http://www.arl.org/news/arl-news/4246-arl-statistics-2014-2015-and-updated-trends-graphs-published\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:http://www.arl.org/storage/documents/expenditure-trends.pdf\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: PR3qioJB",
     "type": "graphic"
   },
   {
@@ -3207,7 +3207,7 @@
       ]
     },
     "type": "webpage",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:http://www.atlasobscura.com/articles/the-rise-of-illegal-pirate-libraries"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:http://www.atlasobscura.com/articles/the-rise-of-illegal-pirate-libraries\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: xkkXadRh"
   },
   {
     "URL": "http://www.attemptingelegance.com/?p=1765",
@@ -3230,12 +3230,12 @@
       ]
     },
     "type": "post-weblog",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:http://www.attemptingelegance.com/?p=1765"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:http://www.attemptingelegance.com/?p=1765\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: 9Uk1lLUa"
   },
   {
     "URL": "http://www.bib.umontreal.ca/communiques/20170504-DC-annulation-taylor-francis-va.htm",
     "id": "RkpJBRo6",
-    "title": "UdeM Libraries cancel Big Deal subscription to 2,231 periodical titles published by Taylor & Francis Group",
+    "title": "UdeM Libraries cancel Big Deal subscription to 2,231 periodical titles published by Taylor & Francis Group",
     "container-title": "Communiqués, Bibliothèques, Université de Montréal",
     "author": [
       {
@@ -3253,7 +3253,7 @@
       ]
     },
     "type": "webpage",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:http://www.bib.umontreal.ca/communiques/20170504-DC-annulation-taylor-francis-va.htm"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:http://www.bib.umontreal.ca/communiques/20170504-DC-annulation-taylor-francis-va.htm\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: RkpJBRo6"
   },
   {
     "id": "zvVsLNxf",
@@ -3319,7 +3319,7 @@
     },
     "container-title": "Life Extension Advocacy Foundation",
     "URL": "http://www.leafscience.org/alexandra-elbakyan/",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:http://www.leafscience.org/alexandra-elbakyan/"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:http://www.leafscience.org/alexandra-elbakyan/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: K6n65WB0"
   },
   {
     "URL": "http://www.theregister.co.uk/2017/11/23/scihubs_become_inactive_following_court_order/",
@@ -3342,7 +3342,7 @@
       ]
     },
     "type": "webpage",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:http://www.theregister.co.uk/2017/11/23/scihubs_become_inactive_following_court_order/"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:http://www.theregister.co.uk/2017/11/23/scihubs_become_inactive_following_court_order/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: pmrIfHRq"
   },
   {
     "id": "tSEdUvgK",
@@ -3399,7 +3399,7 @@
       }
     ],
     "type": "webpage",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://engineuring.wordpress.com/2016/02/24/why-sci-hub-is-the-true-solution-for-open-access-reply-to-criticism/"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://engineuring.wordpress.com/2016/02/24/why-sci-hub-is-the-true-solution-for-open-access-reply-to-criticism/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: DCZkZXsz"
   },
   {
     "id": "nZZjs6T6",
@@ -3422,7 +3422,7 @@
       }
     ],
     "type": "webpage",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://engineuring.wordpress.com/2016/03/11/sci-hub-is-a-goal-changing-the-system-is-a-method/"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://engineuring.wordpress.com/2016/03/11/sci-hub-is-a-goal-changing-the-system-is-a-method/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: nZZjs6T6"
   },
   {
     "id": "1H8x8f4Y7",
@@ -3445,7 +3445,7 @@
       }
     ],
     "type": "webpage",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://engineuring.wordpress.com/2017/07/02/some-facts-on-sci-hub-that-wikipedia-gets-wrong/"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://engineuring.wordpress.com/2017/07/02/some-facts-on-sci-hub-that-wikipedia-gets-wrong/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: 1H8x8f4Y7"
   },
   {
     "id": "17rORqxsI",
@@ -3550,7 +3550,7 @@
       }
     ],
     "type": "webpage",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://redd.it/2raea8"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://redd.it/2raea8\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: Hz2uRUJS"
   },
   {
     "id": "XI4kiPR4",
@@ -3574,7 +3574,7 @@
     "authority": "Eastern District Court of Virginia",
     "number": "1:17-cv-00726-LMB-JFA",
     "URL": "https://regmedia.co.uk/2017/11/07/sci_hub_block_order_short.pdf",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://regmedia.co.uk/2017/11/07/sci_hub_block_order_short.pdf",
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://regmedia.co.uk/2017/11/07/sci_hub_block_order_short.pdf\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: XI4kiPR4",
     "type": "entry"
   },
   {
@@ -3598,7 +3598,7 @@
       ]
     },
     "type": "webpage",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://scholarlykitchen.sspnet.org/2016/03/02/sci-hub-and-the-four-horsemen-of-the-internet/"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://scholarlykitchen.sspnet.org/2016/03/02/sci-hub-and-the-four-horsemen-of-the-internet/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: C3J6AH5V"
   },
   {
     "URL": "https://scholarlykitchen.sspnet.org/2016/06/21/two-step-authentication-finally-coming-to-a-university-near-you/",
@@ -3621,7 +3621,7 @@
       ]
     },
     "type": "webpage",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://scholarlykitchen.sspnet.org/2016/06/21/two-step-authentication-finally-coming-to-a-university-near-you/"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://scholarlykitchen.sspnet.org/2016/06/21/two-step-authentication-finally-coming-to-a-university-near-you/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: 2Vc1UrtB"
   },
   {
     "URL": "https://scholarlykitchen.sspnet.org/2017/09/05/sci-hub-moves-center-ecosystem/",
@@ -3644,7 +3644,7 @@
       ]
     },
     "type": "webpage",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://scholarlykitchen.sspnet.org/2017/09/05/sci-hub-moves-center-ecosystem/"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://scholarlykitchen.sspnet.org/2017/09/05/sci-hub-moves-center-ecosystem/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: YX9zq2ZF"
   },
   {
     "id": "9GOM6WEw",
@@ -3667,7 +3667,7 @@
       }
     ],
     "type": "webpage",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://torrentfreak.com/court-orders-shutdown-of-libgen-bookfi-and-sci-hub-151102/"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://torrentfreak.com/court-orders-shutdown-of-libgen-bookfi-and-sci-hub-151102/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: 9GOM6WEw"
   },
   {
     "id": "6ZrZVv6E",
@@ -3690,7 +3690,7 @@
       }
     ],
     "type": "webpage",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://torrentfreak.com/elsevier-cracks-down-on-pirated-scientific-articles-150609/"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://torrentfreak.com/elsevier-cracks-down-on-pirated-scientific-articles-150609/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: 6ZrZVv6E"
   },
   {
     "id": "17REO8hrA",
@@ -3713,7 +3713,7 @@
       }
     ],
     "type": "webpage",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://torrentfreak.com/new-lawsuit-demands-isp-blockades-against-pirate-site-sci-hub-170629/"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://torrentfreak.com/new-lawsuit-demands-isp-blockades-against-pirate-site-sci-hub-170629/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: 17REO8hrA"
   },
   {
     "id": "16k28dBmH",
@@ -3736,7 +3736,7 @@
       }
     ],
     "type": "webpage",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://torrentfreak.com/sci-hub-and-libgen-resurface-after-being-shut-down-151121/"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://torrentfreak.com/sci-hub-and-libgen-resurface-after-being-shut-down-151121/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: 16k28dBmH"
   },
   {
     "id": "jlNm94FU",
@@ -3759,7 +3759,7 @@
       }
     ],
     "type": "webpage",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://torrentfreak.com/sci-hub-ordered-to-pay-15-million-in-piracy-damages-170623/"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://torrentfreak.com/sci-hub-ordered-to-pay-15-million-in-piracy-damages-170623/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: jlNm94FU"
   },
   {
     "id": "j3Zl6sH5",
@@ -3791,7 +3791,7 @@
     "authority": "Southern District Court of New York",
     "number": "1:15-cv-04282-RWS",
     "URL": "https://www.courtlistener.com/docket/4355308/1/elsevier-inc-v-sci-hub/",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.courtlistener.com/docket/4355308/1/elsevier-inc-v-sci-hub/",
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.courtlistener.com/docket/4355308/1/elsevier-inc-v-sci-hub/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: j3Zl6sH5",
     "type": "entry"
   },
   {
@@ -3816,7 +3816,7 @@
     "authority": "Southern District Court of New York",
     "number": "1:15-cv-04282-RWS",
     "URL": "https://www.courtlistener.com/docket/4355308/50/elsevier-inc-v-sci-hub/",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.courtlistener.com/docket/4355308/50/elsevier-inc-v-sci-hub/",
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.courtlistener.com/docket/4355308/50/elsevier-inc-v-sci-hub/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: 1BUarVNFD",
     "type": "entry"
   },
   {
@@ -3841,7 +3841,7 @@
     "authority": "Southern District Court of New York",
     "number": "1:15-cv-04282-RWS",
     "URL": "https://www.courtlistener.com/docket/4355308/53/elsevier-inc-v-sci-hub/",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.courtlistener.com/docket/4355308/53/elsevier-inc-v-sci-hub/",
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.courtlistener.com/docket/4355308/53/elsevier-inc-v-sci-hub/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: BpCqwlYS",
     "type": "entry"
   },
   {
@@ -3874,7 +3874,7 @@
     "authority": "Southern District Court of New York",
     "number": "1:15-cv-04282-RWS",
     "URL": "https://www.courtlistener.com/docket/4355308/6/elsevier-inc-v-sci-hub/",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.courtlistener.com/docket/4355308/6/elsevier-inc-v-sci-hub/",
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.courtlistener.com/docket/4355308/6/elsevier-inc-v-sci-hub/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: 3noVfYfJ",
     "type": "entry"
   },
   {
@@ -3899,7 +3899,7 @@
     "authority": "Southern District Court of New York",
     "number": "1:15-cv-04282-RWS",
     "URL": "https://www.courtlistener.com/docket/4355308/8/23/elsevier-inc-v-sci-hub/",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.courtlistener.com/docket/4355308/8/23/elsevier-inc-v-sci-hub/",
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.courtlistener.com/docket/4355308/8/23/elsevier-inc-v-sci-hub/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: 1EZBJN9ej",
     "type": "entry"
   },
   {
@@ -3933,7 +3933,7 @@
     "authority": "Eastern District Court of Virginia",
     "number": "1:17-cv-00726-LMB-JFA",
     "URL": "https://www.courtlistener.com/docket/6146630/1/american-chemical-society-v-does-1-99/",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.courtlistener.com/docket/6146630/1/american-chemical-society-v-does-1-99/",
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.courtlistener.com/docket/6146630/1/american-chemical-society-v-does-1-99/\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: Ia7JSsBI",
     "type": "entry"
   },
   {
@@ -3958,7 +3958,7 @@
     "authority": "Southern District Court of New York",
     "number": "1:15-cv-04282-RWS",
     "URL": "https://www.documentcloud.org/documents/3878258-2017-06-21-Elsevier-Sci-Hub-Final-Judgement.html",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.documentcloud.org/documents/3878258-2017-06-21-Elsevier-Sci-Hub-Final-Judgement.html",
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.documentcloud.org/documents/3878258-2017-06-21-Elsevier-Sci-Hub-Final-Judgement.html\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: 17drH57zs",
     "type": "entry"
   },
   {
@@ -3981,7 +3981,7 @@
     },
     "abstract": "This report shows price fluctuations over the last five years for typical library lists invoiced in U.S. dollars. Data for each library type is based on a merged list of titles ordered by representative libraries purchasing in U.S. dollars.",
     "type": "report",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.ebscohost.com/promoMaterials/Five_Year_Journal_Price_Increase_History_EBSCO_2013-2017.pdf"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.ebscohost.com/promoMaterials/Five_Year_Journal_Price_Increase_History_EBSCO_2013-2017.pdf\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: 5e9PbvWY"
   },
   {
     "URL": "https://www.insidehighered.com/blogs/library-babel-fish/inevitably-open",
@@ -4004,7 +4004,7 @@
       ]
     },
     "type": "webpage",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.insidehighered.com/blogs/library-babel-fish/inevitably-open"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.insidehighered.com/blogs/library-babel-fish/inevitably-open\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: NIBjp6R1"
   },
   {
     "URL": "https://www.nytimes.com/2016/03/13/opinion/sunday/should-all-research-papers-be-free.html",
@@ -4028,7 +4028,7 @@
       }
     ],
     "type": "article-newspaper",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.nytimes.com/2016/03/13/opinion/sunday/should-all-research-papers-be-free.html"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.nytimes.com/2016/03/13/opinion/sunday/should-all-research-papers-be-free.html\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: tMPCGeuL"
   },
   {
     "id": "Bj1n4rGt",
@@ -4129,6 +4129,6 @@
       ]
     },
     "type": "webpage",
-    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.timeshighereducation.com/news/dutch-lose-access-oup-journals-subscription-standoff"
+    "note": "This CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references.json\nstandard_id: url:https://www.timeshighereducation.com/news/dutch-lose-access-oup-journals-subscription-standoff\nThis CSL JSON Item was loaded by Manubot v0.2.4 from a manual reference file.\nmanual_reference_filename: manual-references-2019-09-10.json\noriginal_id: hOBvHaW9"
   }
 ]
