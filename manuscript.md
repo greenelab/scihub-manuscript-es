@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/3977043d1a5e6601af2776e6dc0269bcc6daf401/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/98ac1ab51ea2877f7d7a91165d2295e99578c4c2/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@3977043](https://github.com/greenelab/scihub-manuscript-es/tree/3977043d1a5e6601af2776e6dc0269bcc6daf401)
+from [greenelab/scihub-manuscript-es@98ac1ab](https://github.com/greenelab/scihub-manuscript-es/tree/98ac1ab51ea2877f7d7a91165d2295e99578c4c2)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -394,14 +394,23 @@ All DOIs were lowercased to be congruent across datasets (see Methods).
 Sci-Hub's offerings included 56,246,220 articles from the corpus of scholarly literature, equating to 68.9% of all articles.
 </details>
 
-### Coverage by article type
+### Cobertura por tipo de artículo
 
+A cada artículo en la base de datos de Crossref se le asigna un tipo. 
+La Figura @fig:types muestra la cobertura por tipo de artículo. 
+La literatura académica consistía principalmente en artículos de revistas, para los cuales Sci-Hub tenía una cobertura del 77.8%. 
+La cobertura de Sci-Hub también fue fuerte para los 5 millones de artículos de actas de congresos en 79.7%. 
+La cobertura general se vio afectada por los 10 millones de capítulos de libros, donde la cobertura fue deficiente (14,2%). 
+Los restantes tipos de Crossref eran poco comunes y, por lo tanto, contribuyeron poco a la cobertura general.
+
+<details><summary>Inglés Original</summary>
 Each article in Crossref's database is assigned a type.
 Figure @fig:types shows coverage by article type.
 The scholarly literature consisted primarily of journal articles, for which Sci-Hub had 77.8% coverage.
 Sci-Hub's coverage was also strong for the 5 million proceedings articles at 79.7%.
 Overall coverage suffered from the 10 million book chapters, where coverage was poor (14.2%).
 The remaining Crossref types were uncommon, and hence contributed little to overall coverage.
+</details>
 
 ![
 **Coverage by article type.**
