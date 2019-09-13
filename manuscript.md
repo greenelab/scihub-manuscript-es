@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/043a0be755c9ff609630462b44f0101f38aa799b/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/06bd0d6ee97a374708ce04e3268063d22469a2c9/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@043a0be](https://github.com/greenelab/scihub-manuscript-es/tree/043a0be755c9ff609630462b44f0101f38aa799b)
+from [greenelab/scihub-manuscript-es@06bd0d6](https://github.com/greenelab/scihub-manuscript-es/tree/06bd0d6ee97a374708ce04e3268063d22469a2c9)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -139,6 +139,10 @@ For the first time, nearly all scholarly literature is available gratis to anyon
 
 
 ## Introduction {.page_break_before}
+
+Estimaciones recientes sugieren que los muros de pago en la web limitan el acceso a tres cuartos de la literatura académica [@eOi5pOoT; @MNHagzoO; @9JroGcRn]. 
+El movimiento de acceso abierto persevera por remediar esta situación [@PuP45jrB]. 
+Después de décadas de esfuerzo por parte de la comunidad de acceso abierto [@3k6GM8o4], casi el 50% de los artículos recientemente publicados están disponibles sin muros de pagos [@eOi5pOoT; @n1xo9kJ7; @NE5AByb0].
 
 <details><summary>Inglés Original</summary>
 Recent estimates suggest paywalls on the web limit access to three-quarters of scholarly literature [@eOi5pOoT; @MNHagzoO; @9JroGcRn].
