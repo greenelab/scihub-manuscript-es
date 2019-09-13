@@ -27,9 +27,9 @@ title: "Sci-Hub proporciona acceso a casi toda la literatura acad\xE9mica"
 
 Este estudio fue publicado en _eLife_ el 9 de febrero de 2018 en <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 Este manuscrito
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/dff05dce2753e6f0162d00ea2c660483ec955ff1/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/d784de5f51663167c08281380906f8ddf398c70f/))
 fue generado automaticamente
-de [greenelab/scihub-manuscript-es@dff05dc](https://github.com/greenelab/scihub-manuscript-es/tree/dff05dce2753e6f0162d00ea2c660483ec955ff1)
+de [greenelab/scihub-manuscript-es@d784de5](https://github.com/greenelab/scihub-manuscript-es/tree/d784de5f51663167c08281380906f8ddf398c70f)
 on September 13, 2019.
 Enviar comentarios sobre el manuscrito en [git.io/v7feh](https://git.io/v7feh) o en los análisis en [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -114,7 +114,7 @@ Enviar comentarios sobre el manuscrito en [git.io/v7feh](https://git.io/v7feh) o
   </small>
 
 
-### Translators
+### Traductores
 
 
 + **Humberto J. Debat**<br>
