@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/greenelab/scihub-manuscript-es/tree/gh-pages) branch hosts the contents of this directory at https://greenelab.github.io/scihub-manuscript-es/.
-The permalink for this webpage version is https://greenelab.github.io/scihub-manuscript-es/v/b83b14d5bc1dcfb5bc60eb6266117b9b10559ec0/.
+The permalink for this webpage version is https://greenelab.github.io/scihub-manuscript-es/v/5701f7e1841061ca0965736f965b60bf6f24590b/.
 To redirect to the permalink for the latest manuscript version at anytime, use the link https://greenelab.github.io/scihub-manuscript-es/v/freeze/.
 
 ## Files
@@ -36,4 +36,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`b83b14d5bc1dcfb5bc60eb6266117b9b10559ec0`](https://github.com/greenelab/scihub-manuscript-es/commit/b83b14d5bc1dcfb5bc60eb6266117b9b10559ec0).
+[`5701f7e1841061ca0965736f965b60bf6f24590b`](https://github.com/greenelab/scihub-manuscript-es/commit/5701f7e1841061ca0965736f965b60bf6f24590b).
