@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/3420178a2c9dba27b72b7ab9077618d68070ab22/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/b6ecfa2a2bf9e392679faeb75b248b101471475e/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@3420178](https://github.com/greenelab/scihub-manuscript-es/tree/3420178a2c9dba27b72b7ab9077618d68070ab22)
+from [greenelab/scihub-manuscript-es@b6ecfa2](https://github.com/greenelab/scihub-manuscript-es/tree/b6ecfa2a2bf9e392679faeb75b248b101471475e)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -596,19 +596,33 @@ La cobertura de artículos se muestra para todas las editoriales de Scopus con a
 Article coverage is shown for all Scopus publishers with at least 200,000 articles. 
 </details>
 
-### Coverage by year
+### Cobertura por año
 
+Luego, investigamos la cobertura en función del año en que se publicó un artículo (Figura @fig:years). 
+Para la mayoría de los años desde 1850, la cobertura anual es de entre 60 y 80%. 
+Sin embargo, hay una disminución en la cobertura, a partir de 2010, para los artículos publicados recientemente. 
+Por ejemplo, la cobertura de 2016 fue del 56.0% y la cobertura de 2017 (durante parte del año) fue del 45.3%. 
+Un factor es que Sci-Hub puede tardar un tiempo en recuperar los artículos después de su publicación, ya que muchos artículos no se descargan hasta que un usuario los solicite. 
+Otro posible factor es que algunas editoriales ahora están implementando medidas más agresivas para disuadir las descargas no autorizadas de artículos [@xn59qVAG; @d9g1ZhPz], lo que hace que los artículos recientes sean menos accesibles.
+
+<details><summary>Inglés Original</summary>
 Next, we investigated coverage based on the year an article was published (Figure @fig:years).
 For most years since 1850, annual coverage is between 60–80%.
 However, there is a dropoff in coverage, starting in 2010, for recently published articles.
 For example, 2016 coverage was 56.0% and 2017 coverage (for part of the year) was 45.3%.
 One factor is that it can take some time for Sci-Hub to retrieve articles following their publication, as many articles are not downloaded until requested by a user.
 Another possible factor is that some publishers are now deploying more aggressive measures to deter unauthorized article downloads [@xn59qVAG; @d9g1ZhPz], making recent articles less accessible.
+</details>
 
 ![
+**Cobertura de artículos por año de publicación.**
+La cobertura de artículos de Sci-Hub se muestra para cada año desde 1850.
+](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/coverage-by-year.svg){#fig:years width="100%"}
+
+<details><summary>Inglés Original</summary>
 **Coverage of articles by year published.**
 Sci-Hub's article coverage is shown for each year since 1850.
-](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/coverage-by-year.svg){#fig:years width="100%"}
+</details>
 
 In addition, the prevalence of open access has been increasing, while Sci-Hub preferentially covers articles in toll access journals.
 Figure @fig:years-by-access tracks yearly coverage separately for articles in toll and open access journals.
