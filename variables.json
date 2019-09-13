@@ -131,24 +131,23 @@
     "repo_slug": "greenelab/scihub-manuscript-es",
     "repo_owner": "greenelab",
     "repo_name": "scihub-manuscript-es",
-    "commit": "17b3879685d492bb791465c95e26007268d9e612",
-    "triggering_commit": "17b3879685d492bb791465c95e26007268d9e612",
-    "build_url": "https://travis-ci.com/greenelab/scihub-manuscript-es/builds/127573634",
-    "job_url": "https://travis-ci.com/greenelab/scihub-manuscript-es/jobs/235171580",
-    "manuscript_url": "https://greenelab.github.io/scihub-manuscript-es/v/17b3879685d492bb791465c95e26007268d9e612/"
+    "commit": "dff05dce2753e6f0162d00ea2c660483ec955ff1",
+    "triggering_commit": "dff05dce2753e6f0162d00ea2c660483ec955ff1",
+    "build_url": "https://travis-ci.com/greenelab/scihub-manuscript-es/builds/127593841",
+    "job_url": "https://travis-ci.com/greenelab/scihub-manuscript-es/jobs/235209557",
+    "manuscript_url": "https://greenelab.github.io/scihub-manuscript-es/v/dff05dce2753e6f0162d00ea2c660483ec955ff1/"
   },
   "translators": [
     {
-      "github": "translator",
-      "name": "placeholder translator",
-      "initials": "translator",
-      "orcid": "translator",
-      "twitter": "translator",
-      "email": "translator",
+      "github": "humbertodebat",
+      "name": "Humberto J. Debat",
+      "initials": "HJD",
+      "orcid": "0000-0003-3056-3739",
+      "twitter": "humbertodebat",
+      "email": "debat.humberto@inta.gob.ar",
       "affiliations": [
-        "affiliation here"
-      ],
-      "funders": "translator"
+        "National Institute of Agricultural Technology (IPAVE-CIAP-INTA), Argentina"
+      ]
     }
   ],
   "manuscript_stats": {

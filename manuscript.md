@@ -27,9 +27,9 @@ title: "Sci-Hub proporciona acceso a casi toda la literatura acad\xE9mica"
 
 Este estudio fue publicado en _eLife_ el 9 de febrero de 2018 en <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 Este manuscrito
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/17b3879685d492bb791465c95e26007268d9e612/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/dff05dce2753e6f0162d00ea2c660483ec955ff1/))
 fue generado automaticamente
-de [greenelab/scihub-manuscript-es@17b3879](https://github.com/greenelab/scihub-manuscript-es/tree/17b3879685d492bb791465c95e26007268d9e612)
+de [greenelab/scihub-manuscript-es@dff05dc](https://github.com/greenelab/scihub-manuscript-es/tree/dff05dce2753e6f0162d00ea2c660483ec955ff1)
 on September 13, 2019.
 Enviar comentarios sobre el manuscrito en [git.io/v7feh](https://git.io/v7feh) o en los análisis en [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -117,16 +117,15 @@ Enviar comentarios sobre el manuscrito en [git.io/v7feh](https://git.io/v7feh) o
 ### Translators
 
 
-+ **placeholder translator**<br>
++ **Humberto J. Debat**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [translator](https://orcid.org/translator)
+    [0000-0003-3056-3739](https://orcid.org/0000-0003-3056-3739)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [translator](https://github.com/translator)
+    [humbertodebat](https://github.com/humbertodebat)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [translator](https://twitter.com/translator)<br>
+    [humbertodebat](https://twitter.com/humbertodebat)<br>
   <small>
-     affiliation here
-     · Funded by translator
+     National Institute of Agricultural Technology (IPAVE-CIAP-INTA), Argentina
   </small>
 
 
