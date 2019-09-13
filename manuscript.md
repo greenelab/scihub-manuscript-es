@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/06bd0d6ee97a374708ce04e3268063d22469a2c9/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/02743e005edbdb86f64bffa1c6b5add9a2beb54a/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@06bd0d6](https://github.com/greenelab/scihub-manuscript-es/tree/06bd0d6ee97a374708ce04e3268063d22469a2c9)
+from [greenelab/scihub-manuscript-es@02743e0](https://github.com/greenelab/scihub-manuscript-es/tree/02743e005edbdb86f64bffa1c6b5add9a2beb54a)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -149,6 +149,13 @@ Recent estimates suggest paywalls on the web limit access to three-quarters of s
 The open access movement strives to remedy this situation [@PuP45jrB].
 After decades of effort by the open access community [@3k6GM8o4], nearly 50% of newly published articles are available without paywalls [@eOi5pOoT; @n1xo9kJ7; @NE5AByb0].
 </details>
+
+A pesar de estos avances, el acceso a la literatura académica sigue siendo un problema mundial imperioso. 
+Ante todo, el acceso generalizado a través de suscripciones sigue restringido a instituciones, como universidades o centros médicos. 
+Las instituciones más pequeñas o las del mundo en desarrollo a menudo tienen poco acceso a la literatura académica [@16BrOMxI0; @13ynzWtv8; @17wtGC2m7].
+Como resultado, solo un pequeño porcentaje de la población mundial ha podido acceder a gran parte de la literatura académica, a pesar de que la investigación subyacente a menudo se financiaba pública o filantrópicamente. 
+Para agravar el problema, las publicaciones han sido históricamente el principal, si no el único, producto del quehacer académico.
+Aunque los derechos de autor no se aplican a las ideas, las revistas aprovechan los derechos que cubren la prosa, las figuras y la composición tipográfica de un artículo para efectivamente poner detrás de un muro de pago su conocimiento.
 
 <details><summary>Inglés Original</summary>
 Despite these gains, access to scholarly literature remains a pressing global issue.
