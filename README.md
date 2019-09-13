@@ -42,8 +42,10 @@ Abra un [asunto](https://git.io/fhQHM) para preguntas relacionadas con el uso de
 
 Los directorios son los siguientes:
 
-+ [`content`](content) contiene la fuente del manuscrito, que incluye archivos “markdown”, así como entradas para citas y referencias.     Ver [`USAGE.md`](USAGE.md) para más información.
-+ [`output`](output) contiene los resultados (archivos generados) de Manubot, incluidos los manuscritos resultantes. No debe editar       estos archivos manualmente, ya que se sobrescribirán.
++ [`content`](content) contiene la fuente del manuscrito, que incluye archivos “markdown”, así como entradas para citas y referencias.
+Ver [`USAGE.md`](USAGE.md) para más información.
++ [`output`](output) contiene los resultados (archivos generados) de Manubot, incluidos los manuscritos resultantes. No debe editar
+estos archivos manualmente, ya que se sobrescribirán.
 + [`webpage`](webpage) es un directorio destinado a ser presentado como una página web estática para ver el manuscrito en HTML.
 + [`build`](build) contiene comandos y herramientas para construir el manuscrito.
 + [`ci`](ci) contiene archivos necesarios para la implementación a través de la integración continua. Para la configuración de CI, vea     [`.travis.yml`](.travis.yml).
