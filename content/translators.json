@@ -1,14 +1,12 @@
 [
   {
-     "github": "translator",
-     "name": "placeholder translator",
-     "initials": "translator",
-     "orcid": "translator",
-     "twitter": "translator",
-     "email": "translator",
+     "github": "humbertodebat",
+     "name": "Humberto J. Debat",
+     "initials": "HJD",
+     "orcid": "0000-0003-3056-3739",
+     "twitter": "humbertodebat",
+     "email": "debat.humberto@inta.gob.ar",
      "affiliations": [
-        "affiliation here"
-     ],
-     "funders": "translator"
-  }
+        "National Institute of Agricultural Technology (IPAVE-CIAP-INTA), Argentina"
+     ]  }
 ]
