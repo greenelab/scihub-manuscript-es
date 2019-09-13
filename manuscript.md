@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/83c0dc003f6338b09440f3d3c154b1e69b2d9139/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/5cbba75f240139955300c893484a788de1555dd9/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@83c0dc0](https://github.com/greenelab/scihub-manuscript-es/tree/83c0dc003f6338b09440f3d3c154b1e69b2d9139)
+from [greenelab/scihub-manuscript-es@5cbba75](https://github.com/greenelab/scihub-manuscript-es/tree/5cbba75f240139955300c893484a788de1555dd9)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -1316,8 +1316,18 @@ For the purposes of this study, these DOIs represent the entirety of the scholar
 </details>
 
 
-### Scopus-derived catalog of journals
+### Catálogo de revistas derivado de Scopus
 
+Antes de junio de 2017, la API de Crossref tenía un [problema](https://github.com/CrossRef/rest-api-doc/issues/179) que impedía descargar exhaustivamente los metadatos de las revistas. 
+Por lo tanto, confiamos en la base de datos [Scopus](https://www.scopus.com) para catalogar revistas académicas. 
+Scopus utiliza "título" para referirse a todo lo siguiente: revistas revisadas por pares, revistas especializadas, series de libros y actas de congresos. 
+Para este estudio, nos referimos a todos estos tipos como revistas. 
+Desde el lanzamiento de datos de octubre de 2017 de los títulos de Scopus, extrajimos metadatos para 72,502 títulos, incluidos sus nombres, ISSN, áreas temáticas, editorial, estado de acceso abierto y estado de actividad. 
+La información de la editorial estaba mal estandarizada, por ejemplo, tanto "ICE Publishing" como "ICE Publishing Ltd." estuvieron presentes, por lo que las variantes de nombre se [combinaron](https://github.com/dhimmel/scopus/pull/3) con [OpenRefine](https://github.com/OpenRefine/OpenRefine). 
+Esta versión de Scopus determinó el estado de acceso abierto según si una revista estaba registrada en [DOAJ](https://doaj.org/) o [ROAD](http://road.issn.org/) antes de abril de 2017. 
+Tenga en cuenta que Scopus no indexa todas las revistas académicas [@QyHSyHo3], que es una de las razones por las cuales el 30.5% de los artículos (24,853,345 DOI) no eran atribuibles a una revista.
+
+<details><summary>Inglés Original</summary>
 Prior to June 2017, the Crossref API had an [issue](https://github.com/CrossRef/rest-api-doc/issues/179) that prevented exhaustively downloading journal metadata.
 Therefore, we instead relied on the [Scopus](https://www.scopus.com) database to catalog scholarly journals.
 Scopus uses "title" to refer to all of the following: peer-reviewed journals, trade journals, book series, and conference proceedings.
@@ -1326,21 +1336,47 @@ From the October 2017 data release of Scopus titles, we extracted metadata for 7
 The publisher information was poorly standardized — e.g. both "ICE Publishing" and "ICE Publishing Ltd." were present — so name variants were [combined](https://github.com/dhimmel/scopus/pull/3) using [OpenRefine](https://github.com/OpenRefine/OpenRefine).
 This version of Scopus determined open access status by whether a journal was registered in [DOAJ](https://doaj.org/) or [ROAD](http://road.issn.org/) as of April 2017.
 Note that Scopus does not index every scholarly journal [@QyHSyHo3], which is one reason why 30.5% of articles (24,853,345 DOIs) were not attributable to a journal.
+</details>
 
+Hemos ordenado las métricas de revistas de Scopus, que evalúan las publicaciones en función del número de citas que reciben sus artículos. 
+Específicamente, extrajimos un CiteScore 2015 para 22,256 títulos, 17,336 de los cuales se incluyeron en nuestro catálogo de revistas.
+Finalmente, consultamos la API de Elsevier para [recuperar](https://github.com/dhimmel/scopus/issues/2) las URL de la página de inicio para 20,992 títulos de Scopus. 
+Consulte [dhimmel/scopus](https://github.com/dhimmel/scopus) para ver el código fuente y los datos relacionados con Scopus.
+
+<details><summary>Inglés Original</summary>
 We tidied the Scopus Journal Metrics, which evaluate journals based on the number of citations their articles receive.
 Specifically, we extracted a 2015 CiteScore for 22,256 titles, 17,336 of which were included in our journal catalog.
 Finally, we queried the Elsevier API to [retrieve](https://github.com/dhimmel/scopus/issues/2) homepage URLs for 20,992 Scopus titles.
 See [dhimmel/scopus](https://github.com/dhimmel/scopus) for the source code and data relating to Scopus.
+</details>
 
-### LibGen scimag's catalog of articles
+### Catálogo de artículos de LibGen scimag
 
+Library Genesis (LibGen) es una biblioteca oculta que comprende principalmente copias ilícitas de libros y artículos académicos. 
+En comparación con Sci-Hub, las operaciones de LibGen son más opacas, ya que los contribuyentes mantienen un perfil bajo y no contactan con periodistas [@1H8x8f4Y7]. 
+LibGen alberga varias colecciones, incluidos repositorios distintos para libros y libros de texto científicos, libros de ficción y cómics [@18KKRwlN6]. 
+En 2012, LibGen agregó la base de datos "scimag" para la literatura académica. 
+Desde la primavera de 2013, Sci-Hub ha subido artículos que obtiene a scimag LibGen [@1H8x8f4Y7]. 
+A finales de 2014, Sci-Hub bifurcó LibGen scimag y comenzó a administrar su propio repositorio de artículos.
+
+<details><summary>Inglés Original</summary>
 Library Genesis (LibGen) is a shadow library primarily comprising illicit copies of academic books and articles.
 Compared to Sci-Hub, the operations of LibGen are more opaque, as the contributors maintain a low profile and do not contact journalists [@1H8x8f4Y7].
 LibGen hosts several collections, including distinct repositories for scientific books and textbooks, fiction books, and comics [@18KKRwlN6].
 In 2012, LibGen added the "scimag" database for scholarly literature.
 Since the spring of 2013, Sci-Hub has uploaded articles that it obtains to LibGen scimag [@1H8x8f4Y7].
 At the end of 2014, Sci-Hub forked LibGen scimag and began managing its own distinct article repository.
+</details>
 
+Descargamos la base de datos de metadatos de scimag LibGen el 7 de abril de 2017 a través de SQL. 
+[Importamos](https://github.com/greenelab/scihub/issues/2) el volcado de SQL a MySQL y luego exportamos la tabla de scimag a un archivo TSV [@Th4EY2wD]. 
+Cada fila de esta tabla corresponde a un artículo en LibGen, identificado por su DOI. 
+El campo `TimeAdded` aparentemente indica cuándo se cargó la publicación en LibGen. 
+Después de eliminar los registros que les faltaba `TimeAdded`, quedaron 64,195,940 DOI. 
+56,205,763 (87.6%) de los DOI estaban en nuestro catálogo de literatura académica derivado de Crossref. 
+El 12.4% de los DOI de scimag de LibGen que faltan en nuestro catálogo Crossref probablemente comprenda DOI incorrectos, DOI cuya disponibilidad de metadatos sea posterior a nuestra exportación Crossref, DOI de otras agencias de registro y DOI para tipos de publicación excluidos.
+
+<details><summary>Inglés Original</summary>
 We downloaded the LibGen scimag metadata database on April 7, 2017 as a SQL dump.
 We [imported](https://github.com/greenelab/scihub/issues/2) the SQL dump into MySQL, and then exported the scimag table to a TSV file [@Th4EY2wD].
 Each row of this table corresponds to an article in LibGen, identified by its DOI.
@@ -1348,7 +1384,20 @@ The `TimeAdded` field apparently indicates when the publication was uploaded to 
 After removing records missing `TimeAdded`, 64,195,940 DOIs remained.
 56,205,763 (87.6%) of the DOIs were in our Crossref-derived catalog of scholarly literature.
 The 12.4% of LibGen scimag DOIs missing from our Crossref catalog likely comprise incorrect DOIs, DOIs whose metadata availability postdates our Crossref export, DOIs from other Registration Agencies, and DOIs for excluded publication types.
+</details>
 
+A continuación, exploramos el tamaño acumulativo de scimag LibGen a lo largo del tiempo de acuerdo con el campo `TimeAdded` (Figura @fig:libgen-size). 
+Sin embargo, cuando comparamos nuestro gráfico con uno generado a partir del volcado de SQL de la base de datos de scimag de LibGen el 1 de enero de 2014 [@18KKRwlN6; @GxWkjeN2], notamos una gran discrepancia. 
+El análisis anterior identificó un total de 22,829,088 DOI, mientras que encontramos solo 233,707 DOI al 1 de enero de 2014. 
+Presumimos que la discrepancia surgió porque `TimeAdded` indica la fecha de modificación en lugar de la de creación. 
+Específicamente, cuando se cambia un artículo en la base de datos, el registro de la base de datos para ese DOI se reemplaza por completo. 
+Por lo tanto, el valor `TimeAdded` se sobrescribe de manera efectiva en cada actualización de un registro. 
+Desafortunadamente, muchas preguntas de investigación requieren la fecha de la primera adición. 
+Por ejemplo, los análisis de tiempo de retraso (el tiempo desde la publicación del estudio hasta la carga de LibGen) pueden no ser confiables. 
+Por lo tanto, no informamos sobre estos hallazgos en este manuscrito. 
+En su lugar, proporcionamos la Figura @fig:libgen-lag como un análisis de ejemplo que sería altamente informativo si hubiera fechas de creación confiables disponibles.
+
+<details><summary>Inglés Original</summary>
 Next, we explored the cumulative size of LibGen scimag over time according to the `TimeAdded` field (Figure @fig:libgen-size).
 However, when we compared our plot to one generated from the LibGen scimag database SQL dump on January 1, 2014 [@18KKRwlN6; @GxWkjeN2], we noticed a major discrepancy.
 The earlier analysis identified a total of 22,829,088 DOIs, whereas we found only 233,707 DOIs as of January 1, 2014.
@@ -1359,20 +1408,39 @@ Unfortunately, many research questions require the date first added.
 For example, lag-time analyses (the time from study publication to LibGen upload) may be unreliable.
 Therefore, we do not report on these findings in this manuscript.
 Instead, we provide Figure @fig:libgen-lag as an example analysis that would be highly informative were reliable creation dates available.
+</details>
+
+Además, los hallazgos de algunos estudios previos pueden requerir un escrutinio adicional. 
+Por ejemplo, Cabanac escribe [@18KKRwlN6]: 
+“El crecimiento de LibGen sugiere que se ha beneficiado de algunas adiciones aisladas, pero masivas, de artículos científicos a su caché. 
+Por ejemplo, el 71% de la colección de artículos se cargó en 13 días a razón de más de 100,000 artículos por día. 
+Es probable que tales colecciones masivas de artículos resulten de fugas bibliográficas [@8mg1a0YE], pero uno solo puede especular sobre esto debido a la fuente indocumentada de cada archivo almacenado en caché en LibGen”. 
+Si bien estamos de acuerdo en que este es el caso más probable, se necesita confirmación de que la adición masiva de artículos no se corresponde simplemente con las actualizaciones masivas en lugar de las cargas iniciales masivas.
+
+<details><summary>Inglés Original</summary>
 In addition, findings from some previous studies may require additional scrutiny.
 For example, Cabanac writes [@18KKRwlN6]:
 "The growth of LibGen suggests that it has benefited from a few isolated, but massive, additions of scientific articles to its cache.
 For instance, 71% of the article collection was uploaded in 13 days at a rate of 100,000+ articles a day.
 It is likely that such massive collections of articles result from biblioleaks [@8mg1a0YE], but one can only speculate about this because of the undocumented source of each file cached at LibGen."
 While we agree this is most likely the case, confirmation is needed that the bulk addition of articles does not simply correspond to bulk updates rather than bulk initial uploads.
+</details>
 
 ![
+**Número de artículos en LibGen scimag a lo largo del tiempo.**
+La figura muestra el número de artículos en el scimag LibGen, de acuerdo con su campo `TimeAdded`, para dos volcados de bases de datos.
+El número de artículos agregados por día para el volcado de la base de datos LibGen del 1 de enero de 2014 fue [proporcionado](https://github.com/greenelab/scihub/issues/8#issuecomment-296719787) por Cabanac y corresponde a la Figura 1 de @18KKRwlN6.
+Observe la gran discrepancia por la cual los artículos del volcado de la base de datos del 7 de abril de 2017 se agregaron en fechas posteriores. 
+En consecuencia, planteamos la hipótesis de que el campo `TimeAdded` se reemplaza con la modificación, lo que hace imposible evaluar la fecha de la primera carga.
+](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/libgen-cumulative-works.svg){#fig:libgen-size width="4in" .white}
+
+<details><summary>Inglés Original</summary>
 **Number of articles in LibGen scimag over time.**
 The figure shows the number of articles in LibGen scimag, according to its `TimeAdded` field, for two database dumps.
 The number of articles added per day for the January 1, 2014 LibGen database dump was [provided](https://github.com/greenelab/scihub/issues/8#issuecomment-296719787) by Cabanac and corresponds to Figure 1 of @18KKRwlN6.
 Notice the major discrepancy whereby articles from the April 7, 2017 database dump were added at later dates.
 Accordingly, we hypothesize that the `TimeAdded` field is replaced upon modification, making it impossible to assess date of first upload.
-](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/libgen-cumulative-works.svg){#fig:libgen-size width="4in" .white}
+</details>
 
 ### Sci-Hub's catalog of articles
 
