@@ -1,5 +1,5 @@
 {
-  "date": "September 10, 2019",
+  "date": "September 13, 2019",
   "authors": [
     {
       "github": "dhimmel",
@@ -131,11 +131,11 @@
     "repo_slug": "greenelab/scihub-manuscript-es",
     "repo_owner": "greenelab",
     "repo_name": "scihub-manuscript-es",
-    "commit": "3a667f27c909db1916a912a13956969ed497080e",
-    "triggering_commit": "3a667f27c909db1916a912a13956969ed497080e",
-    "build_url": "https://travis-ci.com/greenelab/scihub-manuscript-es/builds/126881745",
-    "job_url": "https://travis-ci.com/greenelab/scihub-manuscript-es/jobs/233753873",
-    "manuscript_url": "https://greenelab.github.io/scihub-manuscript-es/v/3a667f27c909db1916a912a13956969ed497080e/"
+    "commit": "043a0be755c9ff609630462b44f0101f38aa799b",
+    "triggering_commit": "043a0be755c9ff609630462b44f0101f38aa799b",
+    "build_url": "https://travis-ci.com/greenelab/scihub-manuscript-es/builds/127390240",
+    "job_url": "https://travis-ci.com/greenelab/scihub-manuscript-es/jobs/234876067",
+    "manuscript_url": "https://greenelab.github.io/scihub-manuscript-es/v/043a0be755c9ff609630462b44f0101f38aa799b/"
   },
   "manuscript_stats": {
     "reference_counts": {
@@ -145,6 +145,6 @@
       "url": 46,
       "total": 130
     },
-    "word_count": 10719
+    "word_count": 10937
   }
 }

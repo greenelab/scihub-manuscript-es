@@ -7,7 +7,7 @@ author-meta:
 - Stephen Reid McLaughlin
 - Bastian Greshake Tzovaras
 - Casey S. Greene
-date-meta: '2019-09-10'
+date-meta: '2019-09-13'
 keywords:
 - Sci-Hub
 - publishing
@@ -27,10 +27,10 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/3a667f27c909db1916a912a13956969ed497080e/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/043a0be755c9ff609630462b44f0101f38aa799b/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@3a667f2](https://github.com/greenelab/scihub-manuscript-es/tree/3a667f27c909db1916a912a13956969ed497080e)
-on September 10, 2019.
+from [greenelab/scihub-manuscript-es@043a0be](https://github.com/greenelab/scihub-manuscript-es/tree/043a0be755c9ff609630462b44f0101f38aa799b)
+on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
 
@@ -116,6 +116,15 @@ Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on 
 
 
 ## Abstract {.page_break_before}
+
+El sitio web Sci-Hub permite a los usuarios descargar versiones en PDF de artículos académicos, incluidos muchos artículos disponibles detrás de muros de pagos en el sitio original de su revista. 
+Sci-Hub ha crecido rápidamente desde su creación en 2011, pero el alcance de su cobertura no ha sido claro. 
+Aquí informamos que, en marzo de 2017, la base de datos de Sci-Hub contiene el 68.9% de los 81.6 millones de artículos académicos registrados en Crossref y el 85.1% de los artículos publicados en revistas de acceso a través de pago. 
+Detectamos que la cobertura varía según la disciplina y el editor, y que Sci-Hub cubre preferentemente contenido popular en muros de pago.
+Para estos artículos disponibles a través de pago, encontramos que Sci-Hub ofrece una mayor cobertura que la Universidad de Pennsylvania, una importante Universidad con foco en investigación en los Estados Unidos. 
+El acceso abierto verde a los artículos con acceso de pago a través de servicios lícitos, por otro lado, sigue siendo bastante limitado.
+Nuestro navegador interactivo en <https://greenelab.github.io/scihub> permite a los usuarios explorar estos hallazgos con más detalle. 
+Por primera vez, casi toda la literatura académica está disponible de forma gratuita para cualquier persona con conexión a Internet, lo que sugiere que el modelo de negocio de acceso través de pago puede volverse insostenible.
 
 <details><summary>Inglés Original</summary>
 The website Sci-Hub enables users to download PDF versions of scholarly articles, including many articles that are paywalled at their journal's site.
