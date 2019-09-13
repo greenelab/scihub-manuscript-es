@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/a45f500055bb73356c34be321db6ab9dc1f6516a/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/b83b14d5bc1dcfb5bc60eb6266117b9b10559ec0/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@a45f500](https://github.com/greenelab/scihub-manuscript-es/tree/a45f500055bb73356c34be321db6ab9dc1f6516a)
+from [greenelab/scihub-manuscript-es@b83b14d](https://github.com/greenelab/scihub-manuscript-es/tree/b83b14d5bc1dcfb5bc60eb6266117b9b10559ec0)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -115,7 +115,7 @@ Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on 
 
 
 
-## Abstract {.page_break_before}
+## Resumen {.page_break_before}
 
 El sitio web Sci-Hub permite a los usuarios descargar versiones en PDF de artículos académicos, incluidos muchos artículos disponibles detrás de muros de pagos en el sitio original de su revista. 
 Sci-Hub ha crecido rápidamente desde su creación en 2011, pero el alcance de su cobertura no ha sido claro. 
