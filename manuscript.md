@@ -25,16 +25,16 @@ title: "Sci-Hub proporciona acceso a casi toda la literatura acad\xE9mica"
 
 
 
-This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
-This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/6701c94775235be35369fad7290f9a6acacb18ff/))
-was automatically generated
-from [greenelab/scihub-manuscript-es@6701c94](https://github.com/greenelab/scihub-manuscript-es/tree/6701c94775235be35369fad7290f9a6acacb18ff)
+Este estudio fue publicado en _eLife_ el 9 de febrero de 2018 en <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
+Este manuscrito
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/17b3879685d492bb791465c95e26007268d9e612/))
+fue generado automaticamente
+de [greenelab/scihub-manuscript-es@17b3879](https://github.com/greenelab/scihub-manuscript-es/tree/17b3879685d492bb791465c95e26007268d9e612)
 on September 13, 2019.
-Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
+Enviar comentarios sobre el manuscrito en [git.io/v7feh](https://git.io/v7feh) o en los análisis en [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
 
-## Authors
+## Autores
 
 
 
