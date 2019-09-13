@@ -131,11 +131,11 @@
     "repo_slug": "greenelab/scihub-manuscript-es",
     "repo_owner": "greenelab",
     "repo_name": "scihub-manuscript-es",
-    "commit": "6f0fa205f0a0192121700ad4b219babd46fd407e",
-    "triggering_commit": "6f0fa205f0a0192121700ad4b219babd46fd407e",
-    "build_url": "https://travis-ci.com/greenelab/scihub-manuscript-es/builds/127554192",
-    "job_url": "https://travis-ci.com/greenelab/scihub-manuscript-es/jobs/235126685",
-    "manuscript_url": "https://greenelab.github.io/scihub-manuscript-es/v/6f0fa205f0a0192121700ad4b219babd46fd407e/"
+    "commit": "b26767358a74d3d1bd007eeecc8890175e1c4f18",
+    "triggering_commit": "b26767358a74d3d1bd007eeecc8890175e1c4f18",
+    "build_url": "https://travis-ci.com/greenelab/scihub-manuscript-es/builds/127568010",
+    "job_url": "https://travis-ci.com/greenelab/scihub-manuscript-es/jobs/235160296",
+    "manuscript_url": "https://greenelab.github.io/scihub-manuscript-es/v/b26767358a74d3d1bd007eeecc8890175e1c4f18/"
   },
   "translators": [
     {

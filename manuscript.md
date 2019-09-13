@@ -19,17 +19,17 @@ keywords:
 - open-data
 - copyright
 - paywalls
-lang: en-US
-title: Sci-Hub provides access to nearly all scholarly literature
+lang: es-ES
+title: "Sci-Hub proporciona acceso a casi toda la literatura acad\xE9mica"
 ...
 
 
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/6f0fa205f0a0192121700ad4b219babd46fd407e/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/b26767358a74d3d1bd007eeecc8890175e1c4f18/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@6f0fa20](https://github.com/greenelab/scihub-manuscript-es/tree/6f0fa205f0a0192121700ad4b219babd46fd407e)
+from [greenelab/scihub-manuscript-es@b267673](https://github.com/greenelab/scihub-manuscript-es/tree/b26767358a74d3d1bd007eeecc8890175e1c4f18)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
