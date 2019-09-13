@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/fdd2a630170a862c54968089d10add44fbca8d6e/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/31d33f79b2eec50c14ac765295d04ad937c5c0de/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@fdd2a63](https://github.com/greenelab/scihub-manuscript-es/tree/fdd2a630170a862c54968089d10add44fbca8d6e)
+from [greenelab/scihub-manuscript-es@31d33f7](https://github.com/greenelab/scihub-manuscript-es/tree/31d33f79b2eec50c14ac765295d04ad937c5c0de)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -889,12 +889,31 @@ However, if only considering the 6,264,257 citations to articles in toll access 
 On the other hand, for the 866,115 citations to articles in open access journals, Sci-Hub covered only 62.3%.
 </details>
 
-### Sci-Hub access logs
+### Registros de acceso de Sci-Hub
 
+Sci-Hub publicó acceso a artículos desde los registros de su servidor, que abarcan 165 días desde septiembre de 2015 hasta febrero de 2016 [@RsNXQAG2; @t4r48QpO; @kQFQ8EaO]. 
+Después del procesamiento, los registros contenían 26,984,851 eventos de acceso. 
+Por lo tanto, Sci-Hub proporcionó acceso a un promedio de 164,000 solicitudes válidas por día a fines de 2015 y principios de 2016.
+
+<details><summary>Inglés Original</summary>
 Sci-Hub released article access records from its server logs, covering 165 days from September 2015 through February 2016 [@RsNXQAG2; @t4r48QpO; @kQFQ8EaO].
 After processing, the logs contained 26,984,851 access events.
 Hence, Sci-Hub provided access to an average of 164,000 valid requests per day in late 2015–early 2016.
+</details>
 
+En la primera versión de este estudio [@11cb5HXoY], tratamos por error los eventos de registro como solicitudes en lugar de descargas. 
+Afortunadamente, Sci-Hub revisó la preprint en una [serie de tweets](https://github.com/greenelab/scihub-manuscript/issues/17) y señaló el error, indicando que "en los registros de acceso de Sci-Hub publicados el año anterior, todas las solicitudes son solicitudes resueltas, es decir, el usuario descargó PDF con éxito con ese DOI ... las solicitudes no resueltas son No guardado". 
+Curiosamente, sin embargo, 198,600 eventos de acceso de los registros apuntaban a DOI que no estaban en el catálogo posterior de DOI de Sci-Hub. 
+El 99.1% de estos eventos, correspondientes a los DOI registrados a los que se accedió a pesar de estar más tarde ausentes de Sci-Hub, fueron para capítulos de libros. 
+Tras una investigación adicional, [identificamos](https://github.com/greenelab/scihub-manuscript/issues/20#issuecomment-327854780) varios DOI en esta categoría que Sci-Hub redirigió a los registros de libros de LibGen a partir de septiembre de 2017. 
+Las páginas de destino de LibGen eran para los libros completos, que contenían los capítulos consultados, y eran parte del libro de la colección LibGen (no scimag). 
+La explicación de que Sci-Hub externaliza el acceso de algunos libros a LibGen (y registra las solicitudes a las que accedió) se corrobora con la declaración de Elbakyan de que [@1H8x8f4Y7]: 
+“Actualmente, Sci-Hub no almacena libros, ya que los usuarios de libros son redirigidos a LibGen, pero no para artículos de investigación. 
+En el futuro, también quiero expandir el repositorio de Sci-Hub y agregar libros también". 
+Sin embargo, el catálogo de Sci-Hub contiene el 72.4% de los 510,760 capítulos de libros distintos a los que se accedió de acuerdo con los registros. 
+Por lo tanto, capítulo por capítulo, Sci-Hub ya posee muchos de los libros académicos solicitados disponibles en LibGen.
+
+<details><summary>Inglés Original</summary>
 In the first version of this study [@11cb5HXoY], we mistakenly treated the log events as requests rather than downloads.
 Fortunately, Sci-Hub reviewed the preprint in a [series of tweets](https://github.com/greenelab/scihub-manuscript/issues/17), and pointed out the error, stating "in Sci-Hub access logs released previous year, all requests are resolved requests, i.e. user successfully downloaded PDF with that DOI … unresolved requests are not saved".
 Interestingly however, 198,600 access events from the logs pointed to DOIs that were not in Sci-Hub's subsequent DOI catalog.
@@ -906,7 +925,17 @@ The explanation that Sci-Hub outsources some book access to LibGen (and logged s
 In future, I also want to expand the Sci-Hub repository and add books too."
 Nonetheless, Sci-Hub's catalog contains 72.4% of the 510,760 distinct book chapters that were accessed according to the logs.
 Therefore, on a chapter-by-chapter basis, Sci-Hub does already possess many of the requested scholarly books available from LibGen.
+</details>
 
+Calculamos métricas a nivel de revista basadas en descargas promedio de artículos. 
+La métrica de "visitantes" evalúa el número promedio de direcciones IP que accedieron a cada artículo publicado por una revista durante los 20 meses anteriores a septiembre de 2015 (la fecha de inicio de los registros de Sci-Hub). 
+En total, los artículos de las revistas de acceso a través de muro de pago promediaron 1.30 visitantes, mientras que los artículos de las revistas de acceso abierto promediaron 0.25 visitantes. 
+La Figura {@fig:citescore}B muestra que los artículos de revistas altamente citadas fueron visitados con mucha más frecuencia en promedio. 
+Los artículos en las revistas de acceso a través de muro de pago menos citados promediaron casi cero visitantes, en comparación con aproximadamente 15 visitantes para las revistas más citadas. 
+Además, la Figura {@fig:citescore}B muestra que los artículos en las revistas de acceso a través de muro de pago reciben muchas más visitas que los de las publicaciones de acceso abierto, incluso después de tener en cuenta el impacto de la revista. 
+Una limitación del uso de este análisis para juzgar los patrones de uso de Sci-Hub es que no sabemos en qué medida ciertas categorías de artículos se resolvieron (y, por lo tanto, se registraron) a diferentes velocidades.
+
+<details><summary>Inglés Original</summary>
 We computed journal-level metrics based on average article downloads.
 The "visitors" metric assesses the average number of IP addresses that accessed each article published by a journal during the 20 months preceding September 2015 (the start date of the Sci-Hub logs).
 In aggregate, articles from toll access journals averaged 1.30 visitors, whereas articles from open access journals averaged 0.25 visitors.
@@ -914,8 +943,21 @@ Figure {@fig:citescore}B shows that articles from highly cited journals were vis
 Articles in the least cited toll access journals averaged almost zero visitors, compared to approximately 15 visitors for the most cited journals.
 In addition, Figure {@fig:citescore}B shows that articles in toll access journals received many times more visitors than those in open access journals, even after accounting for journal impact.
 One limitation of using this analysis to judge Sci-Hub's usage patterns is that we do not know to what extent certain categories of articles were resolved (and thus logged) at different rates.
+</details>
 
 ![
+**Relación con el impacto de la revista.**
+**A)**
+Cobertura promedio para revistas divididas en deciles CiteScore 2015. 
+El rango de CiteScore que define cada decil se muestra mediante las etiquetas del eje x. 
+Las marcas representan el 99% de los intervalos de confianza de la media. 
+Este es el único análisis en el que la "Cobertura de Sci-Hub" se refiere a los promedios de nivel de revista en lugar de los promedios de nivel de artículo.
+**B)**
+La asociación entre CiteScore 2015 y el promedio de visitantes por artículo se traza para revistas de acceso abierto y de pago. 
+Las curvas muestran la banda de confianza del 95% de un modelo aditivo generalizado.
+](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/citescore.svg){#fig:citescore width="100%"}
+
+<details><summary>Inglés Original</summary>
 **Relation to journal impact.**
 **A)**
 Average coverage for journals divided into 2015 CiteScore deciles.
@@ -925,7 +967,7 @@ This is the only analysis where "Sci-Hub Coverage" refers to journal-level rathe
 **B)**
 The association between 2015 CiteScore and average visitors per article is plotted for open and toll access journals.
 Curves show the 95% confidence band from a Generalized Additive Model.
-](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/citescore.svg){#fig:citescore width="100%"}
+</details>
 
 ## Discussion {.page_break_before}
 
