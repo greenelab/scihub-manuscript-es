@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/56313e8811d392cbc12f4fc6f9cc822a5aef5d2b/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/3420178a2c9dba27b72b7ab9077618d68070ab22/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@56313e8](https://github.com/greenelab/scihub-manuscript-es/tree/56313e8811d392cbc12f4fc6f9cc822a5aef5d2b)
+from [greenelab/scihub-manuscript-es@3420178](https://github.com/greenelab/scihub-manuscript-es/tree/3420178a2c9dba27b72b7ab9077618d68070ab22)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -498,6 +498,15 @@ Each bin spans 2.5 percentage points.
 For example, the top-left bar indicates Sci-Hub's coverage is between 0.0%–2.5% for 3,892 journals.
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/coverage-distributions.svg){#fig:distributions width="5in"}
 
+A continuación, exploramos la cobertura de artículos de acuerdo con los atributos de la revista (Figura @fig:attributes). 
+Sci-Hub cubrió el 83.1% de los 56,755,671 artículos atribuibles a una revista. 
+Los artículos de revistas inactivas tuvieron una cobertura ligeramente menor que las revistas activas (77.3% versus 84.1%).
+Sorprendentemente, la cobertura fue sustancialmente mayor para artículos de acceso con muro de pago en lugar de revistas en acceso abierto (85.1% versus 48.3%). 
+La cobertura varió según el área temática, con la cobertura más alta en química con 93.0% y la cobertura más baja en informática con 76.3%. 
+En consecuencia, ninguna disciplina tuvo cobertura por debajo del 75%. 
+Consulte la Figura @fig:countries para la cobertura según el país de publicación de una revista.
+
+<details><summary>Inglés Original</summary>
 Next, we explored article coverage according to journal attributes (Figure @fig:attributes).
 Sci-Hub covered 83.1% of the 56,755,671 articles that were attributable to a journal.
 Articles from inactive journals had slightly lower coverage than active journals (77.3% versus 84.1%).
@@ -505,22 +514,41 @@ Strikingly, coverage was substantially higher for articles from toll rather than
 Coverage did vary by subject area, with the highest coverage in chemistry at 93.0% and the lowest coverage in computer science at 76.3%.
 Accordingly, no discipline had coverage below 75%.
 See Figure @fig:countries for coverage according to a journal's country of publication.
+</details>
 
 ![
-**Coverage by journal attributes.**
-Each bar represents Sci-Hub's coverage of articles in journals with the specified attributes, according to Scopus.
-Active refers to whether a journal still publishes articles.
-Open refers to whether a journal is open access.
-Subject area refers to a journal's discipline.
-Note that some journals are assigned to multiple subject areas.
-As an example, we identified 588 neuroscience journals, which contained 1.8 million articles.
-Sci-Hub possessed 87.7% of these articles.
+**Cobertura por atributos de la revista.**
+Cada barra representa la cobertura de artículos de Sci-Hub en revistas con los atributos especificados, según Scopus. 
+Activo se refiere a si una revista aún publica artículos.
+Abierto se refiere a si una revista es en acceso abierto.
+El área temática se refiere a la disciplina de una revista.
+Tenga en cuenta que algunas revistas están asignadas a múltiples áreas temáticas.
+Como ejemplo, identificamos 588 revistas de neurociencia, que contenían 1,8 millones de artículos.
+Sci-Hub poseía el 87.7% de estos artículos.
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/coverage.svg){#fig:attributes width="100%"}
 
+<details><summary>Inglés Original</summary>
+**Coverage by journal attributes.**
+Each bar represents Sci-Hub’s coverage of articles in journals with the specified attributes, according to Scopus. 
+Active refers to whether a journal still publishes articles. 
+Open refers to whether a journal is open access. 
+Subject area refers to a journal’s discipline. 
+Note that some journals are assigned to multiple subject areas. 
+As an example, we identified 588 neuroscience journals, which contained 1.8 million articles. 
+Sci-Hub possessed 87.7% of these articles.
+</details>
+
+También evaluamos si la cobertura de la revista variaba según el impacto de la revista. 
+Evaluamos el impacto de la revista usando el CiteScore 2015, que mide el número promedio de citas que los artículos publicados en 2012-2014 recibieron durante 2015. 
+Las revistas altamente citadas tendieron a tener una mayor cobertura en Sci-Hub (Figura {@fig:citescore}A). 
+Las 1.734 revistas menos citadas (decil más bajo) tuvieron una cobertura promedio de 40.9%, mientras que las 1.733 revistas más citadas (decil superior) promediaron una cobertura de 90.0%.
+
+<details><summary>Inglés Original</summary>
 We also evaluated whether journal coverage varied by journal impact.
 We assessed journal impact using the 2015 CiteScore, which measures the average number of citations that articles published in 2012–2014 received during 2015.
 Highly cited journals tended to have higher coverage in Sci-Hub (Figure {@fig:citescore}A).
 The 1,734 least cited journals (lowest decile) had 40.9% coverage on average, whereas the 1,733 most cited journals (top decile) averaged 90.0% coverage.
+</details>
 
 ### Cobertura por editorial
 
@@ -594,32 +622,63 @@ Upon further [investigation](https://github.com/greenelab/scihub/blob/e35cc7b0d3
 Sci-Hub currently redirects requests for these delisted journals to the publisher's site, unless it already possesses the article, in which case it serves the PDF.
 These findings suggest Sci-Hub prioritizes circumventing access barriers rather than creating a single repository containing every scholarly article.
 
-### Coverage by category of access status
+### Cobertura por categoría de estado de acceso
 
+En los análisis anteriores, el estado de acceso abierto se determinó a nivel de revista según Scopus. 
+Esta categoría de acceso se conoce con frecuencia como acceso abierto "dorado", lo que significa que todos los artículos de la revista están disponibles de forma gratuita. 
+Sin embargo, los artículos en las revistas de acceso a través de muro de pago también pueden estar disponibles sin cargo. 
+Adoptando la terminología del reciente estudio "State of OA" [@eOi5pOoT], los artículos en revistas de acceso gratuito pueden estar disponibles de forma gratuita por parte del editor bajo una licencia que permite su uso (denominado "híbrido") o con todos los derechos reservados (denominado "bronce"). 
+Alternativamente, los artículos "verdes" se pagan en el sitio de la editorial, pero están disponibles de forma gratuita desde un repositorio de acceso abierto (por ejemplo, un servidor de preprints o postprints, excluyendo Sci-Hub y las redes sociales académicas).
+
+<details><summary>Inglés Original</summary>
 In the previous analyses, open access status was determined at the journal level according to Scopus.
 This category of access is frequently referred to as "gold" open access, meaning that all articles from the journal are available gratis.
 However, articles in toll access journals may also be available without charge.
 Adopting the terminology from the recent "State of OA" study [@eOi5pOoT], articles in toll access journals may be available gratis from the publisher under a license that permits use (termed "hybrid") or with all rights reserved (termed "bronze").
 Alternatively, "green" articles are paywalled on the publisher's site, but available gratis from an open access repository (e.g. a pre- or post-print server, excluding Sci-Hub and academic social networks).
+</details>
 
+El estudio del estado de OA determinó el estado de acceso de 290,120 artículos utilizando la herramienta oaDOI (ver [Methods](#state-of-oa-datasets)). 
+La Figura @fig:oadoi muestra la cobertura de Sci-Hub para cada categoría de estado de acceso. 
+En línea con nuestros hallazgos en todo el catálogo de artículos de Crossref donde Sci-Hub cubrió el 49.1% de los artículos en revistas en acceso abierto, la cobertura de Sci-Hub de artículos “oro” en el conjunto de datos del Estado de OA fue del 49.2%. 
+La cobertura de los 165.340 artículos cerrados fue del 90,4%.
+
+<details><summary>Inglés Original</summary>
 The State of OA study determined the access status of 290,120 articles using the oaDOI utility (see [Methods](#state-of-oa-datasets)).
 Figure @fig:oadoi shows Sci-Hub's coverage for each category of access status.
 In line with our findings on the entire Crossref article catalog where Sci-Hub covered 49.1% of articles in open access journals, Sci-Hub's coverage of gold articles in the State of OA dataset was 49.2%.
 Coverage of the 165,340 closed articles was 90.4%.
+</details>
 
 ![
+**Cobertura de Sci-Hub por estado de acceso oaDOI.**
+Utilizando entradas de oaDOI del estudio del estado de OA, mostramos la cobertura de Sci-Hub en cada estado de acceso. 
+En gris se indican artículos que no fueron accesibles a través de oaDOI (referidos como cerrados). 
+Aquí, las tres colecciones del Estado de OA se combinaron, produciendo 290,120 artículos. 
+La Figura @fig:oadoi-large muestra la cobertura por separado para las tres colecciones del Estado de AA.
+](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/state-of-oa-colors-small.svg){#fig:oadoi width="60%"}
+
+<details><summary>Inglés Original</summary>
 **Sci-Hub's coverage by oaDOI access status.**
 Using oaDOI calls from the State of OA study, we show Sci-Hub's coverage on each access status.
 Gray indicates articles that were not accessible via oaDOI (referred to as closed).
 Here, all three State of OA collections were combined, yielding 290,120 articles.
 Figure @fig:oadoi-large shows coverage separately for the three State of OA collections.
-](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/state-of-oa-colors-small.svg){#fig:oadoi width="60%"}
+</details>
 
+La cobertura de Sci-Hub fue mayor para los artículos cerrados y verdes que para los artículos híbridos o de bronce. 
+Además, la cobertura de Sci-Hub de artículos cerrados fue similar a su cobertura de artículos verdes (Figura @fig:oadoi). 
+Estos hallazgos sugieren un patrón histórico en el que los usuarios recurren a Sci-Hub después de encontrarse con un muro de pago, pero antes de verificar el acceso verde en oaDOI o en un motor de búsqueda. 
+Como tal, Sci-Hub recibe solicitudes de artículos verdes, lo que hace que recupere artículos verdes a una velocidad similar a los artículos cerrados. 
+Sin embargo, los artículos híbridos y de bronce, que están disponibles de forma gratuita en sus editores, se solicitan y, por lo tanto, se recuperan a una tasa menor.
+
+<details><summary>Inglés Original</summary>
 Sci-Hub's coverage was higher for closed and green articles than for hybrid or bronze articles.
 Furthermore, Sci-Hub's coverage of closed articles was similar to its coverage of green articles (Figure @fig:oadoi).
 These findings suggest a historical pattern where users resort to Sci-Hub after encountering a paywall but before checking oaDOI or a search engine for green access.
 As such, Sci-Hub receives requests for green articles, triggering it to retrieve green articles at a similar rate to closed articles.
 However, hybrid and bronze articles, which are available gratis from their publisher, are requested and thus retrieved at a lower rate.
+</details>
 
 ### Coverage of Penn Libraries
 
