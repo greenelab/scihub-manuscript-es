@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/4c69392aa188fac7ba9b4d9156daab96237a057c/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/55181d3d41f26bae3f69cbcc8c071c2c2228b2c6/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@4c69392](https://github.com/greenelab/scihub-manuscript-es/tree/4c69392aa188fac7ba9b4d9156daab96237a057c)
+from [greenelab/scihub-manuscript-es@55181d3](https://github.com/greenelab/scihub-manuscript-es/tree/55181d3d41f26bae3f69cbcc8c071c2c2228b2c6)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -205,6 +205,13 @@ Sci-Hub brands itself as "the first pirate website in the world to provide mass 
 The website, started in 2011, is run by Alexandra Elbakyan, a graduate student and native of Kazakhstan who now resides in Russia [@JVjciZPv; @sR4uAYxB].
 Elbakyan describes herself as motivated to provide universal access to knowledge [@nZZjs6T6; @1BUarVNFD; @K6n65WB0].
 </details>
+
+Sci-Hub no se limita solo a contenido con licencia abierta. 
+En cambio, recupera y distribuye literatura académica sin tener en cuenta los derechos de autor. 
+Los lectores deben tener en cuenta que, en muchas jurisdicciones, el uso de Sci-Hub puede constituir una infracción de derechos de autor. 
+**Los usuarios de Sci-Hub lo hacen bajo su propio riesgo. 
+Este estudio no endorsa el uso de Sci-Hub, y sus autores y editores no aceptan ninguna responsabilidad en nombre de los lectores. 
+Existe la posibilidad de que los usuarios de Sci-Hub, especialmente aquellos que no usan servicios de mejora de la privacidad como Tor, puedan tener su historial de uso revelado y enfrentar consecuencias legales o de reputación.**
 
 <details><summary>Inglés Original</summary>
 Sci-Hub does not restrict itself to only openly licensed content.
