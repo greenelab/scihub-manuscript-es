@@ -17,6 +17,7 @@ manubot process \
   --content-directory=content \
   --output-directory=output \
   --cache-directory=ci/cache \
+  --template-variables=translators=content/translators.json \
   --log-level=INFO
 
 # pandoc settings
