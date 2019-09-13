@@ -1,4 +1,4 @@
-# Manuscript source for the Sci-Hub Coverage Study
+# Fuente del manuscrito: “Sci-Hub provides access to nearly all scholarly literature” traducido al Español
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -6,7 +6,7 @@
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://greenelab.github.io/scihub-manuscript/manuscript.pdf)
 [![Build Status](https://travis-ci.com/greenelab/scihub-manuscript-es.svg?branch=master)](https://travis-ci.com/greenelab/scihub-manuscript-es)
 
-## Manuscript description
+## Descripción del manuscrito
 
 <!-- usage note: edit this section.
 
@@ -14,94 +14,93 @@ This repository is a template manuscript (a.k.a. rootstock).
 Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
 -->
 
-This is the manuscript source for the study titled **Sci-Hub provides access to nearly all scholarly literature**.
-This study was [published](https://doi.org/10.7554/eLife.32822 "eLife Research Feature Article") in _eLife_ and, before that, as a [preprint](https://doi.org/10.7287/peerj.preprints.3100 "PeerJ Preprint").
-The published manuscript can be cited as:
+Esta es la fuente del manuscrito para el estudio titulado **Sci-Hub proporciona acceso a casi toda la literatura académica**. 
+Este estudio fue [publicado](https://doi.org/10.7554/eLife.32822 "eLife Research Feature Article") en _eLife_ y, antes de eso, como [preprint](https://doi.org/10.7287/peerj.preprints.3100 "PeerJ Preprint"). 
+El manuscrito publicado puede citarse como:
 
 > **Sci-Hub provides access to nearly all scholarly literature**  
 Daniel S Himmelstein, Ariel Rodriguez Romero, Jacob G Levernier, Thomas Anthony Munro, Stephen Reid McLaughlin, Bastian Greshake Tzovaras, Casey S Greene  
 *eLife* (2018-03-01) <https://doi.org/ckcj>  
 DOI: [10.7554/elife.32822](https://doi.org/10.7554/elife.32822) · PMID: [29424689](https://www.ncbi.nlm.nih.gov/pubmed/29424689) · PMCID: [PMC5832410](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5832410)
 
-Please leave feedback on the study via [GitHub Issues](https://github.com/greenelab/scihub-manuscript-es/issues) or suggest changes by pull request.
-The analyses for the study reside in the separate [`greenelab/scihub`](https://github.com/greenelab/scihub) repository.
+Por favor, deje comentarios sobre el estudio a través de [GitHub Issues](https://github.com/greenelab/scihub-manuscript-es/issues) o sugiera cambios por solicitud de extracción. 
+Los análisis para el estudio residen en el repositorio [`greenelab/scihub`](https://github.com/greenelab/scihub) separado de este.
+
 
 ## Manubot
 
 <!-- usage note: do not edit this section -->
 
-Manubot is a system for writing scholarly manuscripts via GitHub.
-Manubot automates citations and references, versions manuscripts using git, and enables collaborative writing via GitHub.
-An [overview manuscript](https://greenelab.github.io/meta-review/ "Open collaborative writing with Manubot") presents the benefits of collaborative writing with Manubot and its unique features.
-The [rootstock repository](https://git.io/fhQH1) is a general purpose template for creating new Manubot instances, as detailed in [`SETUP.md`](SETUP.md).
-See [`USAGE.md`](USAGE.md) for documentation how to write a manuscript.
+Manubot es un sistema para escribir manuscritos académicos a través de GitHub. 
+Manubot automatiza citas y referencias, versiones de manuscritos usando git y permite la escritura colaborativa a través de GitHub. 
+Un [manuscrito general](https://greenelab.github.io/meta-review/ "Open collaborative writing with Manubot") presenta los beneficios de la escritura colaborativa con Manubot y sus características únicas. 
+El [repositorio original](https://git.io/fhQH1) es una plantilla de propósito general para crear nuevas instancias de Manubot, como se detalla en [`SETUP.md`](SETUP.md). 
+Consulte [`USAGE.md`](USAGE.md) para obtener documentación sobre cómo escribir un manuscrito.
+Abra un [asunto](https://git.io/fhQHM) para preguntas relacionadas con el uso de Manubot, informes de errores o consultas generales.
 
-Please open [an issue](https://git.io/fhQHM) for questions related to Manubot usage, bug reports, or general inquiries.
+### Repositorio de directorios y archivos
 
-### Repository directories & files
+Los directorios son los siguientes:
 
-The directories are as follows:
++ [`content`](content) contiene la fuente del manuscrito, que incluye archivos “markdown”, así como entradas para citas y referencias.
+Ver [`USAGE.md`](USAGE.md) para más información.
++ [`output`](output) contiene los resultados (archivos generados) de Manubot, incluidos los manuscritos resultantes. No debe editar
+estos archivos manualmente, ya que se sobrescribirán.
++ [`webpage`](webpage) es un directorio destinado a ser presentado como una página web estática para ver el manuscrito en HTML.
++ [`build`](build) contiene comandos y herramientas para construir el manuscrito.
++ [`ci`](ci) contiene archivos necesarios para la implementación a través de la integración continua. Para la configuración de CI, vea     [`.travis.yml`](.travis.yml).
 
-+ [`content`](content) contains the manuscript source, which includes markdown files as well as inputs for citations and references.
-  See [`USAGE.md`](USAGE.md) for more information.
-+ [`output`](output) contains the outputs (generated files) from Manubot including the resulting manuscripts.
-  You should not edit these files manually, because they will get overwritten.
-+ [`webpage`](webpage) is a directory meant to be rendered as a static webpage for viewing the HTML manuscript.
-+ [`build`](build) contains commands and tools for building the manuscript.
-+ [`ci`](ci) contains files necessary for deployment via continuous integration.
-  For the CI configuration, see [`.travis.yml`](.travis.yml).
+### Ejecución local
 
-### Local execution
-
-The easiest way to run Manubot is to use [continuous integration](#continuous-integration) to rebuild the manuscript when the content changes.
-If you want to build a Manubot manuscript locally, install the [conda](https://conda.io) environment as described in [`build`](build).
-Then, you can build the manuscript on POSIX systems by running the following commands from this root directory.
+La forma más fácil de ejecutar Manubot es utilizar la [integración continua](#continuous-integration) para reconstruir el manuscrito cuando cambia el contenido. 
+Si desea construir un manuscrito Manubot localmente, instale el entorno [conda](https://conda.io) como se describe en [`build`](build).
+Luego, puede construir el manuscrito en sistemas POSIX ejecutando los siguientes comandos desde este directorio raíz.
 
 ```sh
-# Activate the manubot conda environment (assumes conda version >= 4.4)
+# Activar el entorno manubot conda (asume que la versión conda > = 4.4)
 conda activate manubot
 
-# Build the manuscript, saving outputs to the output directory
+# Construya el manuscrito, guardando los resultados en el directorio de resultados
 bash build/build.sh
 
-# At this point, the HTML & PDF outputs will have been created. The remaining
-# commands are for serving the webpage to view the HTML manuscript locally.
-# This is required to view local images in the HTML output.
+# En este punto, se habrán creado las salidas HTML y PDF. Los restantes
+# comandos son para servir la página web para ver el manuscrito HTML         
+# localmente. Esto es necesario para ver imágenes locales en la salida HTML.
 
-# Configure the webpage directory
+# Configurar el directorio de la página web
 python build/webpage.py
 
-# You can now open the manuscript webpage/index.html in a web browser.
-# Alternatively, open a local webserver at http://localhost:8000/ with the
-# following commands.
+# Ahora puede abrir la página web del manuscrito/index.html en un navegador  
+# web. Alternativamente, abra un servidor web local en http://localhost:8000/ 
+# con los siguientes comandos.
 cd webpage
 python -m http.server
 ```
 
-Sometimes it's helpful to monitor the content directory and automatically rebuild the manuscript when a change is detected.
-The following command, while running, will trigger both the `build.sh` and `webpage.py` scripts upon content changes:
+A veces es útil monitorear el directorio de contenido y reconstruir automáticamente el manuscrito cuando se detecta un cambio. 
+El siguiente comando, mientras se ejecuta, activará los scripts `build.sh` y `webpage.py` ante cambios de contenido:
 
 ```sh
 bash build/autobuild.sh
 ```
 
-### Continuous Integration
+### Integración continua
 
 [![Build Status](https://travis-ci.com/greenelab/scihub-manuscript-es.svg?branch=master)](https://travis-ci.com/greenelab/scihub-manuscript-es)
 
-Whenever a pull request is opened, Travis CI will test whether the changes break the build process to generate a formatted manuscript.
-The build process aims to detect common errors, such as invalid citations.
-If your pull request build fails, see the Travis CI logs for the cause of failure and revise your pull request accordingly.
+Cada vez que se abre una solicitud de extracción, Travis CI probará si los cambios interrumpen el proceso de creación para generar un manuscrito formateado. 
+El proceso de compilación tiene como objetivo detectar errores comunes, como citas no válidas. 
+Si la compilación de su solicitud de extracción falla, consulte los registros de Travis CI para ver la causa del error y revise, en consecuencia, su solicitud de extracción.
 
-When a commit to the `master` branch occurs (for example, when a pull request is merged), Travis CI builds the manuscript and writes the results to the [`gh-pages`](https://github.com/manubot/rootstock/tree/gh-pages) and [`output`](https://github.com/manubot/rootstock/tree/output) branches.
-The `gh-pages` branch uses [GitHub Pages](https://pages.github.com/) to host the following URLs:
+Cuando se produce un “commit” con la rama `maestra` (por ejemplo, cuando se fusiona una solicitud de extracción), Travis CI crea el manuscrito y escribe los resultados en las ramas [`gh-pages`](https://github.com/manubot/rootstock/tree/gh-pages) y [`output`](https://github.com/manubot/rootstock/tree/output). 
+La rama `gh-pages` usa [GitHub Pages](https://pages.github.com/) para alojar las siguientes URL:
 
-+ **HTML manuscript** at https://greenelab.github.io/scihub-manuscript/
-+ **PDF manuscript** at https://greenelab.github.io/scihub-manuscript/manuscript.pdf
++ **Manuscrito HTML** en https://greenelab.github.io/scihub-manuscript/
++ **Manuscrito PDF** en https://greenelab.github.io/scihub-manuscript/manuscript.pdf
 
-For continuous integration configuration details, see [`.travis.yml`](.travis.yml).
+Para obtener detalles de configuración de integración continua, consulte [`.travis.yml`](.travis.yml).
 
-## License
+## Licencia
 
 <!--
 usage note: edit this section to change the license of your manuscript or source code changes to this repository.
@@ -111,11 +110,11 @@ We encourage users to openly license their manuscripts, which is the default as 
 [![License: CC BY 4.0](https://img.shields.io/badge/License%20All-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 [![License: CC0 1.0](https://img.shields.io/badge/License%20Parts-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-Except when noted otherwise, the entirety of this repository is licensed under a CC BY 4.0 License ([`LICENSE.md`](LICENSE.md)), which allows reuse with attribution.
-Please attribute by linking to https://github.com/greenelab/scihub-manuscript-es.
+Excepto cuando se indique lo contrario, la totalidad de este repositorio está licenciado bajo una Licencia CC BY 4.0 ([`LICENSE.md`](LICENSE.md)), que permite su reutilización con atribución. 
+Atribúyelo por favor mediante un enlace a https://github.com/greenelab/scihub-manuscript-es.
 
-Since CC BY is not ideal for code and data, certain repository components are also released under the CC0 1.0 public domain dedication ([`LICENSE-CC0.md`](LICENSE-CC0.md)).
-All files matched by the following glob patterns are dual licensed under CC BY 4.0 and CC0 1.0:
+Dado que CC BY no es ideal para el código y los datos, ciertos componentes del repositorio también se publican bajo la dedicación de dominio público CC0 1.0 ([`LICENSE-CC0.md`](LICENSE-CC0.md)). 
+Todos los archivos que coinciden con los siguientes patrones globales tienen doble licencia bajo CC BY 4.0 y CC0 1.0:
 
 + `*.sh`
 + `*.py`
@@ -125,11 +124,11 @@ All files matched by the following glob patterns are dual licensed under CC BY 4
 + `*.tsv`
 + `.gitignore`
 
-All other files are only available under CC BY 4.0, including:
+Todos los demás archivos solo están disponibles en CC BY 4.0, incluidos:
 
 + `*.md`
 + `*.html`
 + `*.pdf`
 + `*.docx`
 
-Please open [an issue](https://github.com/greenelab/scihub-manuscript-es/issues) for any question related to licensing.
+Por favor abra un [asunto](https://github.com/greenelab/scihub-manuscript-es/issues) para cualquier pregunta relacionada con la licencia.
