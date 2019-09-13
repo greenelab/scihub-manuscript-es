@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/02743e005edbdb86f64bffa1c6b5add9a2beb54a/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/acc25d044c0354feff88ab53f326b764fb1e5d36/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@02743e0](https://github.com/greenelab/scihub-manuscript-es/tree/02743e005edbdb86f64bffa1c6b5add9a2beb54a)
+from [greenelab/scihub-manuscript-es@acc25d0](https://github.com/greenelab/scihub-manuscript-es/tree/acc25d044c0354feff88ab53f326b764fb1e5d36)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -165,6 +165,12 @@ As a result, only a tiny percentage of the world's population has been able to a
 Compounding the problem is that publications have historically been the primary, if not sole, output of scholarship.
 Although copyright does not apply to ideas, journals leverage the copyright covering an article's prose, figures, and typesetting to effectively paywall its knowledge.
 </details>
+
+Como cada artículo es único, las bibliotecas no pueden sustituir una suscripción de revista por otra sin privar a sus usuarios de un acceso potencialmente crucial. 
+Como resultado, el precio de las suscripciones a revistas ha crecido a un ritmo más rápido que la inflación durante varias décadas [@PR3qioJB], lo que lleva a una "crisis de publicaciones periódicas" siempre presente que ha llevado los presupuestos de las bibliotecas a su límite al tiempo que desvía fondos de otros servicios [@18zoY6Ild]. 
+Mientras tanto, el sistema de publicaciones ha tendido hacia el oligopolio [@OGMKPsIG], con cláusulas de confidencialidad que ofuscan la información de precios entre los suscriptores [@7oTLbigW], mientras que los editores se benefician enormemente [@bGUjzQuG; @D9un8JYo; @xDn5v2f3]. 
+Los aumentos de precios han persistido durante la última década [@AgjD0tTw; @12rSJsEKK; @GWp5Zx0w]. 
+Por ejemplo, EBSCO estima que los costos de suscripción por revista aumentaron en un 25% entre 2013 y 2017, con una suscripción anual a una revista para bibliotecas de investigación en un promedio de $1,396 [@5e9PbvWY].
 
 <details><summary>Inglés Original</summary>
 Since each article is unique, libraries cannot substitute one journal subscription for another without depriving their users of potentially crucial access.
