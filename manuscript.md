@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/98ac1ab51ea2877f7d7a91165d2295e99578c4c2/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/c171d78e15af19be19198dc4a948cfb870f49df2/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@98ac1ab](https://github.com/greenelab/scihub-manuscript-es/tree/98ac1ab51ea2877f7d7a91165d2295e99578c4c2)
+from [greenelab/scihub-manuscript-es@c171d78](https://github.com/greenelab/scihub-manuscript-es/tree/c171d78e15af19be19198dc4a948cfb870f49df2)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -462,12 +462,21 @@ The total number of articles published by each journal is noted in the Crossref 
 The table provides the number (Sci-Hub column) and percentage (Coverage column) of these articles that are in Sci-Hub's repository.
 {#tbl:top-ten-journals}
 
+En general, la cobertura de una revista era o casi completa o casi nula (Figura 3). 
+Como resultado, relativamente pocas revistas tenían una cobertura entre el 5 y el 75%. 
+En los extremos, 2,574 revistas tenían cobertura cero en Sci-Hub, mientras que 2,095 revistas tenían cobertura perfecta. 
+De las revistas de cobertura cero, 22.2% estaban inactivas y 27.9% tenían acceso abierto. 
+De las revistas de cobertura perfecta, el 81,6% estaban inactivas y el 2,0% tenían acceso abierto. 
+Por lo tanto, las revistas inactivas de acceso con muro de pago constituyen la mayor parte de las revistas de cobertura perfecta.
+
+<details><summary>Inglés Original</summary>
 In general, a journal's coverage was either nearly complete or near zero (Figure @fig:distributions).
 As a result, relatively few journals had coverage between 5–75%.
 At the extremes, 2,574 journals had zero coverage in Sci-Hub, whereas 2,095 journals had perfect coverage.
 Of zero-coverage journals, 22.2% were inactive, and 27.9% were open access.
 Of perfect-coverage journals, 81.6% were inactive, and 2.0% were open access.
 Hence, inactive, toll access journals make up the bulk of perfect-coverage journals.
+</details>
 
 ![
 **Distributions of journal & publisher coverages.**
