@@ -131,12 +131,26 @@
     "repo_slug": "greenelab/scihub-manuscript-es",
     "repo_owner": "greenelab",
     "repo_name": "scihub-manuscript-es",
-    "commit": "5701f7e1841061ca0965736f965b60bf6f24590b",
-    "triggering_commit": "5701f7e1841061ca0965736f965b60bf6f24590b",
-    "build_url": "https://travis-ci.com/greenelab/scihub-manuscript-es/builds/127427720",
-    "job_url": "https://travis-ci.com/greenelab/scihub-manuscript-es/jobs/234960167",
-    "manuscript_url": "https://greenelab.github.io/scihub-manuscript-es/v/5701f7e1841061ca0965736f965b60bf6f24590b/"
+    "commit": "6f0fa205f0a0192121700ad4b219babd46fd407e",
+    "triggering_commit": "6f0fa205f0a0192121700ad4b219babd46fd407e",
+    "build_url": "https://travis-ci.com/greenelab/scihub-manuscript-es/builds/127554192",
+    "job_url": "https://travis-ci.com/greenelab/scihub-manuscript-es/jobs/235126685",
+    "manuscript_url": "https://greenelab.github.io/scihub-manuscript-es/v/6f0fa205f0a0192121700ad4b219babd46fd407e/"
   },
+  "translators": [
+    {
+      "github": "translator",
+      "name": "placeholder translator",
+      "initials": "translator",
+      "orcid": "translator",
+      "twitter": "translator",
+      "email": "translator",
+      "affiliations": [
+        "affiliation here"
+      ],
+      "funders": "translator"
+    }
+  ],
   "manuscript_stats": {
     "reference_counts": {
       "arxiv": 1,
@@ -145,6 +159,6 @@
       "url": 46,
       "total": 130
     },
-    "word_count": 23123
+    "word_count": 23221
   }
 }

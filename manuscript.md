@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/5701f7e1841061ca0965736f965b60bf6f24590b/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/6f0fa205f0a0192121700ad4b219babd46fd407e/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@5701f7e](https://github.com/greenelab/scihub-manuscript-es/tree/5701f7e1841061ca0965736f965b60bf6f24590b)
+from [greenelab/scihub-manuscript-es@6f0fa20](https://github.com/greenelab/scihub-manuscript-es/tree/6f0fa205f0a0192121700ad4b219babd46fd407e)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -111,6 +111,22 @@ Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on 
   <small>
      Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania
      · Funded by GBMF 4552
+  </small>
+
+
+### Translators
+
+
++ **placeholder translator**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [translator](https://orcid.org/translator)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [translator](https://github.com/translator)
+    · ![Twitter icon](images/twitter.svg){.inline_icon}
+    [translator](https://twitter.com/translator)<br>
+  <small>
+     affiliation here
+     · Funded by translator
   </small>
 
 
