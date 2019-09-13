@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/c171d78e15af19be19198dc4a948cfb870f49df2/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/34222611343d2e6bf912054f8d7f99450c5af584/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@c171d78](https://github.com/greenelab/scihub-manuscript-es/tree/c171d78e15af19be19198dc4a948cfb870f49df2)
+from [greenelab/scihub-manuscript-es@3422261](https://github.com/greenelab/scihub-manuscript-es/tree/34222611343d2e6bf912054f8d7f99450c5af584)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -413,10 +413,16 @@ The remaining Crossref types were uncommon, and hence contributed little to over
 </details>
 
 ![
+**Cobertura por tipo de artículo.**
+La cobertura se traza para los tipos de trabajo Crossref incluidos en este estudio. 
+Nos referimos a todos estos tipos como "artículos".
+](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/coverage-by-type.svg){#fig:types width="4in"}
+
+<details><summary>Inglés Original</summary>
 **Coverage by article type.**
 Coverage is plotted for the Crossref work types included by this study.
 We refer to all of these types as "articles".
-](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/coverage-by-type.svg){#fig:types width="4in"}
+</details>
 
 ### Cobertura por revista
 
