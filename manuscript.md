@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/318e791adb6aa3ba88c47da0b584bd9c7b37494a/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/85844b768216f80213de85cacefa7b818c2f4e79/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@318e791](https://github.com/greenelab/scihub-manuscript-es/tree/318e791adb6aa3ba88c47da0b584bd9c7b37494a)
+from [greenelab/scihub-manuscript-es@85844b7](https://github.com/greenelab/scihub-manuscript-es/tree/85844b768216f80213de85cacefa7b818c2f4e79)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -138,7 +138,7 @@ For the first time, nearly all scholarly literature is available gratis to anyon
 </details>
 
 
-## Introduction {.page_break_before}
+## Introducción {.page_break_before}
 
 Estimaciones recientes sugieren que los muros de pago en la web limitan el acceso a tres cuartos de la literatura académica [@eOi5pOoT; @MNHagzoO; @9JroGcRn]. 
 El movimiento de acceso abierto persevera por remediar esta situación [@PuP45jrB]. 
@@ -369,14 +369,23 @@ This study analyzes Sci-Hub's catalog in the context of all scholarly literature
 In other words, what percentage of articles in a given domain does Sci-Hub have in its repository?
 </details>
 
-## Results {.page_break_before}
+## Resultados {.page_break_before}
 
+Para definir el alcance de la literatura académica, confiamos en los DOI de la base de datos Crossref, tal como se descargó el 21 de marzo de 2017. 
+Definimos la "literatura académica" como 81,609,016 textos identificados por sus DOI. 
+Nos referimos a estos textos como "artículos", aunque Sci-Hub abarca una variedad de tipos de texto, incluidos capítulos de libros, documentos de conferencias y tapas de revistas. 
+Para evaluar los artículos disponibles de Sci-Hub, nos basamos en una lista de DOI publicada por Sci-Hub el 19 de marzo de 2017. 
+Todos los DOI fueron puestos en minúsculas para ser congruentes entre los conjuntos de datos (ver Métodos). 
+Lo disponible en Sci-Hub incluyó 56,246,220 artículos del corpus de literatura académica, lo que equivale al 68.9% de todos los artículos.
+
+<details><summary>Inglés Original</summary>
 To define the extent of the scholarly literature, we relied on DOIs from the Crossref database, as downloaded on March 21, 2017.
 We define the "scholarly literature" as 81,609,016 texts identified by their DOIs.
 We refer to these texts as "articles", although Sci-Hub encompasses a range of text types, including book chapters, conference papers, and journal front matter.
 To assess the articles available from Sci-Hub, we relied on a list of DOIs released by Sci-Hub on March 19, 2017.
 All DOIs were lowercased to be congruent across datasets (see Methods).
 Sci-Hub's offerings included 56,246,220 articles from the corpus of scholarly literature, equating to 68.9% of all articles.
+</details>
 
 ### Coverage by article type
 
