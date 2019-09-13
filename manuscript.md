@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/558dceb31c3f17bb329a0f53db002e23f026aa7d/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/73fa8747a1d400adae1e573f6b39444ee201851d/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@558dceb](https://github.com/greenelab/scihub-manuscript-es/tree/558dceb31c3f17bb329a0f53db002e23f026aa7d)
+from [greenelab/scihub-manuscript-es@73fa874](https://github.com/greenelab/scihub-manuscript-es/tree/73fa8747a1d400adae1e573f6b39444ee201851d)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -976,22 +976,54 @@ The association between 2015 CiteScore and average visitors per article is plott
 Curves show the 95% confidence band from a Generalized Additive Model.
 </details>
 
-## Discussion {.page_break_before}
+## Discusión {.page_break_before}
 
+El repositorio de Sci-Hub contenía el 69% de todos los artículos académicos con DOI. 
+La cobertura de los 54,5 millones de artículos atribuidos a las revistas de acceso de pago, a los que muchos usuarios no podrían acceder de otra manera, fue del 85,1%. 
+Dado que Sci-Hub puede recuperar, en tiempo real, los artículos solicitados que no están en su base de datos, nuestras cifras de cobertura son su límite inferior. 
+Además, Sci-Hub cubría preferentemente artículos populares con muros de pago. 
+Encontramos que el 91.0% de las citas desde 2015 estaban presentes en el repositorio de Sci-Hub, que aumentó a 96.2% al excluir citas a artículos en revistas en acceso abierto. 
+Las revistas con una cobertura muy baja (incluida cero) tendían a ser revistas oscuras y menos citadas, mientras que la cobertura promedio de las revistas más citadas excedía el 90%.
+
+<details><summary>Inglés Original</summary>
 Sci-Hub's repository contained 69% of all scholarly articles with DOIs.
 Coverage for the 54.5 million articles attributed to toll access journals — which many users would not otherwise be able to access — was 85.1%.
 Since Sci-Hub can retrieve, in real time, requested articles that are not in its database, our coverage figures are a lower bound.
 Furthermore, Sci-Hub preferentially covered popular, paywalled articles.
 We find that 91.0% of citations since 2015 were present in Sci-Hub's repository, which increased to 96.2% when excluding citations to articles in open access journals.
 Journals with very low (including zero) coverage tended to be obscure, less cited venues, while average coverage of the most cited journals exceeded 90%.
+</details>
 
+Encontramos pruebas contundentes de que Sci-Hub se utiliza principalmente para eludir los muros de pagos. 
+En particular, los usuarios accedieron a artículos de revistas de acceso de pago con mucha más frecuencia que las revistas en acceso abierto. 
+Además, dentro de las revistas de acceso de pago, Sci-Hub proporcionó una mayor cobertura de artículos en las categorías cerradas y verdes (muro de pago) en comparación con las categorías híbridas y de bronce (disponibles gratuitamente desde la editorial). 
+En consecuencia, es probable que muchos usuarios solo recurran a Sci-Hub cuando el acceso a través de una base de datos comercial es engorroso o costoso. 
+Finalmente, observamos evidencia de que el enfoque operativo principal de Sci-Hub es eludir los muros de pago en lugar de recopilar toda la literatura, ya que el archivo se desactivó en 2015 para varias revistas abiertas. 
+Como prueba de su éxito en esta misión, la base de datos de Sci-Hub ya contiene más artículos de acceso de pago de los que se puede acceder de inmediato a través de la Universidad de Pennsylvania, una universidad de investigación líder.
+
+<details><summary>Inglés Original</summary>
 We find strong evidence that Sci-Hub is primarily used to circumvent paywalls.
 In particular, users accessed articles from toll access journals much more frequently than open access journals.
 Additionally, within toll access journals, Sci-Hub provided higher coverage of articles in the closed and green categories (paywalled by the publisher) as opposed to the hybrid and bronze categories (available gratis from the publisher).
 Accordingly, many users likely only resort to Sci-Hub when access through a commercial database is cumbersome or costly.
 Finally, we observed evidence that Sci-Hub's primary operational focus is circumventing paywalls rather than compiling all literature, as archiving was deactivated in 2015 for several journals that exemplify openness.
 Attesting to its success in this mission, Sci-Hub's database already contains more toll access articles than are immediately accessible via the University of Pennsylvania, a leading research university.
+</details>
 
+A juzgar por las donaciones, muchos usuarios parecen valorar el servicio de Sci-Hub. 
+En el pasado, Sci-Hub aceptaba donaciones a través de procesadores de pagos centralizados y regulados como PayPal, Yandex, WebMoney y QiQi [@j3Zl6sH5; @1EZBJN9ej]. 
+Ahora, sin embargo, Sci-Hub solo anuncia donaciones a través de Bitcoin, presumiblemente para evitar bloqueos bancarios o la incautación de fondos por parte del gobierno (USA). 
+Ya que el libro mayor de las transacciones Bitcoin es público, podemos evaluar la actividad de donación a direcciones de Sci-Hub conocidas (`1K4t2vSBSS2xFjZ6PofYnbgZewjeqbG1TM`, `14ghuGKDAPdEcUQN4zuzGwBUrhQgACwAyA`, `1EVkHpdQ8VJQRpQ15hSRoohCztTvDMEepm`).
+Encontramos que, antes de 2018, estas direcciones habían recibido 1,232 donaciones, y un total de ₿94,494 bitcoins (Figura @fig:bitcoin). 
+Utilizando el valor en dólares estadounidenses en el momento de la confirmación de la transacción, Sci-Hub ha recibido un equivalente de $69,224 en bitcoins. 
+Se han retirado ₿85.467 bitcoins de las direcciones de Sci-Hub a través de 174 transacciones. 
+Dado que el precio de los bitcoins ha aumentado, el valor combinado del dólar estadounidense al momento del retiro fue de $ 421,272. 
+Al final de 2017, las cuentas de Sci-Hub tenían un saldo pendiente de ₿9.027 bitcoins, valorados en aproximadamente $120,000. 
+En respuesta a la preprint de este estudio [@11cb5HXoY], Sci-Hub [tuiteó](https://twitter.com/Sci_Hub/status/892751909530071040): "la información sobre las donaciones ... no es muy precisa, pero no puedo corregirla: eso es confidencial". 
+Por lo tanto, presumiblemente, Sci-Hub ha recibió considerables donaciones a través de sistemas de pago alternativos o a direcciones de Bitcoin no reveladas, que nuestra auditoría no capturó. 
+Como no conocemos la identidad de los depositantes, otra posibilidad sería que Sci-Hub transfiriera bitcoins de otras direcciones que controlaba a las direcciones de donación identificadas.
+
+<details><summary>Inglés Original</summary>
 Judging from donations, many users appear to value Sci-Hub's service.
 In the past, Sci-Hub accepted donations through centralized and regulated payment processors such as PayPal, Yandex, WebMoney, and QiQi [@j3Zl6sH5; @1EZBJN9ej].
 Now however, Sci-Hub only advertises donation via Bitcoin, presumably to avoid banking blockades or government seizure of funds.
@@ -1004,15 +1036,33 @@ At the conclusion of 2017, the Sci-Hub accounts had an outstanding balance of �
 In response to this study's preprint [@11cb5HXoY], Sci-Hub [tweeted](https://twitter.com/Sci_Hub/status/892751909530071040): "the information on donations … is not very accurate, but I cannot correct it: that is confidential."
 Therefore, presumably, Sci-Hub has received considerable donations via alternative payment systems or to unrevealed Bitcoin addresses, which our audit did not capture.
 Since we do not know the identity of the depositors, another possibility would be that Sci-Hub transfered bitcoins from other addresses it controlled to the identified donation addresses.
+</details>
 
 ![
+**Número de donaciones de bitcoins por mes.**
+El número de donaciones de bitcoin a Sci-Hub se muestra para cada mes desde junio de 2015 hasta diciembre de 2017.
+Desde febrero de 2016, Sci-Hub ha recibido más de 25 donaciones por mes.
+Cada donación corresponde a una transacción entrante a una dirección conocida de Sci-Hub.
+Consulte la Figura @fig:bitcoin-all para conocer la cantidad donada cada mes, valorada en BTC o USD.
+](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/explore/bitcoin/monthly-donations-count.svg){#fig:bitcoin width="100%"}
+
+<details><summary>Inglés Original</summary>
 **Number of bitcoin donations per month.**
 The number of bitcoin donations to Sci-Hub is shown for each month from June 2015 to December 2017.
 Since February 2016, Sci-Hub has received over 25 donations per month.
 Each donation corresponds to an incoming transaction to a known Sci-Hub address.
 See Figure @fig:bitcoin-all for the amount donated each month, valued in BTC or USD.
-](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/explore/bitcoin/monthly-donations-count.svg){#fig:bitcoin width="100%"}
+</details>
 
+Las editoriales académicas más grandes y destacados están cubiertos exhaustivamente por Sci-Hub, y estas han tomado nota. 
+Elsevier (cuyas 13.5 millones de obras están cubiertas en un 96.9% por Sci-Hub) y la American Chemical Society (cuyas 1.4 millones de obras están cubiertas en un 98.8%) presentaron demandas contra Sci-Hub, a pesar de las opciones limitadas de ejecución de sentencias de los tribunales de Estados Unidos. 
+El acceso gratuito generalizado que Sci-Hub proporciona a artículos detrás de muros de pago pone en tela de juicio la sostenibilidad del modelo de publicación de suscripción [@102oWwJt1; @sheBR4X4]. 
+Evitar filtraciones bibliográficas y retener la posesión exclusiva de los medios digitales puede ser un desafío insuperable para las editoriales [@8mg1a0YE]. 
+A medida que los protocolos de almacenamiento de archivos distribuidos y resistentes a la censura maduran [@16kozZ9Ys; @5gyFSQse], pueden surgir sucesores de Sci-Hub que ya no dependen de un servicio centralizado. 
+De hecho, Alexandra Elbakyan es solo una persona en el movimiento más amplio de "acceso guerrilla" [@2TjdrEPp; @R9mR68Y4; @xkkXadRh], que persistirá independientemente del destino de Sci-Hub. 
+Como tal, el corpus de literatura académica gratuita de Sci-Hub puede ser extremadamente difícil de suprimir.
+
+<details><summary>Inglés Original</summary>
 The largest, most prominent academic publishers are thoroughly covered by Sci-Hub, and these publishers have taken note.
 Elsevier (whose 13.5 million works are 96.9% covered by Sci-Hub) and the American Chemical Society (whose 1.4 million works are 98.8% covered) both filed suit against Sci-Hub, despite the limited enforcement options of United States courts.
 The widespread gratis access that Sci-Hub provides to previously paywalled articles calls into question the sustainability of the subscription publishing model [@102oWwJt1; @sheBR4X4].
@@ -1020,7 +1070,17 @@ Avoiding biblioleaks and retaining exclusive possession of digital media may pro
 As distributed and censorship-resistant file storage protocols mature [@16kozZ9Ys; @5gyFSQse], successors to Sci-Hub may emerge that no longer rely on a centralized service.
 Indeed, Alexandra Elbakyan is only one individual in the larger "guerilla access" movement [@2TjdrEPp; @R9mR68Y4; @xkkXadRh], which will persist regardless of Sci-Hub's fate.
 As such, Sci-Hub's corpus of gratis scholarly literature may be extremely difficult to suppress.
+</details>
 
+Las encuestas de 2016 sugieren que el conocimiento y el uso de Sci-Hub aún no era común [@3kbMq39u; @cOKy7PSo]. 
+Sin embargo, la adopción parece estar creciendo. 
+Según Elbakyan, el número de descargas de Sci-Hub aumentó de 42 millones en 2015 a 75 millones en 2016, lo que equivale a un aumento del 79% [@cUfIvWm6]. 
+Comparando los picos de interés de búsqueda después de los eventos Ⓓ y Ⓛ en la Figura @fig:history, que corresponden a interrupciones de dominio y, por lo tanto, a usuarios existentes que buscan cómo acceder a Sci-Hub, [estimamos](https://github.com/greenelab/scihub-manuscript/issues/35#issuecomment-355171030) un crecimiento anual del 88%. 
+Según la Figura @fig:downloads, Sci-Hub promedió 185,243 descargas por día en enero-febrero de 2016, mientras que en 2017 las descargas diarias promediaron 458,589. 
+En consecuencia, la proporción de descargas de Sci-Hub con respecto a las de la biblioteca Penn en 2017 fue de 20:1. 
+Además, la adopción de Sci-Hub o sitios similares podría acelerarse debido a las nuevas cargas técnicas en el acceso autorizado (el otro lado de las medidas antipiratería) [@2Vc1UrtB; @C3J6AH5V], medidas enérgicas contra el intercambio de artículos a través de redes sociales académicas [@1BKBt9JRq; @nVGhXBcX], o cancelaciones de suscripciones a gran escala por parte de las bibliotecas [@YX9zq2ZF].
+
+<details><summary>Inglés Original</summary>
 Surveys from 2016 suggest awareness and usage of Sci-Hub was not yet commonplace [@3kbMq39u; @cOKy7PSo].
 However, adoption appears to be growing.
 According to Elbakyan, the number of Sci-Hub downloads increased from 42 million in 2015 to 75 million in 2016, equating to a 79% gain [@cUfIvWm6].
@@ -1028,7 +1088,20 @@ Comparing the search interest peaks following Ⓓ and Ⓛ in Figure @fig:history
 As per Figure @fig:downloads, Sci-Hub averaged 185,243 downloads per day in January–February 2016, whereas in 2017 daily downloads averaged 458,589.
 Accordingly, the ratio of Sci-Hub to Penn Libraries downloads in 2017 was 20:1.
 In addition, adoption of Sci-Hub or similar sites could accelerate due to new technical burdens on authorized access (the flip side of anti-piracy measures) [@2Vc1UrtB; @C3J6AH5V], crackdowns on article sharing via academic social networks [@1BKBt9JRq; @nVGhXBcX], or large-scale subscription cancellations by libraries [@YX9zq2ZF].
+</details>
 
+Históricamente, las bibliotecas a menudo [han cancelado](https://sparcopen.org/our-work/big-deal-cancellation-tracking/) las suscripciones a revistas individuales o han pasado de selecciones en paquete a selecciones a la carta [@SuZ30LxR; @18zoY6Ild; @9Uk1lLUa]. 
+Más recientemente, los consorcios de bibliotecas han amenazado con la cancelación total de editoriales específicas. 
+En 2010, las Bibliotecas de Investigación del Reino Unido amenazaron con dejar que expiraran los contratos con Elsevier [@VC6kWHG2; @7oTLbigW], mientras que la Universidad de California planteó la posibilidad de boicotear a Nature Publishing Group. 
+Pero estas disputas finalmente se resolvieron antes de que ocurrieran cancelaciones importantes. 
+Pero en 2017, los investigadores comenzaron a perder el acceso a editoriales completas. 
+Las universidades de los Países Bajos cancelaron todas las suscripciones de Oxford University Press en mayo de 2017 [@hOBvHaW9]. 
+La Universidad de Montreal redujo sus suscripciones a las publicaciones periódicas Taylor & Francis en un 93%, eliminando 2,231 revistas [@RkpJBRo6]. 
+Las negociaciones con Elsevier llegaron a impases en Alemania, Perú y Taiwán. 
+Como resultado, cientos de universidades han cancelado todas las suscripciones de Elsevier [@wnNilBvm; @i9e7Fcm8]. 
+Estos eventos hacen eco de las predicciones de los abogados de Elsevier en 2015 [@3noVfYfJ]: “Las acciones de los acusados también amenazan con un daño irreparable inminente para Elsevier porque pareciera que el repositorio de la “Proyecto Biblioteca Génesis” puede estar llegando (o eventualmente se acercará) a un nivel de 'integridad' donde pueda servir como un reemplazo funcionalmente equivalente, aunque evidentemente ilegal, para ScienceDirect”.
+
+<details><summary>Inglés Original</summary>
 Historically, libraries have [often canceled](https://sparcopen.org/our-work/big-deal-cancellation-tracking/) individual journal subscriptions or switched from bundled to à-la-carte selections [@SuZ30LxR; @18zoY6Ild; @9Uk1lLUa].
 More recently, library consortia have threatened wholesale cancellation of specific publishers.
 In 2010, Research Libraries of the UK threatened to let Elsevier contracts expire [@VC6kWHG2; @7oTLbigW], while the University of California raised the possibility of boycotting Nature Publishing Group.
@@ -1039,7 +1112,21 @@ University of Montreal reduced its subscriptions to Taylor & Francis periodicals
 Negotiations with Elsevier reached impasses in Germany, Peru, and Taiwan. As a result, hundreds of universities have cancelled all Elsevier subscriptions [@wnNilBvm; @i9e7Fcm8].
 These developments echo the predictions of Elsevier's attorneys in 2015 [@3noVfYfJ]:
 "Defendants’ actions also threaten imminent irreparable harm to Elsevier because it appears that the Library Genesis Project repository may be approaching (or will eventually approach) a level of 'completeness' where it can serve as a functionally equivalent, although patently illegal, replacement for ScienceDirect."
+</details>
 
+En el peor de los casos para las editoriales de acceso a través de pago, el uso creciente de Sci-Hub se convertirá tanto en la causa como en el efecto de la disminución de las suscripciones. 
+Los bibliotecarios confían en las métricas de uso y los comentarios de los usuarios para evaluar las suscripciones [@18zoY6Ild]. 
+Sci-Hub podría disminuir el uso de las suscripciones de la biblioteca, ya que muchos usuarios lo encuentran más conveniente que el acceso autorizado [@cOKy7PSo]. 
+Además, los bibliotecarios pueden recibir menos quejas después de cancelar las suscripciones, ya que los usuarios se vuelven más conscientes de las alternativas. 
+El acceso abierto verde también proporciona una ruta de acceso fuera de la suscripción institucional. 
+La publicación de preprints y postprints ha crecido rápidamente [@eOi5pOoT; @pehBllPA], con nuevas herramientas de búsqueda para ayudar a localizarlas [@u69TZrHD]. 
+La tendencia de aumentar la disponibilidad verde está destinada a continuar a medida que los financiadores [exijan](https://roarmap.eprints.org/) las postprints [@HGqCqC3H] y las preprints ayuden a los investigadores a evitar el lento camino de la publicación académica tradicional [@PZA0cOT1]. 
+En esencia, las editoriales académicas pueden haber perdido la batalla de acceso. 
+Las editoriales se verán obligadas a adaptarse rápidamente a los modelos de publicación en acceso abierto. 
+En palabras de Alexandra Elbakyan [@DCZkZXsz]: 
+"El efecto de la operación a largo plazo de Sci-Hub será que los editores cambien sus modelos de publicación y sostener el acceso abierto, porque el acceso cerrado ya no tendrá sentido".
+
+<details><summary>Inglés Original</summary>
 In the worst case for toll access publishers, growing Sci-Hub usage will become both the cause and the effect of dwindling subscriptions.
 Librarians rely on usage metrics and user feedback to evaluate subscriptions [@18zoY6Ild].
 Sci-Hub could decrease the use of library subscriptions as many users find it more convenient than authorized access [@cOKy7PSo].
@@ -1051,7 +1138,17 @@ In essence, scholarly publishers may have already lost the access battle.
 Publishers will be forced to adapt quickly to open access publishing models.
 In the words of Alexandra Elbakyan [@DCZkZXsz]:
 "The effect of long-term operation of Sci-Hub will be that publishers change their publishing models to support Open Access, because closed access will make no sense anymore."
+</details>
 
+Sci-Hub tiende a ser un disruptor fundamental de las publicaciones académicas. 
+La transición a la disponibilidad gratuita de artículos académicos está actualmente en curso, y dicho modelo puede ser inevitable a largo plazo [@8RacTmaJ; @1BSPYL8jl; @Bj1n4rGt]. 
+Sin embargo, instamos a la comunidad a aprovechar esta oportunidad para liberar completamente los artículos académicos, así como explorar modelos comerciales más constructivos para la publicación [@cunYx7X4; @1F2Ri1rrL; @Akbe7cNV]. 
+Solo el acceso libre, habilitado por licencias abiertas, permite crear aplicaciones sobre la literatura académica sin temor a consecuencias legales [@7aXVorCC]. 
+Por ejemplo, el minado de texto completo de la literatura académica es un área de gran potencial [@1BW4FtNLl], pero actualmente no es práctico debido a la falta de un corpus de artículos preprocesados a gran escala. 
+Las barreras aquí son legales, no tecnológicas [@llK8SMam; @I6O7IKP7]. 
+Para terminar, si todos los artículos fueran libres, no habría tal cosa como un "sitio web pirata" para acceder a la literatura académica.
+
+<details><summary>Inglés Original</summary>
 Sci-Hub is poised to fundamentally disrupt scholarly publishing.
 The transition to gratis availability of scholarly articles is currently underway, and such a model may be inevitable in the long term [@8RacTmaJ; @1BSPYL8jl; @Bj1n4rGt].
 However, we urge the community to take this opportunity to fully liberate scholarly articles, as well as explore more constructive business models for publishing [@cunYx7X4; @1F2Ri1rrL; @Akbe7cNV].
@@ -1059,6 +1156,7 @@ Only libre access, enabled by [open licensing](http://opendefinition.org/), allo
 For example, fulltext mining of scholarly literature is an area of great potential [@1BW4FtNLl], but is currently impractical due to the lack of a large-scale preprocessed corpus of articles.
 The barriers here are legal, not technological [@llK8SMam; @I6O7IKP7].
 In closing, were all articles libre, there would be no such thing as a "pirate website" for accessing scholarly literature.
+</details>  
 
 ## Methods {.page_break_before}
 
