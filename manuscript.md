@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/b6ecfa2a2bf9e392679faeb75b248b101471475e/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/ae97ceee609aca23b134f4ad2691944d30a4c8c8/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@b6ecfa2](https://github.com/greenelab/scihub-manuscript-es/tree/b6ecfa2a2bf9e392679faeb75b248b101471475e)
+from [greenelab/scihub-manuscript-es@ae97cee](https://github.com/greenelab/scihub-manuscript-es/tree/ae97ceee609aca23b134f4ad2691944d30a4c8c8)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -624,17 +624,33 @@ La cobertura de artículos de Sci-Hub se muestra para cada año desde 1850.
 Sci-Hub's article coverage is shown for each year since 1850.
 </details>
 
+Además, la prevalencia del acceso abierto ha ido en aumento, mientras que Sci-Hub cubre preferentemente artículos en revistas de acceso a través de muro de pago. 
+La Figura @fig:years-by-access rastrea la cobertura anual por separado para artículos en revistas de acceso a través de muro de pago y en acceso abierto. 
+La cobertura de revistas con muro de pago excedió el 80% cada año desde 1950, excepto en 2016 y 2017. 
+Para los artículos abiertos y de muro de pago, la caída reciente de la cobertura parece comenzar en 2014 (Figura @fig:years-by-access) en comparación con 2010 cuando se calcula en todos los artículos Figura @fig:years). 
+Especulamos que esta discrepancia resulta de la proliferación de revistas oscuras y de baja calidad en la última década [@K29A7oBE], ya que estas revistas generalmente emiten DOI pero no están indexadas en Scopus, y por lo tanto se incluirían en la Figura @fig:years pero no en la Figura @fig:years-by-access. 
+Además de tener una demanda limitada de lectores, estas revistas son generalmente de acceso abierto y, por lo tanto, menos blanco de acceso a través de Sci-Hub.
+
+<details><summary>Inglés Original</summary>
 In addition, the prevalence of open access has been increasing, while Sci-Hub preferentially covers articles in toll access journals.
 Figure @fig:years-by-access tracks yearly coverage separately for articles in toll and open access journals.
 Toll access coverage exceeded 80% every year since 1950 except for 2016 and 2017.
 For both toll and open articles, the recent dropoff in coverage appears to begin in 2014 (Figure @fig:years-by-access) compared to 2010 when calculated across all articles (Figure @fig:years).
 We speculate this discrepancy results from the proliferation of obscure, low-quality journals over the last decade [@K29A7oBE], as these journals generally issue DOIs but are not indexed in Scopus, and therefore would be included in Figure @fig:years but not in Figure @fig:years-by-access.
 In addition to having limited readership demand, these journals are generally open access, and thus less targeted by Sci-Hub.
+</details>
 
+La cobertura de Sci-Hub de los artículos de 2016 en las revistas de acceso abierto fue de solo el 32.7% en comparación con el 78.8% de los artículos en las revistas de acceso a través de muro de pago (Figura @fig:years-by-access). 
+Tras una investigación adicional [investigation](https://github.com/greenelab/scihub/blob/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/13.oa-journal-dropoffs.ipynb), descubrimos que, en junio de 2015, Sci-Hub dejó de archivar artículos en revistas [_PeerJ_](https://greenelab.github.io/scihub/#/journal/21100239256), [_eLife_](https://greenelab.github.io/scihub/#/journal/21100242814), y [PLOS journals](https://greenelab.github.io/scihub/#/publisher/public-library-of-science), aunque continuaron archivando artículos de otras revistas en acceso abierto como [_Scientific Reports_](https://greenelab.github.io/scihub/#/journal/21100200805), [_Nature Communications_](https://greenelab.github.io/scihub/#/journal/19700182758) y BMC-series. 
+Sci-Hub actualmente redirige las solicitudes de estas publicaciones anuladas al sitio del editor, a menos que ya posea el artículo, en cuyo caso sirve el PDF. 
+Estos hallazgos sugieren que Sci-Hub prioriza eludir las barreras de acceso en lugar de crear un único repositorio que contenga todos los artículos académicos.
+
+<details><summary>Inglés Original</summary>
 Sci-Hub's coverage of 2016 articles in open access journals was just 32.7% compared to 78.8% for articles in toll access journals (Figure @fig:years-by-access).
 Upon further [investigation](https://github.com/greenelab/scihub/blob/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/13.oa-journal-dropoffs.ipynb), we discovered that in June 2015, Sci-Hub ceased archiving articles in [_PeerJ_](https://greenelab.github.io/scihub/#/journal/21100239256), [_eLife_](https://greenelab.github.io/scihub/#/journal/21100242814), and [PLOS journals](https://greenelab.github.io/scihub/#/publisher/public-library-of-science), although they continued archiving articles in other open access journals such as [_Scientific Reports_](https://greenelab.github.io/scihub/#/journal/21100200805), [_Nature Communications_](https://greenelab.github.io/scihub/#/journal/19700182758), and BMC-series journals.
 Sci-Hub currently redirects requests for these delisted journals to the publisher's site, unless it already possesses the article, in which case it serves the PDF.
 These findings suggest Sci-Hub prioritizes circumventing access barriers rather than creating a single repository containing every scholarly article.
+</details>
 
 ### Cobertura por categoría de estado de acceso
 
