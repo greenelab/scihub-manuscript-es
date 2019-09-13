@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/ec1f6c8a28b9849f78f180087ae4f8410cd75bb5/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/318e791adb6aa3ba88c47da0b584bd9c7b37494a/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@ec1f6c8](https://github.com/greenelab/scihub-manuscript-es/tree/ec1f6c8a28b9849f78f180087ae4f8410cd75bb5)
+from [greenelab/scihub-manuscript-es@318e791](https://github.com/greenelab/scihub-manuscript-es/tree/318e791adb6aa3ba88c47da0b584bd9c7b37494a)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -348,6 +348,15 @@ Greshake also analyzed the logs to identify per capita Sci-Hub usage [@uBm4Sor6]
 Portugal, Iran, Tunisia, and Greece had the highest usage, suggesting Sci-Hub is preferentially used in countries with poor institutional access to scholarly literature.
 In a subsequent study, Greshake found especially high Sci-Hub usage in chemistry, with 12 of the top 20 requested journals specializing in chemistry [@iLKgjFDu; @nnSxBFFr].
 </details>
+
+Desde 2015, Sci-Hub ha operado su propio repositorio, distinto de LibGen. 
+El 19 de marzo de 2017, Sci-Hub lanzó la lista de DOI para artículos en su base de datos. 
+Greshake recuperó metadatos para el 77% de los DOI de Sci-Hub [@iLKgjFDu; @nnSxBFFr].
+Descubrió que el 95% de los artículos en Sci-Hub se publicaron después de 1950. 
+Las solicitudes de Sci-Hub estaban aún más sesgadas hacia los artículos recientes, con solo un 5% dirigido a artículos publicados antes de 1983. 
+El estudio de Greshake no incorporó un catálogo de toda la literatura académica. 
+Este estudio analiza el catálogo de Sci-Hub en el contexto de toda la literatura académica y, por lo tanto, evalúa la cobertura. 
+En otras palabras, ¿qué porcentaje de artículos en un dominio dado tiene Sci-Hub en su repositorio?
 
 <details><summary>Inglés Original</summary>
 Since 2015, Sci-Hub has operated its own repository, distinct from LibGen.
