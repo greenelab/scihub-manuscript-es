@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/808ce8c29a319d730d57d7b4c13014e2e2ad6ab8/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/ec1f6c8a28b9849f78f180087ae4f8410cd75bb5/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@808ce8c](https://github.com/greenelab/scihub-manuscript-es/tree/808ce8c29a319d730d57d7b4c13014e2e2ad6ab8)
+from [greenelab/scihub-manuscript-es@ec1f6c8](https://github.com/greenelab/scihub-manuscript-es/tree/ec1f6c8a28b9849f78f180087ae4f8410cd75bb5)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -328,6 +328,15 @@ If the article was not in LibGen, Sci-Hub would fetch the article for the user a
 Cabanac compared the number of articles in the LibGen scimag database at the start of 2014 to the total number of Crossref DOIs, estimating that LibGen contained 36% of all published scholarly articles [@18KKRwlN6].
 Coverage was higher for several prominent publishers: 77% for Elsevier, 73% for Wiley, and 53% for Springer (prior to its merger with Macmillan / Nature [@ynhlmOBH]).
 </details>
+
+Más tarde, Bohannon analizó seis meses de registros de acceso al servidor de Sci-Hub, a partir de septiembre de 2015 [@RsNXQAG2]. 
+El encontró un patrón global de uso. 
+Sobre la base de estos registros, Gardner, McLaughlin y Asher estimaron la proporción de descargas de web editoriales a descargas de Sci-Hub en los EE. UU. de varias editoriales [@17rORqxsI]. 
+Estimaron esta proporción en 20:1 para la Royal Society of Chemistry y 48:1 para Elsevier. 
+También señalaron que el 25% de las descargas de Sci-Hub en los EE. UU. fueron de artículos relacionados con la medicina clínica.
+Greshake también analizó los registros para identificar el uso per cápita de Sci-Hub [@uBm4Sor6]. 
+Portugal, Irán, Túnez y Grecia tuvieron el mayor uso, lo que sugiere que Sci-Hub se utiliza preferentemente en países con acceso institucional deficiente a la literatura académica. 
+En un estudio posterior, encontró un uso especialmente elevado de Sci-Hub en química, con 12 de las 20 revistas más solicitadas especializadas en química [@iLKgjFDu; @nnSxBFFr].
 
 <details><summary>Inglés Original</summary>
 Later, Bohannon analyzed six months of Sci-Hub's server access logs, starting in September 2015 [@RsNXQAG2].
