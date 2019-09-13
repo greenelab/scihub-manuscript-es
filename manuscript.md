@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/ae97ceee609aca23b134f4ad2691944d30a4c8c8/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/a6a8c41721f139afccadea24782c553849b85037/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@ae97cee](https://github.com/greenelab/scihub-manuscript-es/tree/ae97ceee609aca23b134f4ad2691944d30a4c8c8)
+from [greenelab/scihub-manuscript-es@a6a8c41](https://github.com/greenelab/scihub-manuscript-es/tree/a6a8c41721f139afccadea24782c553849b85037)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -710,8 +710,17 @@ As such, Sci-Hub receives requests for green articles, triggering it to retrieve
 However, hybrid and bronze articles, which are available gratis from their publisher, are requested and thus retrieved at a lower rate.
 </details>
 
-### Coverage of Penn Libraries
+### Cobertura de las Bibliotecas de la Universidad de Pennsylvania
 
+Como punto de referencia, decidimos comparar la cobertura de Sci-Hub con el acceso proporcionado por una gran biblioteca de investigación. 
+Como no conocíamos ningún estudio que hiciera un perfil completo del acceso de la biblioteca a artículos académicos, colaboramos con las Bibliotecas Penn para evaluar el alcance del acceso disponible en la Universidad de Pennsylvania (Penn). 
+Penn es una universidad privada de investigación ubicada en Filadelfia y fundada por el pionero de la ciencia abierta Benjamin Franklin en 1749. 
+Es una de las universidades más ricas del mundo, con un [endowment](http://www.nacubo.org/Documents/EndowmentFiles/2016-Endowment-Market-Values.pdf "U.S. and Canadian Institutions Listed by Fiscal Year 2016 Endowment Market Value. 
+National Association of College and University Business Officers and Commonfund Institute") de más de U$S 10 mil millones. Según la Encuesta de Investigación y Desarrollo de la Educación Superior, los gastos de I + D [R&D expenditures](https://ncsesdata.nsf.gov/herd/2016/html/HERD2016_DST_21.html "Table 21. 
+Higher education R&D expenditures, ranked by all R&D expenditures, by source of funds: FY 2016") en Penn totalizaron $ 1.29 mil millones en 2016, ubicándose en el tercer lugar entre los colegios y universidades de EE. UU. En 2017, Penn Libraries estima [estimates](https://github.com/greenelab/library-access/issues/23) que gastó $ 13.13 millones en recursos electrónicos, que incluyen suscripciones a revistas y libros electrónicos. 
+Durante este año, sus usuarios accedieron a 7.3 millones de artículos y 860 mil capítulos de libros electrónicos, con un costo promedio por descarga de $ 1.61.
+
+<details><summary>Inglés Original</summary>
 As a benchmark, we decided to compare Sci-Hub's coverage to the access provided by a major research library.
 Since we were unaware of any studies that comprehensively profiled library access to scholarly articles, we collaborated with Penn Libraries to assess the extent of access available at the University of Pennsylvania (Penn).
 Penn is a private research university located in Philadelphia and founded by the open science pioneer Benjamin Franklin in 1749.
@@ -719,7 +728,21 @@ It is one of the world's wealthiest universities, with an [endowment](http://www
 According to the Higher Education Research and Development Survey, [R&D expenditures](https://ncsesdata.nsf.gov/herd/2016/html/HERD2016_DST_21.html "Table 21. Higher education R&D expenditures, ranked by all R&D expenditures, by source of funds: FY 2016") at Penn totaled $1.29 billion in 2016, placing it third among U.S. colleges and universities.
 In 2017, Penn Libraries [estimates](https://github.com/greenelab/library-access/issues/23) that it spent $13.13 million on electronic resources, which includes subscriptions to journals and ebooks.
 During this year, its users accessed 7.3 million articles and 860 thousand ebook chapters, averaging a per-download cost of $1.61.
+</details>
 
+Penn Libraries utiliza el sistema de gestión de recursos de la biblioteca Alma de Ex Libris. 
+Alma incluye un generador OpenURL 
+<span title="OpenURL es un estándar WWW para buscar y devolver ubicaciones de artículos y otro contenido basado en metadatos proporcionados por un usuario, en este caso, un DOI.
+Los metadatos suministrados por un usuario o un sistema de administración de recursos de la biblioteca se codifican y se envían a un solucionador de central de enlaces, que devuelve un enlace al documento o una página web asociada con él.">
+OpenURL</span>, 
+que las Bibliotecas Penn usan para proporcionar un servicio llamado [PennText](https://upenn.alma.exlibrisgroup.com/discovery/citationlinker?vid=01UPENN_INST:Services&lang=en) para buscar artículos académicos.
+PennText indica si el texto completo de un artículo está disponible en línea, teniendo en cuenta las suscripciones digitales de Penn.
+Utilizando llamadas API al generador OpenURL de PennText, recuperamos el estado de acceso de Penn para los 290,120 artículos analizados por el estudio del Estado de OA (ver el repositorio de acceso de [greenelab/library-access](https://github.com/greenelab/library-access)). 
+Seleccionamos aleatoriamente 500 de estos artículos para evaluarlos manualmente y verificamos si sus textos completos estaban disponibles dentro de la red de Penn y fuera de cualquier red institucional. 
+Definimos el acceso como disponibilidad de texto completo en la ubicación redirigida por el DOI de un artículo, sin proporcionar ningún pago, credenciales o información de inicio de sesión. 
+Esta definición es análoga a la unión de las categorías de oro, híbrido y bronce de oaDOI.
+
+<details><summary>Inglés Original</summary>
 Penn Libraries uses the Alma library resource management system from Ex Libris.
 Alma includes an
 <span title="OpenURL is a WWW standard for looking up and returning locations of articles and other content based on metadata supplied by a user — in this case, a DOI.
@@ -731,7 +754,16 @@ Using API calls to PennText's OpenURL resolver, we retrieved Penn's access statu
 We randomly selected 500 of these articles to evaluate manually and assessed whether their fulltexts were available from within Penn's network as well as from outside of any institutional network.
 We defined access as fulltext availability at the location redirected to by an article's DOI, without providing any payment, credentials, or login information.
 This definition is analogous to the union of oaDOI's gold, hybrid, and bronze categories.
+</details>
 
+Usando estas llamadas de acceso manual, [encontramos](https://github.com/greenelab/library-access/blob/c60246a0dd6b0fccf9b1954f793261e729954b66/evaluate_library_access_from_output_tsv/penntext-accuracy-500.ipynb) que PennText clasificó correctamente el acceso el 88.2% [85.2% –90.8%] de las veces (los intervalos entre paréntesis se refieren a intervalos de confianza del 95% calculados usando el intervalo de Jeffreys para proporciones binomiales [@BP6sDsyK])). 
+PennText afirmó tener acceso a 422 de los 500 artículos [81.0% –87.4%]. Cuando PennText afirmó el acceso, fue correcto el 94.8% [92.4% –96.6%] de las veces. 
+Sin embargo, cuando PennText afirmó no tener acceso, solo fue correcto para 41 de 78 artículos [41.6% –63.4%]. 
+Esta tasa de error surgió porque PennText no solo desconocía el acceso de Penn a 23 artículos abiertos, sino que tampoco conocía el acceso de suscripción de Penn a 14 artículos. 
+A pesar de estos problemas, la estimación de PennText del acceso de Penn en 84.4% no difirió significativamente de la estimación evaluada manualmente de 87.4% [84.3% –90.1%]. 
+No obstante, procedemos mostrando comparaciones tanto para los 500 artículos con llamadas de acceso manual como para los 290,120 artículos con llamadas de PennText.
+
+<details><summary>Inglés Original</summary>
 Using these manual access calls, we [found](https://github.com/greenelab/library-access/blob/c60246a0dd6b0fccf9b1954f793261e729954b66/evaluate_library_access_from_output_tsv/penntext-accuracy-500.ipynb) PennText correctly classified access 88.2% [85.2%–90.8%] of the time (bracketed ranges refer to 95% confidence intervals calculated using Jeffreys interval for binomial proportions [@BP6sDsyK]).
 PennText claimed to have access to 422 of the 500 articles [81.0%–87.4%].
 When PennText asserted access, it was correct 94.8% [92.4%–96.6%] of the time.
@@ -739,9 +771,20 @@ However, when PennText claimed no access, it was only correct for 41 of 78 artic
 This error rate arose because PennText was not only unaware of Penn's access to 23 open articles, but also unaware of Penn's subscription access to 14 articles.
 Despite these issues, PennText's estimate of Penn's access at 84.4% did not differ significantly from the manually evaluated estimate of 87.4% [84.3%–90.1%].
 Nonetheless, we proceed by showing comparisons for both the 500 articles with manual access calls as well as the 290,120 articles with PennText calls.
+</details>
 
-### Coverage combining access methods
+### Cobertura que combina métodos de acceso
 
+En la práctica, los lectores de la literatura académica probablemente usan una variedad de métodos para acceder. 
+La Figura @fig:combinations compara varios de estos métodos, así como sus combinaciones. 
+Los usuarios sin acceso institucional pueden simplemente intentar ver un artículo en el sitio de su editor. 
+Según nuestra evaluación manual de 500 artículos, encontramos que el 34.8% [30.7% –39.1%] de los artículos eran accesibles de esta manera. 
+Los 326 artículos restantes a los que no se podía acceder desde el sitio de su editor se consideran acceso a través de muro de pago.
+[oaDOI](https://oadoi.org/), una utilidad que redirige los DOI con pago a versiones gratuitas y lícitas, cuando es posible [@eOi5pOoT] - pudo acceder al 15.3% [11.7% –19.5%] de estos artículos de acceso a través de muro de pago, lo que indica que el acceso abierto verde es todavía limitado en su alcance. 
+Esto se mantuvo en el conjunto completo de 208.786 artículos de acceso a través de muro de pago del conjunto de datos del Estado de OA, donde oaDOI solo proporcionó acceso al 12.4% [12.3% –12.6%]. 
+Aunque la tasa de acceso general de oaDOI fue del 37.0% [36.8% –37.2%], este acceso consistió principalmente en artículos de oro, híbridos y bronce, por los cuales la editorial proporciona acceso gratuito.
+
+<details><summary>Inglés Original</summary>
 In practice, readers of the scholarly literature likely use a variety of methods for access.
 Figure @fig:combinations compares several of these methods, as well as their combinations.
 Users without institutional access may simply attempt to view an article on its publisher's site.
@@ -750,7 +793,17 @@ The remaining 326 articles that were not accessible from their publisher's site 
 [oaDOI](https://oadoi.org/) — a utility that redirects paywalled DOIs to gratis, licit versions, when possible [@eOi5pOoT] — was able to access 15.3% [11.7%–19.5%] of these toll access articles, indicating that green open access is still limited in its reach.
 This remained true on the full set of 208,786 toll access articles from the State of OA dataset, where oaDOI only provided access to 12.4% [12.3%–12.6%].
 Although oaDOI's overall access rate was 37.0% [36.8%–37.2%], this access consisted largely of gold, hybrid, and bronze articles, whereby gratis access is provided by the publisher.
+</details>
 
+Sci-Hub y Penn tuvieron una cobertura similar en todos los artículos: 
+85.2% [81.9% –88.1%] versus 87.4% [84.3% –90.1%] en el conjunto de artículos manuales y 84.8% [84.7% –84.9%] versus 84.4% [ 84.3% –84.5%] en el conjunto más grande pero automatizado. 
+Sin embargo, al considerar solo los artículos de acceso a través de muro de pago, la cobertura de Sci-Hub excede la de Penn: 94.2% [91.2% –96.3%] versus 80.7% [76.1% –84.7%] en el conjunto manual y 90.7% [90.5% –90.8%] versus 83.5% [83.4% –83.7%] en el conjunto automatizado. 
+Esto refleja el enfoque de Sci-Hub en los artículos de pago. 
+Además, la cobertura de Sci-Hub es un límite inferior para su tasa de acceso, ya que puede recuperar artículos a pedido, por lo que, en la práctica, el acceso de Sci-Hub a artículos de acceso a través de muro de pago podría superar a Penn por un margen más alto.
+Sorprendentemente, Sci-Hub proporcionó un mayor acceso a artículos de muro de pago que una universidad de investigación líder que gasta millones de dólares estadounidenses por año en suscripciones. 
+Sin embargo, dado que Sci-Hub puede recuperar artículos a través de muchas redes universitarias, tal vez no sea sorprendente que su cobertura exceda la de cualquier universidad.
+
+<details><summary>Inglés Original</summary>
 Sci-Hub and Penn had similar coverage on all articles:
 85.2% [81.9%–88.1%] versus 87.4% [84.3%–90.1%] on the manual article set and 84.8% [84.7%–84.9%] versus 84.4% [84.3%–84.5%] on the larger but automated set.
 However, when considering only toll access articles, Sci-Hub's coverage exceeds Penn's:
@@ -759,15 +812,40 @@ This reflects Sci-Hub's focus on paywalled articles.
 In addition, Sci-Hub's coverage is a lower bound for its access rate, since it can retrieve articles on demand, so in practice Sci-Hub's access to toll access articles could exceed Penn's by a higher margin.
 Remarkably, Sci-Hub provided greater access to paywalled articles than a leading research university spending millions of dollars per year on subscriptions.
 However, since Sci-Hub is able to retrieve articles through many university networks, it is perhaps unsurprising that its coverage would exceed that of any single university.
+</details>
 
+La combinación de métodos de acceso también puede ser sinérgica. 
+Específicamente cuando se incluyen artículos de acceso abierto, la combinación del repositorio de Sci-Hub con el acceso de oaDOI o Penn aumentó la cobertura de alrededor del 85% al 95%. 
+Los beneficios de oaDOI se redujeron cuando solo se consideraron los artículos de acceso a través de muro de pago, donde oaDOI solo mejoró la cobertura de Sci-Hub o Penn en aproximadamente un 1%. 
+En los artículos de acceso a través de muro de pago, el acceso de Penn parecía complementar el de Sci-Hub. 
+Juntos, el repositorio de Sci-Hub y el acceso de Penn cubrieron aproximadamente el 96% de los artículos de acceso a través de muro de pago [95.0% –98.6% (conjunto manual), 95.9% –96.1% (conjunto automatizado)]. 
+Nuestros hallazgos sugieren que los usuarios con suscripciones institucionales comparables a las de Penn, así como el conocimiento de oaDOI y Sci-Hub, pueden acceder a más del 97% de todos los artículos [96.7% –99.1% (conjunto manual), 97.3% –97.5% (conjunto automatizado)], en línea y sin pago.
+
+<details><summary>Inglés Original</summary>
 Combining access methods can also be synergistic.
 Specifically when including open access articles, combining Sci-Hub's repository with oaDOI's or Penn's access increased coverage from around 85% to 95%.
 The benefits of oaDOI were reduced when only considering toll access articles, where oaDOI only improved Sci-Hub's or Penn's coverage by approximately 1%.
 On toll access articles, Penn's access appeared to complement Sci-Hub's.
 Together, Sci-Hub's repository and Penn's access covered approximately 96% of toll access articles [95.0%–98.6% (manual set), 95.9%–96.1% (automated set)].
 Our findings suggest that users with institutional subscriptions comparable to those at Penn as well as knowledge of oaDOI and Sci-Hub are able to access over 97% of all articles [96.7%–99.1% (manual set), 97.3%–97.5% (automated set)], online and without payment.
+</details>
 
 ![
+**Cobertura de varios métodos de acceso y sus combinaciones.**
+Esta figura compara conjuntos de datos de cobertura de artículos correspondientes a varios métodos de acceso.
+Estos conjuntos de artículos se refieren al acceso evaluado manualmente a través del sitio de la editorial desde fuera de una red institucional (etiquetada como None) o desde dentro de la red de Penn (etiquetada como Penn); acceso de acuerdo con el sistema de biblioteca de Penn (etiquetado PennText); acceso a través de la utilidad oaDOI (etiquetada como oaDOI); e inclusión en la base de datos de Sci-Hub (etiquetada Sci-Hub).
+Cada diagrama muestra la cobertura de tres métodos de acceso y sus posibles combinaciones.
+Dentro de un diagrama, cada sección señala el porcentaje de cobertura logrado por la combinación correspondiente de métodos de acceso.
+**Contrariamente a los diagramas tradicionales de Venn**, cada sección no indica conjuntos de artículos disjuntos.
+En cambio, cada sección muestra cobertura en el mismo conjunto de artículos, cuyo número total se informa en el título del diagrama.
+Los dos diagramas superiores muestran la cobertura en un pequeño conjunto de artículos evaluados manualmente (se proporcionan intervalos de confianza en el texto principal).
+Los dos diagramas inferiores muestran la cobertura en un conjunto más grande de artículos evaluados automáticamente. 
+Los dos diagramas de la izquierda muestran la cobertura en todos los artículos, mientras que los dos diagramas de la derecha muestran la cobertura solo en los artículos de acceso a través de muro de pago.
+Específicamente, el diagrama superior derecho evalúa la cobertura de los artículos a los que no se podía acceder desde fuera de una red institucional.
+Del mismo modo, el diagrama de abajo a la derecha evalúa la cobertura de los artículos que oaDOI clasificó como cerrados o verdes y, por lo tanto, excluye los artículos de oro, híbridos y bronce (los disponibles gratuitamente por su editorial).
+](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/library-access-venns-small.svg){#fig:combinations width="60%"}
+
+<details><summary>Inglés Original</summary>
 **Coverage of several access methods and their combinations.**
 This figure compares datasets of article coverage corresponding to various access methods.
 These article sets refer to manually evaluated access via the publisher's site from outside of an institutional network (labeled None) or from inside Penn's network (labeled Penn);
@@ -783,7 +861,7 @@ The bottom two diagrams show coverage on a larger set of automatically evaluated
 The two lefthand diagrams show coverage on all articles, whereas the two righthand diagrams show coverage on toll access articles only.
 Specifically, the top-right diagram assesses coverage on articles that were inaccessible from outside of an institutional network.
 Similarly, the bottom-right diagram assesses coverage of articles that were classified as closed or green by oaDOI, and thus excludes gold, hybrid, and bronze articles (those available gratis from their publisher).
-](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/library-access-venns-small.svg){#fig:combinations width="60%"}
+</details>
 
 ### Coverage of recently cited articles
 
