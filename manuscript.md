@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/bb8a11454be3d99996508e234404922728284ffc/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/4c69392aa188fac7ba9b4d9156daab96237a057c/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@bb8a114](https://github.com/greenelab/scihub-manuscript-es/tree/bb8a11454be3d99996508e234404922728284ffc)
+from [greenelab/scihub-manuscript-es@4c69392](https://github.com/greenelab/scihub-manuscript-es/tree/4c69392aa188fac7ba9b4d9156daab96237a057c)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -193,6 +193,11 @@ Furthermore, we discuss two variants of open access: "libre" and "gratis" [@zBPP
 Libre open access refers to literature that is [openly licensed](http://opendefinition.org/) to allow reuse.
 Gratis open access refers to literature that is accessible free of charge, although permission barriers may remain (usually due to copyright) [@7aXVorCC].
 </details>
+
+El sitio web Sci-Hub, ahora en su sexto año de existencia, proporciona acceso gratuito a la literatura académica, a pesar de la presencia continua de muros de pago. 
+Sci-Hub se presenta a sí mismo como "el primer sitio web pirata en el mundo en proporcionar acceso público y masivo a decenas de millones de trabajos de investigación". 
+El sitio web, iniciado en 2011, está dirigido por Alexandra Elbakyan, una estudiante de postgrado originaria de Kazajstán que ahora reside en Rusia [@JVjciZPv; @sR4uAYxB]. 
+Elbakyan se describe a sí misma como motivada para proporcionar acceso universal al conocimiento [@nZZjs6T6; @1BUarVNFD; @K6n65WB0].
 
 <details><summary>Inglés Original</summary>
 The website Sci-Hub, now in its sixth year of existence, provides gratis access to scholarly literature, despite the continued presence of paywalls.
