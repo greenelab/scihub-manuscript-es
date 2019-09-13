@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/31d33f79b2eec50c14ac765295d04ad937c5c0de/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/558dceb31c3f17bb329a0f53db002e23f026aa7d/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@31d33f7](https://github.com/greenelab/scihub-manuscript-es/tree/31d33f79b2eec50c14ac765295d04ad937c5c0de)
+from [greenelab/scihub-manuscript-es@558dceb](https://github.com/greenelab/scihub-manuscript-es/tree/558dceb31c3f17bb329a0f53db002e23f026aa7d)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -492,11 +492,18 @@ Hence, inactive, toll access journals make up the bulk of perfect-coverage journ
 </details>
 
 ![
-**Distributions of journal & publisher coverages.**
-The histograms show the distribution of Sci-Hub's coverage for all 23,037 journals (top) and 3,832 publishers (bottom).
+**Distribuciones de revistas y coberturas editoriales.**
+Los histogramas muestran la distribución de la cobertura de Sci-Hub para las 23.037 revistas (arriba) y 3.832 editores (abajo).
+Cada contenedor abarca 2.5 puntos porcentuales.
+Por ejemplo, la barra superior izquierda indica que la cobertura de Sci-Hub está entre 0.0% –2.5% para 3,892 revistas.
+](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/coverage-distributions.svg){#fig:distributions width="5in"}
+
+<details><summary>Inglés Original</summary>
+**Distributions of journal & publisher coverages.** 
+The histograms show the distribution of Sci-Hub's coverage for all 23,037 journals (top) and 3,832 publishers (bottom). 
 Each bin spans 2.5 percentage points.
 For example, the top-left bar indicates Sci-Hub's coverage is between 0.0%–2.5% for 3,892 journals.
-](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/coverage-distributions.svg){#fig:distributions width="5in"}
+</details>
 
 A continuación, exploramos la cobertura de artículos de acuerdo con los atributos de la revista (Figura @fig:attributes). 
 Sci-Hub cubrió el 83.1% de los 56,755,671 artículos atribuibles a una revista. 
