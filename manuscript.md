@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/34222611343d2e6bf912054f8d7f99450c5af584/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/f24d6fcb2cf8bc40b4899359e29b98a112657d48/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@3422261](https://github.com/greenelab/scihub-manuscript-es/tree/34222611343d2e6bf912054f8d7f99450c5af584)
+from [greenelab/scihub-manuscript-es@f24d6fc](https://github.com/greenelab/scihub-manuscript-es/tree/f24d6fcb2cf8bc40b4899359e29b98a112657d48)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -450,7 +450,7 @@ A complete journal coverage table is available in our [Sci-Hub Stats Browser](ht
 The Browser also provides views for each journal and publisher with detailed coverage and access-log information.
 </details>
 
-| Journal | Sci-Hub | Crossref | Coverage |
+| Revista | Sci-Hub | Crossref | Cobertura |
 |---------|---------|----------|----------|
 | The Lancet | 457,650 | 458,580 | 99.8% |
 | Nature | 385,619 | 399,273 | 96.6% |
@@ -463,10 +463,17 @@ The Browser also provides views for each journal and publisher with detailed cov
 | New England Journal of Medicine | 180,321 | 180,467 | 99.9% |
 | PLOS ONE | 4,731 | 177,260 | 2.7% |
 
-Table: **Coverage for the ten journals with the most articles.**
+Table: **Cobertura para las diez revistas con más artículos.**
+El número total de artículos publicados por cada revista se anota en la columna Crossref. 
+La tabla proporciona el número (columna de Sci-Hub) y el porcentaje (columna de cobertura) de estos artículos que se encuentran en el repositorio de Sci-Hub.
+{#tbl:top-ten-journals}
+
+<details><summary>Inglés Original</summary>
+**Coverage for the ten journals with the most articles.**
 The total number of articles published by each journal is noted in the Crossref column.
 The table provides the number (Sci-Hub column) and percentage (Coverage column) of these articles that are in Sci-Hub's repository.
 {#tbl:top-ten-journals}
+</details>
 
 En general, la cobertura de una revista era o casi completa o casi nula (Figura 3). 
 Como resultado, relativamente pocas revistas tenían una cobertura entre el 5 y el 75%. 

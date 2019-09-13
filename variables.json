@@ -131,11 +131,11 @@
     "repo_slug": "greenelab/scihub-manuscript-es",
     "repo_owner": "greenelab",
     "repo_name": "scihub-manuscript-es",
-    "commit": "34222611343d2e6bf912054f8d7f99450c5af584",
-    "triggering_commit": "34222611343d2e6bf912054f8d7f99450c5af584",
-    "build_url": "https://travis-ci.com/greenelab/scihub-manuscript-es/builds/127398697",
-    "job_url": "https://travis-ci.com/greenelab/scihub-manuscript-es/jobs/234894647",
-    "manuscript_url": "https://greenelab.github.io/scihub-manuscript-es/v/34222611343d2e6bf912054f8d7f99450c5af584/"
+    "commit": "f24d6fcb2cf8bc40b4899359e29b98a112657d48",
+    "triggering_commit": "f24d6fcb2cf8bc40b4899359e29b98a112657d48",
+    "build_url": "https://travis-ci.com/greenelab/scihub-manuscript-es/builds/127398851",
+    "job_url": "https://travis-ci.com/greenelab/scihub-manuscript-es/jobs/234894983",
+    "manuscript_url": "https://greenelab.github.io/scihub-manuscript-es/v/f24d6fcb2cf8bc40b4899359e29b98a112657d48/"
   },
   "manuscript_stats": {
     "reference_counts": {
@@ -145,6 +145,6 @@
       "url": 46,
       "total": 130
     },
-    "word_count": 13486
+    "word_count": 13538
   }
 }
