@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/73fa8747a1d400adae1e573f6b39444ee201851d/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/19b6f8e2729a1226c86bddda9ee9769423608024/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@73fa874](https://github.com/greenelab/scihub-manuscript-es/tree/73fa8747a1d400adae1e573f6b39444ee201851d)
+from [greenelab/scihub-manuscript-es@19b6f8e](https://github.com/greenelab/scihub-manuscript-es/tree/19b6f8e2729a1226c86bddda9ee9769423608024)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -1158,12 +1158,28 @@ The barriers here are legal, not technological [@llK8SMam; @I6O7IKP7].
 In closing, were all articles libre, there would be no such thing as a "pirate website" for accessing scholarly literature.
 </details>  
 
-## Methods {.page_break_before}
+## Métodos {.page_break_before}
 
+Este proyecto se realizó completamente abierto, a través del repositorio de GitHub [greenelab/scihub](https://github.com/greenelab/scihub). 
+Varios autores de este estudio se involucraron después de mencionar sus nombres de usuario en las discusiones de GitHub. 
+El modelo totalmente transparente y en línea de este proyecto nos permitió reunir un equipo internacional de personas con experiencia y conocimiento complementarios.
+
+<details><summary>Inglés Original</summary>
 This project was performed entirely in the open, via the GitHub repository [greenelab/scihub](https://github.com/greenelab/scihub).
 Several authors of this study became involved after we mentioned their usernames in GitHub discussions.
 This project's fully transparent and online model enabled us to assemble an international team of individuals with complementary expertise and knowledge.
+</details>
 
+Administramos nuestro entorno computacional usando [Conda](https://conda.io/docs/), lo que nos permitió especificar e instalar dependencias tanto para Python como para R. 
+Realizamos nuestros análisis usando una serie de cuadernos [Jupyter](http://jupyter.org/). 
+En general, la integración y manipulación de datos se realizó en Python 3, dependiendo en gran medida en [Pandas](https://pandas.pydata.org/), mientras que el ploteado se realizó con [ggplot2](http://ggplot2.org/) en R. 
+Los datos tabulares se guardaron en formato TSV (valores separados por tabulaciones), y los grandes conjuntos de datos se comprimieron usando [XZ](https://tukaani.org/xz/). 
+Utilizamos Git Large File Storage ([Git LFS](https://git-lfs.github.com/)) para rastrear archivos grandes, lo que nos permite poner a disposición del público casi todos los conjuntos de datos generados y considerados para los análisis. 
+El navegador de estadísticas de Sci-Hub es una aplicación de una sola página creada con [React](https://reactjs.org/) y alojada a través de páginas [GitHub Pages](https://pages.github.com/). 
+Las visualizaciones frontend utilizan [Vega-Lite](https://vega.github.io/vega-lite/) [@nyZChH5b]. 
+Ciertos conjuntos de datos para el navegador están alojados en el repositorio de datos [greenelab/scihub-browser-data](https://github.com/greenelab/scihub-browser-data).
+
+<details><summary>Inglés Original</summary>
 We managed our computational environment using [Conda](https://conda.io/docs/), allowing us to specify and install dependencies for both Python and R.
 We performed our analyses using a series of [Jupyter](http://jupyter.org/) notebooks.
 In general, data integration and manipulation were performed in Python 3, relying heavily on [Pandas](https://pandas.pydata.org/), while plotting was performed with [ggplot2](http://ggplot2.org/) in R.
@@ -1172,19 +1188,43 @@ We used Git Large File Storage ([Git LFS](https://git-lfs.github.com/)) to track
 The Sci-Hub Stats Browser is a single-page application built using [React](https://reactjs.org/) and hosted via [GitHub Pages](https://pages.github.com/).
 Frontend visualizations use [Vega-Lite](https://vega.github.io/vega-lite/) [@nyZChH5b].
 Certain datasets for the browser are hosted in the [greenelab/scihub-browser-data](https://github.com/greenelab/scihub-browser-data) repository.
+</details>
 
+La fuente del manuscrito para este estudio se encuentra en [greenelab/scihub-manuscript](https://github.com/greenelab/scihub-manuscript). 
+Utilizamos [Manubot](https://github.com/greenelab/manubot-rootstock) para generar automáticamente el manuscrito desde los archivos Markdown. 
+Este sistema, desarrollado originalmente para [Deep Review](https://github.com/greenelab/deep-review) permite la escritura colaborativa en GitHub [@tJKvnIaZ], utiliza análisis continuo para obtener metadatos de referencia y reconstruir el manuscrito frente a cambios [@Qh7xTLwz].
+
+<details><summary>Inglés Original</summary>
 The manuscript source for this study is located at [greenelab/scihub-manuscript](https://github.com/greenelab/scihub-manuscript).
 We used the [Manubot](https://github.com/greenelab/manubot-rootstock) to automatically generate the manuscript from Markdown files.
 This system — originally developed for the [Deep Review](https://github.com/greenelab/deep-review) to enable collaborative writing on GitHub [@tJKvnIaZ] — uses continuous analysis to fetch reference metadata and rebuild the manuscript upon changes [@Qh7xTLwz].
+</details>
 
-### Digital Object Identifiers
+### Identificadores de objetos digitales
 
+Utilizamos los DOI (identificadores de objetos digitales) para identificar artículos de forma única. 
+Los repositorios de LibGen scimag y Sci-Hub también identifican de manera única los artículos por sus DOI, lo que hace que los DOI sean el identificador primario natural para nuestros análisis. 
+La iniciativa DOI comenzó en 1997, y los primeros DOI se registraron en 2000 [@8zeVK2hX; @JDfJRWbr].
+Tenga en cuenta que los DOI pueden registrarse de forma retroactiva. 
+Por ejemplo, el descubrimiento de protistas y bacterias de Antony van Leewenhoeck, publicado en 1677 por _Philosophical Transactions de la Royal Society of London_ [@HhEZiSSR], tiene un DOI (`10.1098/rstl.1677.0003`), asignado retroactivamente en 2006.
+
+<details><summary>Inglés Original</summary>
 We used DOIs (Digital Object Identifiers) to uniquely identify articles.
 The Sci-Hub and LibGen scimag repositories also uniquely identify articles by their DOIs, making DOIs the natural primary identifier for our analyses.
 The DOI initiative began in 1997, and the first DOIs were registered in 2000 [@8zeVK2hX; @JDfJRWbr].
 Note that DOIs can be registered retroactively.
 For example, Antony van Leewenhoeck's discovery of protists and bacteria — published in 1677 by _Philosophical Transactions of the Royal Society of London_ [@HhEZiSSR] — has a DOI (`10.1098/rstl.1677.0003`), retroactively assigned in 2006.
+</details>
 
+No todos los artículos académicos tienen DOI. 
+Al evaluar la presencia de DOI en otras bases de datos de literatura académica (como PubMed, Web of Science y Scopus), los investigadores estiman que alrededor del 90% de los artículos recientemente publicados en las ciencias tienen DOI [@9sCtTvlE; @10zxQMO6J]. 
+La prevalencia de los DOI varía según la disciplina y el país de publicación, con una asignación de DOI en artículos recientemente publicados en artes y humanidades de alrededor del 60% [@9sCtTvlE]. 
+De hecho, el registro de DOI es casi totalmente inexistente para los editores de muchos países de Europa del Este [@10zxQMO6J]. 
+Además, la prevalencia de la asignación de DOI es probablemente menor para los artículos más antiguos [@10zxQMO6J].
+La asignación incompleta y no aleatoria de los DOI a artículos académicos es una limitación de este estudio. 
+Sin embargo, los DOI son presumiblemente el identificador menos imperfecto y más extendido para artículos académicos.
+
+<details><summary>Inglés Original</summary>
 Not all scholarly articles have DOIs.
 By evaluating the presence of DOIs in other databases of scholarly literature (such as PubMed, Web of Science, and Scopus), researchers estimate around 90% of newly published articles in the sciences have DOIs [@9sCtTvlE; @10zxQMO6J].
 The prevalence of DOIs varies by discipline and country of publication, with DOI assignment in newly published Arts & Humanities articles around 60% [@9sCtTvlE].
@@ -1192,13 +1232,24 @@ Indeed, DOI registration is almost entirely lacking for publishers from many Eas
 In addition, the prevalence of DOI assignment is likely lower for older articles [@10zxQMO6J].
 The incomplete and non-random assignment of DOIs to scholarly articles is a limitation of this study.
 However, DOIs are presumably the least imperfect and most widespread identifier for scholarly articles.
+</details>
 
+Un aspecto a menudo ignorado del sistema DOI es que los DOI no distinguen entre mayúsculas y minúsculas dentro del rango de caracteres ASCII [@8zeVK2hX; @LS0mB1CD]. 
+En otras palabras, `10.7717/peerj.705` se refiere al mismo artículo que `10.7717/PeerJ.705`. 
+En consecuencia, los DOI hacen un identificador estándar deficiente a menos que estén en mayúsculas y minúsculas de forma consistente.
+Si bien el manual de DOI establece que "todos los nombres de DOI se convierten en mayúsculas al registrarse" [@8zeVK2hX], utilizamos en minúsculas los DOI de acuerdo con el proceder de Crossref. 
+Dado el riesgo de DOI inigualables, utilizamos en minúsculas los DOI para cada recurso de entrada lo antes posible en nuestro proceso de procesamiento. 
+La utilización consistente de minúscula [influyó considerablemente](https://github.com/greenelab/scihub/issues/9) en nuestros hallazgos ya que diferentes recursos utilizaron tipografía diferentes del mismo DOI.
+
+<details><summary>Inglés Original</summary>
 An often overlooked aspect of the DOI system is that DOIs are case-insensitive within the ASCII character range [@8zeVK2hX; @LS0mB1CD].
 In other words, `10.7717/peerj.705` refers to the same article as `10.7717/PeerJ.705`.
 Accordingly, DOIs make a poor standard identifier unless they are consistently cased.
 While the DOI handbook states that "all DOI names are converted to upper case upon registration" [@8zeVK2hX], we lowercased DOIs in accordance with Crossref's behavior.
 Given the risk of unmatched DOIs, we lowercased DOIs for each input resource at the earliest opportunity in our processing pipeline.
 Consistent casing [considerably influenced](https://github.com/greenelab/scihub/issues/9) our findings as different resources used different casings of the same DOI.
+</details>
+
 
 ### Crossref-derived catalog of scholarly articles
 
