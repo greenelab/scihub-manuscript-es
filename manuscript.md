@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/8a8dbc2993ff87296892c74e6d0a6e7d795c7025/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/3977043d1a5e6601af2776e6dc0269bcc6daf401/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@8a8dbc2](https://github.com/greenelab/scihub-manuscript-es/tree/8a8dbc2993ff87296892c74e6d0a6e7d795c7025)
+from [greenelab/scihub-manuscript-es@3977043](https://github.com/greenelab/scihub-manuscript-es/tree/3977043d1a5e6601af2776e6dc0269bcc6daf401)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -409,8 +409,20 @@ Coverage is plotted for the Crossref work types included by this study.
 We refer to all of these types as "articles".
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/coverage-by-type.svg){#fig:types width="4in"}
 
-### Coverage by journal
+### Cobertura por revista
 
+Definimos un conjunto integral de espacios de publicación académica, conocidos como "revistas", basados en la base de datos Scopus. 
+En realidad, incluyen conferencias con actas y series de libros. 
+Para su inclusión en este análisis, cada uno requirió un ISSN y al menos un artículo como parte del catálogo de literatura académica derivado de Crossref. 
+En consecuencia, nuestro catálogo constaba de 23.037 revistas que abarcaban 56.755.671 artículos. 
+De estas revistas, 4.598 (20,0%) estaban inactivas (es decir, ya no publicaban artículos) y 2.933 tenían acceso abierto (12,7%). 
+Solo 70 revistas estaban inactivas y eran también en acceso abierto.
+
+Calculamos la cobertura de Sci-Hub para cada una de las 23,037 revistas (ejemplos en la Tabla @tbl:top-ten-journals). 
+Una tabla completa de cobertura de revistas está disponible en nuestro navegador de estadísticas de Sci-Hub [Sci-Hub Stats Browser](https://greenelab.github.io/scihub/#/journals). 
+El navegador también proporciona vistas para cada revista y editorial con cobertura detallada e información de registro de acceso.
+
+<details><summary>Inglés Original</summary>
 We defined a comprehensive set of scholarly publishing venues, referred to as "journals", based on the Scopus database.
 In reality, these include conferences with proceedings as well as book series.
 For inclusion in this analysis, each required an ISSN and at least one article as part of the Crossref-derived catalog of scholarly literature.
@@ -421,6 +433,7 @@ Only 70 journals were inactive and also open access.
 We calculated Sci-Hub's coverage for each of the 23,037 journals (examples in Table @tbl:top-ten-journals).
 A complete journal coverage table is available in our [Sci-Hub Stats Browser](https://greenelab.github.io/scihub/#/journals).
 The Browser also provides views for each journal and publisher with detailed coverage and access-log information.
+</details>
 
 | Journal | Sci-Hub | Crossref | Coverage |
 |---------|---------|----------|----------|
