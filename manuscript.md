@@ -27,9 +27,9 @@ title: "Sci-Hub proporciona acceso a casi toda la literatura acad\xE9mica"
 
 Este estudio fue publicado en _eLife_ el 9 de febrero de 2018 en <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 Este manuscrito
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/d784de5f51663167c08281380906f8ddf398c70f/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/31ae032d30cadc2dea8c590beafb5fd033116681/))
 fue generado automaticamente
-de [greenelab/scihub-manuscript-es@d784de5](https://github.com/greenelab/scihub-manuscript-es/tree/d784de5f51663167c08281380906f8ddf398c70f)
+de [greenelab/scihub-manuscript-es@31ae032](https://github.com/greenelab/scihub-manuscript-es/tree/31ae032d30cadc2dea8c590beafb5fd033116681)
 on September 13, 2019.
 Enviar comentarios sobre el manuscrito en [git.io/v7feh](https://git.io/v7feh) o en los análisis en [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -141,7 +141,7 @@ El acceso abierto verde a los artículos con acceso de pago a través de servici
 Nuestro navegador interactivo en <https://greenelab.github.io/scihub> permite a los usuarios explorar estos hallazgos con más detalle. 
 Por primera vez, casi toda la literatura académica está disponible de forma gratuita para cualquier persona con conexión a Internet, lo que sugiere que el modelo de negocio de acceso través de pago puede volverse insostenible.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 The website Sci-Hub enables users to download PDF versions of scholarly articles, including many articles that are paywalled at their journal's site.
 Sci-Hub has grown rapidly since its creation in 2011, but the extent of its coverage was unclear.
 Here we report that, as of March 2017, Sci-Hub's database contains 68.9% of the 81.6 million scholarly articles registered with Crossref and 85.1% of articles published in toll access journals.
@@ -159,7 +159,7 @@ Estimaciones recientes sugieren que los muros de pago en la web limitan el acces
 El movimiento de acceso abierto persevera por remediar esta situación [@PuP45jrB]. 
 Después de décadas de esfuerzo por parte de la comunidad de acceso abierto [@3k6GM8o4], casi el 50% de los artículos recientemente publicados están disponibles sin muros de pagos [@eOi5pOoT; @n1xo9kJ7; @NE5AByb0].
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Recent estimates suggest paywalls on the web limit access to three-quarters of scholarly literature [@eOi5pOoT; @MNHagzoO; @9JroGcRn].
 The open access movement strives to remedy this situation [@PuP45jrB].
 After decades of effort by the open access community [@3k6GM8o4], nearly 50% of newly published articles are available without paywalls [@eOi5pOoT; @n1xo9kJ7; @NE5AByb0].
@@ -172,7 +172,7 @@ Como resultado, solo un pequeño porcentaje de la población mundial ha podido a
 Para agravar el problema, las publicaciones han sido históricamente el principal, si no el único, producto del quehacer académico.
 Aunque los derechos de autor no se aplican a las ideas, las revistas aprovechan los derechos que cubren la prosa, las figuras y la composición tipográfica de un artículo para efectivamente poner detrás de un muro de pago su conocimiento.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Despite these gains, access to scholarly literature remains a pressing global issue.
 Foremost, widespread subscription access remains restricted to institutions, such as universities or medical centers.
 Smaller institutions or those in the developing world often have poor access to scholarly literature [@16BrOMxI0; @13ynzWtv8; @17wtGC2m7].
@@ -187,7 +187,7 @@ Mientras tanto, el sistema de publicaciones ha tendido hacia el oligopolio [@OGM
 Los aumentos de precios han persistido durante la última década [@AgjD0tTw; @12rSJsEKK; @GWp5Zx0w]. 
 Por ejemplo, EBSCO estima que los costos de suscripción por revista aumentaron en un 25% entre 2013 y 2017, con una suscripción anual a una revista para bibliotecas de investigación en un promedio de $1,396 [@5e9PbvWY].
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Since each article is unique, libraries cannot substitute one journal subscription for another without depriving their users of potentially crucial access.
 As a result, the price of journal subscriptions has grown at a faster rate than inflation for several decades [@PR3qioJB], leading to an ever-present "serials crisis" that has pushed library budgets to their brink while diverting funds from other services [@18zoY6Ild].
 Meanwhile, publishing has trended towards oligopoly [@OGMKPsIG], with nondisclosure clauses obfuscating price information among subscribers [@7oTLbigW] while publishers profit immensely [@bGUjzQuG; @D9un8JYo; @xDn5v2f3].
@@ -201,7 +201,7 @@ Además, discutimos dos variantes de acceso abierto: “libre” y “gratis” 
 Libre acceso abierto se refiere a literatura que tiene licencia abierta para permitir su reutilización. 
 El acceso abierto gratuito se refiere a la literatura a la que se puede acceder de forma gratuita, aunque las barreras de permiso pueden permanecer (generalmente debido a los derechos de autor) [@7aXVorCC].
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 In this study, we use the term "toll access" (also known as "closed access") to refer to paywalled literature [@zBPP9YKu].
 On the other hand, we refer to literature that is free to read as "open access".
 Furthermore, we discuss two variants of open access: "libre" and "gratis" [@zBPP9YKu; @tSEdUvgK].
@@ -214,7 +214,7 @@ Sci-Hub se presenta a sí mismo como "el primer sitio web pirata en el mundo en 
 El sitio web, iniciado en 2011, está dirigido por Alexandra Elbakyan, una estudiante de postgrado originaria de Kazajstán que ahora reside en Rusia [@JVjciZPv; @sR4uAYxB]. 
 Elbakyan se describe a sí misma como motivada para proporcionar acceso universal al conocimiento [@nZZjs6T6; @1BUarVNFD; @K6n65WB0].
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 The website Sci-Hub, now in its sixth year of existence, provides gratis access to scholarly literature, despite the continued presence of paywalls.
 Sci-Hub brands itself as "the first pirate website in the world to provide mass and public access to tens of millions of research papers."
 The website, started in 2011, is run by Alexandra Elbakyan, a graduate student and native of Kazakhstan who now resides in Russia [@JVjciZPv; @sR4uAYxB].
@@ -228,7 +228,7 @@ Los lectores deben tener en cuenta que, en muchas jurisdicciones, el uso de Sci-
 Este estudio no endorsa el uso de Sci-Hub, y sus autores y editores no aceptan ninguna responsabilidad en nombre de los lectores. 
 Existe la posibilidad de que los usuarios de Sci-Hub, especialmente aquellos que no usan servicios de mejora de la privacidad como Tor, puedan tener su historial de uso revelado y enfrentar consecuencias legales o de reputación.**
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Sci-Hub does not restrict itself to only openly licensed content.
 Instead, it retrieves and distributes scholarly literature without regard to copyright.
 **Readers should note that, in many jurisdictions, use of Sci-Hub may constitute copyright infringement.
@@ -242,7 +242,7 @@ Elbakyan describió el alcance técnico del proyecto en julio de 2017 [@1H8x8f4Y
 “Sci-Hub técnicamente es en sí mismo un repositorio, o una biblioteca si lo desea, y no un motor de búsqueda para algún otro repositorio. 
 Pero, por supuesto, la parte más importante en Sci-Hub no es un repositorio, sino el script que puede descargar documentos cerrados detrás de los muros de pago”.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Sci-Hub is currently served at domains including https://sci-hub.hk, https://sci-hub.la, https://sci-hub.mn, https://sci-hub.name, https://sci-hub.tv, and https://sci-hub.tw, as well as at scihub22266oqcxt.onion — a Tor Hidden Service [@zvVsLNxf].
 Elbakyan described the project's technical scope in July 2017 [@1H8x8f4Y7]:
 "Sci-Hub technically is by itself a repository, or a library if you like, and not a search engine for some other repository.
@@ -256,7 +256,7 @@ Desde su inicio, Sci-Hub ha experimentado un crecimiento sostenido, con picos de
 Aquí investigamos en qué medida Sci-Hub proporciona acceso a la literatura académica. 
 Si la cobertura de Sci-Hub es suficientemente amplia, entonces puede haber un cambio radical en la forma en que las personas acceden a la literatura académica.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 One method Sci-Hub uses to bypass paywalls is by obtaining leaked authentication credentials for educational institutions [@1H8x8f4Y7].
 These credentials enable Sci-Hub to use institutional networks as proxies and gain subscription journal access.
 While the open access movement has progressed slowly [@KDvO1ctK], Sci-Hub represents a seismic shift in access to scholarly literature.
@@ -275,7 +275,7 @@ La primera línea punteada rosa representa la fecha de recolección de los metad
 La segunda línea de puntos rosa muestra la fecha del catálogo de DOI tuiteado de Sci-Hub utilizado en este estudio. 
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/explore/trends/google-trends.png){#fig:history width="100%" .white}
 
-<details><summary>Inglés Subtítulo Original</summary>
+<details><summary>Inglés original</summary>
 **The history of Sci-Hub.**
 Weekly interest from Google Trends is plotted over time for the search terms "Sci-Hub" and "LibGen".
 The light green period indicates when Sci-Hub used LibGen as its database for storing articles [@1H8x8f4Y7].
@@ -309,7 +309,7 @@ Cuatro días después, Sci-Hub restablece el acceso después de recibir "muchas 
 + **Ⓛ** El tribunal dictaminó sobre la demanda de la American Chemical Society, ordenando a Sci-Hub que pague $ 4.8 millones en daños y que "cualquier persona o entidad en concierto o participación activa" con Sci-Hub "incluyendo cualquier motor de búsqueda en Internet, alojamiento web y servicio de proveedores de Internet, registradores de nombres de dominio y registros de nombres de dominio, dejen de facilitar el acceso” [@WBnZqVXT; @XI4kiPR4]. 
 En cinco semanas, los dominios sci-hub.io, sci-hub.ac, sci-hub.cc y sci-hub.bz fueron suspendidos por sus respectivos registros de nombres de dominio [@pmrIfHRq], dejando solo el servicio oculto Tor y varios dominios recientemente registrados/revelados en operación.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 In Figure @fig:history, The ⓛⓔⓣⓣⓔⓡⓢ refer to the following events:
 
 + **Ⓐ** Created by Alexandra Elbakyan, the Sci-Hub website goes live on September 5, 2011.
@@ -342,7 +342,7 @@ Si el artículo no estaba en LibGen, Sci-Hub buscaría el artículo para el usua
 Cabanac comparó el número de artículos en la base de datos de Scimag de LibGen a principios de 2014 con el número total de DOI Crossref, estimando que LibGen contenía el 36% de todos los artículos académicos publicados [@18KKRwlN6]. 
 La cobertura fue mayor para varios editores destacados: 77% para Elsevier, 73% para Wiley y 53% para Springer (antes de su fusión con Macmillan / Nature [@ynhlmOBH]).
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Past research sheds some light on Sci-Hub's reach.
 From the Spring of 2013 until the end of 2014, Sci-Hub relied on the Library Genesis (LibGen) scimag repository to store articles [@1H8x8f4Y7].
 Whenever a user requested an article, Sci-Hub would check LibGen for a copy.
@@ -360,7 +360,7 @@ Greshake también analizó los registros para identificar el uso per cápita de 
 Portugal, Irán, Túnez y Grecia tuvieron el mayor uso, lo que sugiere que Sci-Hub se utiliza preferentemente en países con acceso institucional deficiente a la literatura académica. 
 En un estudio posterior, encontró un uso especialmente elevado de Sci-Hub en química, con 12 de las 20 revistas más solicitadas especializadas en química [@iLKgjFDu; @nnSxBFFr].
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Later, Bohannon analyzed six months of Sci-Hub's server access logs, starting in September 2015 [@RsNXQAG2].
 He found a global pattern of usage.
 Based on these logs, Gardner, McLaughlin, and Asher estimated the ratio of publisher downloads to Sci-Hub downloads within the U.S. for several publishers [@17rORqxsI].
@@ -380,7 +380,7 @@ El estudio de Greshake no incorporó un catálogo de toda la literatura académi
 Este estudio analiza el catálogo de Sci-Hub en el contexto de toda la literatura académica y, por lo tanto, evalúa la cobertura. 
 En otras palabras, ¿qué porcentaje de artículos en un dominio dado tiene Sci-Hub en su repositorio?
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Since 2015, Sci-Hub has operated its own repository, distinct from LibGen.
 On March 19, 2017, Sci-Hub released the list of DOIs for articles in its database.
 Greshake retrieved metadata for 77% of Sci-Hub DOIs [@iLKgjFDu; @nnSxBFFr].
@@ -400,7 +400,7 @@ Para evaluar los artículos disponibles de Sci-Hub, nos basamos en una lista de 
 Todos los DOI fueron puestos en minúsculas para ser congruentes entre los conjuntos de datos (ver Métodos). 
 Lo disponible en Sci-Hub incluyó 56,246,220 artículos del corpus de literatura académica, lo que equivale al 68.9% de todos los artículos.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 To define the extent of the scholarly literature, we relied on DOIs from the Crossref database, as downloaded on March 21, 2017.
 We define the "scholarly literature" as 81,609,016 texts identified by their DOIs.
 We refer to these texts as "articles", although Sci-Hub encompasses a range of text types, including book chapters, conference papers, and journal front matter.
@@ -418,7 +418,7 @@ La cobertura de Sci-Hub también fue fuerte para los 5 millones de artículos de
 La cobertura general se vio afectada por los 10 millones de capítulos de libros, donde la cobertura fue deficiente (14,2%). 
 Los restantes tipos de Crossref eran poco comunes y, por lo tanto, contribuyeron poco a la cobertura general.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Each article in Crossref's database is assigned a type.
 Figure @fig:types shows coverage by article type.
 The scholarly literature consisted primarily of journal articles, for which Sci-Hub had 77.8% coverage.
@@ -433,7 +433,7 @@ La cobertura se traza para los tipos de trabajo Crossref incluidos en este estud
 Nos referimos a todos estos tipos como "artículos".
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/coverage-by-type.svg){#fig:types width="4in"}
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 **Coverage by article type.**
 Coverage is plotted for the Crossref work types included by this study.
 We refer to all of these types as "articles".
@@ -452,7 +452,7 @@ Calculamos la cobertura de Sci-Hub para cada una de las 23,037 revistas (ejemplo
 Una tabla completa de cobertura de revistas está disponible en nuestro navegador de estadísticas de Sci-Hub [Sci-Hub Stats Browser](https://greenelab.github.io/scihub/#/journals). 
 El navegador también proporciona vistas para cada revista y editorial con cobertura detallada e información de registro de acceso.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 We defined a comprehensive set of scholarly publishing venues, referred to as "journals", based on the Scopus database.
 In reality, these include conferences with proceedings as well as book series.
 For inclusion in this analysis, each required an ISSN and at least one article as part of the Crossref-derived catalog of scholarly literature.
@@ -483,7 +483,7 @@ El número total de artículos publicados por cada revista se anota en la column
 La tabla proporciona el número (columna de Sci-Hub) y el porcentaje (columna de cobertura) de estos artículos que se encuentran en el repositorio de Sci-Hub.
 {#tbl:top-ten-journals}
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 **Coverage for the ten journals with the most articles.**
 The total number of articles published by each journal is noted in the Crossref column.
 The table provides the number (Sci-Hub column) and percentage (Coverage column) of these articles that are in Sci-Hub's repository.
@@ -497,7 +497,7 @@ De las revistas de cobertura cero, 22.2% estaban inactivas y 27.9% tenían acces
 De las revistas de cobertura perfecta, el 81,6% estaban inactivas y el 2,0% tenían acceso abierto. 
 Por lo tanto, las revistas inactivas de acceso con muro de pago constituyen la mayor parte de las revistas de cobertura perfecta.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 In general, a journal's coverage was either nearly complete or near zero (Figure @fig:distributions).
 As a result, relatively few journals had coverage between 5–75%.
 At the extremes, 2,574 journals had zero coverage in Sci-Hub, whereas 2,095 journals had perfect coverage.
@@ -513,7 +513,7 @@ Cada contenedor abarca 2.5 puntos porcentuales.
 Por ejemplo, la barra superior izquierda indica que la cobertura de Sci-Hub está entre 0.0% –2.5% para 3,892 revistas.
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/coverage-distributions.svg){#fig:distributions width="5in"}
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 **Distributions of journal & publisher coverages.** 
 The histograms show the distribution of Sci-Hub's coverage for all 23,037 journals (top) and 3,832 publishers (bottom). 
 Each bin spans 2.5 percentage points.
@@ -528,7 +528,7 @@ La cobertura varió según el área temática, con la cobertura más alta en qu�
 En consecuencia, ninguna disciplina tuvo cobertura por debajo del 75%. 
 Consulte la Figura @fig:countries para la cobertura según el país de publicación de una revista.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Next, we explored article coverage according to journal attributes (Figure @fig:attributes).
 Sci-Hub covered 83.1% of the 56,755,671 articles that were attributable to a journal.
 Articles from inactive journals had slightly lower coverage than active journals (77.3% versus 84.1%).
@@ -549,7 +549,7 @@ Como ejemplo, identificamos 588 revistas de neurociencia, que contenían 1,8 mil
 Sci-Hub poseía el 87.7% de estos artículos.
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/coverage.svg){#fig:attributes width="100%"}
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 **Coverage by journal attributes.**
 Each bar represents Sci-Hub’s coverage of articles in journals with the specified attributes, according to Scopus. 
 Active refers to whether a journal still publishes articles. 
@@ -565,7 +565,7 @@ Evaluamos el impacto de la revista usando el CiteScore 2015, que mide el número
 Las revistas altamente citadas tendieron a tener una mayor cobertura en Sci-Hub (Figura {@fig:citescore}A). 
 Las 1.734 revistas menos citadas (decil más bajo) tuvieron una cobertura promedio de 40.9%, mientras que las 1.733 revistas más citadas (decil superior) promediaron una cobertura de 90.0%.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 We also evaluated whether journal coverage varied by journal impact.
 We assessed journal impact using the 2015 CiteScore, which measures the average number of citations that articles published in 2012–2014 received during 2015.
 Highly cited journals tended to have higher coverage in Sci-Hub (Figure {@fig:citescore}A).
@@ -590,7 +590,7 @@ En total, 3.832 editoriales estuvieron representados en el catálogo de las revi
 La distribución de la cobertura entre las editoriales se parecía a la distribución de la cobertura de la revista, y la mayoría de las editoriales ocupaban las extremidades (Figura @fig:distributions). 
 Sci-Hub tenía cobertura cero para 1.249 editoriales y cobertura completa para 341 editores.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Next, we evaluated coverage by publisher (Figure @fig:publishers, full table [online](https://greenelab.github.io/scihub/#/publishers)).
 The largest publisher was Elsevier, with 13,115,639 articles from 3,410 journals.
 Sci-Hub covered 96.9% of Elsevier articles.
@@ -613,7 +613,7 @@ Sci-Hub had zero coverage for 1,249 publishers, and complete coverage for 341 pu
 La cobertura de artículos se muestra para todas las editoriales de Scopus con al menos 200,000 artículos.
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/coverage-by-publisher.svg){#fig:publishers width="100%"}
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 **Coverage by publisher.**
 Article coverage is shown for all Scopus publishers with at least 200,000 articles. 
 </details>
@@ -627,7 +627,7 @@ Por ejemplo, la cobertura de 2016 fue del 56.0% y la cobertura de 2017 (durante 
 Un factor es que Sci-Hub puede tardar un tiempo en recuperar los artículos después de su publicación, ya que muchos artículos no se descargan hasta que un usuario los solicite. 
 Otro posible factor es que algunas editoriales ahora están implementando medidas más agresivas para disuadir las descargas no autorizadas de artículos [@xn59qVAG; @d9g1ZhPz], lo que hace que los artículos recientes sean menos accesibles.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Next, we investigated coverage based on the year an article was published (Figure @fig:years).
 For most years since 1850, annual coverage is between 60–80%.
 However, there is a dropoff in coverage, starting in 2010, for recently published articles.
@@ -641,7 +641,7 @@ Another possible factor is that some publishers are now deploying more aggressiv
 La cobertura de artículos de Sci-Hub se muestra para cada año desde 1850.
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/coverage-by-year.svg){#fig:years width="100%"}
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 **Coverage of articles by year published.**
 Sci-Hub's article coverage is shown for each year since 1850.
 </details>
@@ -653,7 +653,7 @@ Para los artículos abiertos y de muro de pago, la caída reciente de la cobertu
 Especulamos que esta discrepancia resulta de la proliferación de revistas oscuras y de baja calidad en la última década [@K29A7oBE], ya que estas revistas generalmente emiten DOI pero no están indexadas en Scopus, y por lo tanto se incluirían en la Figura @fig:years pero no en la Figura @fig:years-by-access. 
 Además de tener una demanda limitada de lectores, estas revistas son generalmente de acceso abierto y, por lo tanto, menos blanco de acceso a través de Sci-Hub.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 In addition, the prevalence of open access has been increasing, while Sci-Hub preferentially covers articles in toll access journals.
 Figure @fig:years-by-access tracks yearly coverage separately for articles in toll and open access journals.
 Toll access coverage exceeded 80% every year since 1950 except for 2016 and 2017.
@@ -667,7 +667,7 @@ Tras una investigación adicional [investigation](https://github.com/greenelab/s
 Sci-Hub actualmente redirige las solicitudes de estas publicaciones anuladas al sitio del editor, a menos que ya posea el artículo, en cuyo caso sirve el PDF. 
 Estos hallazgos sugieren que Sci-Hub prioriza eludir las barreras de acceso en lugar de crear un único repositorio que contenga todos los artículos académicos.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Sci-Hub's coverage of 2016 articles in open access journals was just 32.7% compared to 78.8% for articles in toll access journals (Figure @fig:years-by-access).
 Upon further [investigation](https://github.com/greenelab/scihub/blob/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/13.oa-journal-dropoffs.ipynb), we discovered that in June 2015, Sci-Hub ceased archiving articles in [_PeerJ_](https://greenelab.github.io/scihub/#/journal/21100239256), [_eLife_](https://greenelab.github.io/scihub/#/journal/21100242814), and [PLOS journals](https://greenelab.github.io/scihub/#/publisher/public-library-of-science), although they continued archiving articles in other open access journals such as [_Scientific Reports_](https://greenelab.github.io/scihub/#/journal/21100200805), [_Nature Communications_](https://greenelab.github.io/scihub/#/journal/19700182758), and BMC-series journals.
 Sci-Hub currently redirects requests for these delisted journals to the publisher's site, unless it already possesses the article, in which case it serves the PDF.
@@ -682,7 +682,7 @@ Sin embargo, los artículos en las revistas de acceso a través de muro de pago 
 Adoptando la terminología del reciente estudio "State of OA" [@eOi5pOoT], los artículos en revistas de acceso gratuito pueden estar disponibles de forma gratuita por parte del editor bajo una licencia que permite su uso (denominado "híbrido") o con todos los derechos reservados (denominado "bronce"). 
 Alternativamente, los artículos "verdes" se pagan en el sitio de la editorial, pero están disponibles de forma gratuita desde un repositorio de acceso abierto (por ejemplo, un servidor de preprints o postprints, excluyendo Sci-Hub y las redes sociales académicas).
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 In the previous analyses, open access status was determined at the journal level according to Scopus.
 This category of access is frequently referred to as "gold" open access, meaning that all articles from the journal are available gratis.
 However, articles in toll access journals may also be available without charge.
@@ -695,7 +695,7 @@ La Figura @fig:oadoi muestra la cobertura de Sci-Hub para cada categoría de est
 En línea con nuestros hallazgos en todo el catálogo de artículos de Crossref donde Sci-Hub cubrió el 49.1% de los artículos en revistas en acceso abierto, la cobertura de Sci-Hub de artículos “oro” en el conjunto de datos del Estado de OA fue del 49.2%. 
 La cobertura de los 165.340 artículos cerrados fue del 90,4%.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 The State of OA study determined the access status of 290,120 articles using the oaDOI utility (see [Methods](#state-of-oa-datasets)).
 Figure @fig:oadoi shows Sci-Hub's coverage for each category of access status.
 In line with our findings on the entire Crossref article catalog where Sci-Hub covered 49.1% of articles in open access journals, Sci-Hub's coverage of gold articles in the State of OA dataset was 49.2%.
@@ -710,7 +710,7 @@ Aquí, las tres colecciones del Estado de OA se combinaron, produciendo 290,120 
 La Figura @fig:oadoi-large muestra la cobertura por separado para las tres colecciones del Estado de AA.
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/state-of-oa-colors-small.svg){#fig:oadoi width="60%"}
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 **Sci-Hub's coverage by oaDOI access status.**
 Using oaDOI calls from the State of OA study, we show Sci-Hub's coverage on each access status.
 Gray indicates articles that were not accessible via oaDOI (referred to as closed).
@@ -724,7 +724,7 @@ Estos hallazgos sugieren un patrón histórico en el que los usuarios recurren a
 Como tal, Sci-Hub recibe solicitudes de artículos verdes, lo que hace que recupere artículos verdes a una velocidad similar a los artículos cerrados. 
 Sin embargo, los artículos híbridos y de bronce, que están disponibles de forma gratuita en sus editores, se solicitan y, por lo tanto, se recuperan a una tasa menor.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Sci-Hub's coverage was higher for closed and green articles than for hybrid or bronze articles.
 Furthermore, Sci-Hub's coverage of closed articles was similar to its coverage of green articles (Figure @fig:oadoi).
 These findings suggest a historical pattern where users resort to Sci-Hub after encountering a paywall but before checking oaDOI or a search engine for green access.
@@ -742,7 +742,7 @@ National Association of College and University Business Officers and Commonfund 
 Higher education R&D expenditures, ranked by all R&D expenditures, by source of funds: FY 2016") en Penn totalizaron $ 1.29 mil millones en 2016, ubicándose en el tercer lugar entre los colegios y universidades de EE. UU. En 2017, Penn Libraries estima [estimates](https://github.com/greenelab/library-access/issues/23) que gastó $ 13.13 millones en recursos electrónicos, que incluyen suscripciones a revistas y libros electrónicos. 
 Durante este año, sus usuarios accedieron a 7.3 millones de artículos y 860 mil capítulos de libros electrónicos, con un costo promedio por descarga de $ 1.61.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 As a benchmark, we decided to compare Sci-Hub's coverage to the access provided by a major research library.
 Since we were unaware of any studies that comprehensively profiled library access to scholarly articles, we collaborated with Penn Libraries to assess the extent of access available at the University of Pennsylvania (Penn).
 Penn is a private research university located in Philadelphia and founded by the open science pioneer Benjamin Franklin in 1749.
@@ -764,7 +764,7 @@ Seleccionamos aleatoriamente 500 de estos artículos para evaluarlos manualmente
 Definimos el acceso como disponibilidad de texto completo en la ubicación redirigida por el DOI de un artículo, sin proporcionar ningún pago, credenciales o información de inicio de sesión. 
 Esta definición es análoga a la unión de las categorías de oro, híbrido y bronce de oaDOI.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Penn Libraries uses the Alma library resource management system from Ex Libris.
 Alma includes an
 <span title="OpenURL is a WWW standard for looking up and returning locations of articles and other content based on metadata supplied by a user — in this case, a DOI.
@@ -785,7 +785,7 @@ Esta tasa de error surgió porque PennText no solo desconocía el acceso de Penn
 A pesar de estos problemas, la estimación de PennText del acceso de Penn en 84.4% no difirió significativamente de la estimación evaluada manualmente de 87.4% [84.3% –90.1%]. 
 No obstante, procedemos mostrando comparaciones tanto para los 500 artículos con llamadas de acceso manual como para los 290,120 artículos con llamadas de PennText.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Using these manual access calls, we [found](https://github.com/greenelab/library-access/blob/c60246a0dd6b0fccf9b1954f793261e729954b66/evaluate_library_access_from_output_tsv/penntext-accuracy-500.ipynb) PennText correctly classified access 88.2% [85.2%–90.8%] of the time (bracketed ranges refer to 95% confidence intervals calculated using Jeffreys interval for binomial proportions [@BP6sDsyK]).
 PennText claimed to have access to 422 of the 500 articles [81.0%–87.4%].
 When PennText asserted access, it was correct 94.8% [92.4%–96.6%] of the time.
@@ -806,7 +806,7 @@ Los 326 artículos restantes a los que no se podía acceder desde el sitio de su
 Esto se mantuvo en el conjunto completo de 208.786 artículos de acceso a través de muro de pago del conjunto de datos del Estado de OA, donde oaDOI solo proporcionó acceso al 12.4% [12.3% –12.6%]. 
 Aunque la tasa de acceso general de oaDOI fue del 37.0% [36.8% –37.2%], este acceso consistió principalmente en artículos de oro, híbridos y bronce, por los cuales la editorial proporciona acceso gratuito.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 In practice, readers of the scholarly literature likely use a variety of methods for access.
 Figure @fig:combinations compares several of these methods, as well as their combinations.
 Users without institutional access may simply attempt to view an article on its publisher's site.
@@ -825,7 +825,7 @@ Además, la cobertura de Sci-Hub es un límite inferior para su tasa de acceso, 
 Sorprendentemente, Sci-Hub proporcionó un mayor acceso a artículos de muro de pago que una universidad de investigación líder que gasta millones de dólares estadounidenses por año en suscripciones. 
 Sin embargo, dado que Sci-Hub puede recuperar artículos a través de muchas redes universitarias, tal vez no sea sorprendente que su cobertura exceda la de cualquier universidad.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Sci-Hub and Penn had similar coverage on all articles:
 85.2% [81.9%–88.1%] versus 87.4% [84.3%–90.1%] on the manual article set and 84.8% [84.7%–84.9%] versus 84.4% [84.3%–84.5%] on the larger but automated set.
 However, when considering only toll access articles, Sci-Hub's coverage exceeds Penn's:
@@ -843,7 +843,7 @@ En los artículos de acceso a través de muro de pago, el acceso de Penn parecí
 Juntos, el repositorio de Sci-Hub y el acceso de Penn cubrieron aproximadamente el 96% de los artículos de acceso a través de muro de pago [95.0% –98.6% (conjunto manual), 95.9% –96.1% (conjunto automatizado)]. 
 Nuestros hallazgos sugieren que los usuarios con suscripciones institucionales comparables a las de Penn, así como el conocimiento de oaDOI y Sci-Hub, pueden acceder a más del 97% de todos los artículos [96.7% –99.1% (conjunto manual), 97.3% –97.5% (conjunto automatizado)], en línea y sin pago.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Combining access methods can also be synergistic.
 Specifically when including open access articles, combining Sci-Hub's repository with oaDOI's or Penn's access increased coverage from around 85% to 95%.
 The benefits of oaDOI were reduced when only considering toll access articles, where oaDOI only improved Sci-Hub's or Penn's coverage by approximately 1%.
@@ -867,7 +867,7 @@ Específicamente, el diagrama superior derecho evalúa la cobertura de los artí
 Del mismo modo, el diagrama de abajo a la derecha evalúa la cobertura de los artículos que oaDOI clasificó como cerrados o verdes y, por lo tanto, excluye los artículos de oro, híbridos y bronce (los disponibles gratuitamente por su editorial).
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/library-access-venns-small.svg){#fig:combinations width="60%"}
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 **Coverage of several access methods and their combinations.**
 This figure compares datasets of article coverage corresponding to various access methods.
 These article sets refer to manually evaluated access via the publisher's site from outside of an institutional network (labeled None) or from inside Penn's network (labeled Penn);
@@ -892,7 +892,7 @@ Sin embargo, sabemos que los lectores de artículos y, por extensión, las solic
 En cambio, la mayoría de los artículos reciben pocos lectores, con algunos artículos que reciben gran número de lecturas. 
 Por lo tanto, utilizamos citas recientes para estimar la cobertura de Sci-Hub de artículos ponderados por las necesidades del usuario.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 The coverage metrics presented thus far give equal weight to each article.
 However, we know that article readership and by extension Sci-Hub requests are not uniformly distributed across all articles.
 Instead, most articles receive little readership, with a few articles receiving great readership.
@@ -904,7 +904,7 @@ Identificamos 7,312,607 citas salientes de artículos publicados desde 2015.
 Sin embargo, si solo se consideran las 6.264.257 citas de artículos en revistas de acceso a través de muro de pago, Sci-Hub cubrió el 96.2% de las citas recientes. 
 Por otro lado, para las 866,115 citas de artículos en revistas de acceso abierto, Sci-Hub cubrió solo el 62.3%.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 We identified 7,312,607 outgoing citations from articles published since 2015.
 6,657,410 of the recent citations (91.0%) referenced an article that was in Sci-Hub.
 However, if only considering the 6,264,257 citations to articles in toll access journals, Sci-Hub covered 96.2% of recent citations.
@@ -917,7 +917,7 @@ Sci-Hub publicó acceso a artículos desde los registros de su servidor, que aba
 Después del procesamiento, los registros contenían 26,984,851 eventos de acceso. 
 Por lo tanto, Sci-Hub proporcionó acceso a un promedio de 164,000 solicitudes válidas por día a fines de 2015 y principios de 2016.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Sci-Hub released article access records from its server logs, covering 165 days from September 2015 through February 2016 [@RsNXQAG2; @t4r48QpO; @kQFQ8EaO].
 After processing, the logs contained 26,984,851 access events.
 Hence, Sci-Hub provided access to an average of 164,000 valid requests per day in late 2015–early 2016.
@@ -935,7 +935,7 @@ En el futuro, también quiero expandir el repositorio de Sci-Hub y agregar libro
 Sin embargo, el catálogo de Sci-Hub contiene el 72.4% de los 510,760 capítulos de libros distintos a los que se accedió de acuerdo con los registros. 
 Por lo tanto, capítulo por capítulo, Sci-Hub ya posee muchos de los libros académicos solicitados disponibles en LibGen.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 In the first version of this study [@11cb5HXoY], we mistakenly treated the log events as requests rather than downloads.
 Fortunately, Sci-Hub reviewed the preprint in a [series of tweets](https://github.com/greenelab/scihub-manuscript/issues/17), and pointed out the error, stating "in Sci-Hub access logs released previous year, all requests are resolved requests, i.e. user successfully downloaded PDF with that DOI … unresolved requests are not saved".
 Interestingly however, 198,600 access events from the logs pointed to DOIs that were not in Sci-Hub's subsequent DOI catalog.
@@ -957,7 +957,7 @@ Los artículos en las revistas de acceso a través de muro de pago menos citados
 Además, la Figura {@fig:citescore}B muestra que los artículos en las revistas de acceso a través de muro de pago reciben muchas más visitas que los de las publicaciones de acceso abierto, incluso después de tener en cuenta el impacto de la revista. 
 Una limitación del uso de este análisis para juzgar los patrones de uso de Sci-Hub es que no sabemos en qué medida ciertas categorías de artículos se resolvieron (y, por lo tanto, se registraron) a diferentes velocidades.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 We computed journal-level metrics based on average article downloads.
 The "visitors" metric assesses the average number of IP addresses that accessed each article published by a journal during the 20 months preceding September 2015 (the start date of the Sci-Hub logs).
 In aggregate, articles from toll access journals averaged 1.30 visitors, whereas articles from open access journals averaged 0.25 visitors.
@@ -979,7 +979,7 @@ La asociación entre CiteScore 2015 y el promedio de visitantes por artículo se
 Las curvas muestran la banda de confianza del 95% de un modelo aditivo generalizado.
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/citescore.svg){#fig:citescore width="100%"}
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 **Relation to journal impact.**
 **A)**
 Average coverage for journals divided into 2015 CiteScore deciles.
@@ -1000,7 +1000,7 @@ Además, Sci-Hub cubría preferentemente artículos populares con muros de pago.
 Encontramos que el 91.0% de las citas desde 2015 estaban presentes en el repositorio de Sci-Hub, que aumentó a 96.2% al excluir citas a artículos en revistas en acceso abierto. 
 Las revistas con una cobertura muy baja (incluida cero) tendían a ser revistas oscuras y menos citadas, mientras que la cobertura promedio de las revistas más citadas excedía el 90%.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Sci-Hub's repository contained 69% of all scholarly articles with DOIs.
 Coverage for the 54.5 million articles attributed to toll access journals — which many users would not otherwise be able to access — was 85.1%.
 Since Sci-Hub can retrieve, in real time, requested articles that are not in its database, our coverage figures are a lower bound.
@@ -1016,7 +1016,7 @@ En consecuencia, es probable que muchos usuarios solo recurran a Sci-Hub cuando 
 Finalmente, observamos evidencia de que el enfoque operativo principal de Sci-Hub es eludir los muros de pago en lugar de recopilar toda la literatura, ya que el archivo se desactivó en 2015 para varias revistas abiertas. 
 Como prueba de su éxito en esta misión, la base de datos de Sci-Hub ya contiene más artículos de acceso de pago de los que se puede acceder de inmediato a través de la Universidad de Pennsylvania, una universidad de investigación líder.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 We find strong evidence that Sci-Hub is primarily used to circumvent paywalls.
 In particular, users accessed articles from toll access journals much more frequently than open access journals.
 Additionally, within toll access journals, Sci-Hub provided higher coverage of articles in the closed and green categories (paywalled by the publisher) as opposed to the hybrid and bronze categories (available gratis from the publisher).
@@ -1038,7 +1038,7 @@ En respuesta a la preprint de este estudio [@11cb5HXoY], Sci-Hub [tuiteó](https
 Por lo tanto, presumiblemente, Sci-Hub ha recibió considerables donaciones a través de sistemas de pago alternativos o a direcciones de Bitcoin no reveladas, que nuestra auditoría no capturó. 
 Como no conocemos la identidad de los depositantes, otra posibilidad sería que Sci-Hub transfiriera bitcoins de otras direcciones que controlaba a las direcciones de donación identificadas.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Judging from donations, many users appear to value Sci-Hub's service.
 In the past, Sci-Hub accepted donations through centralized and regulated payment processors such as PayPal, Yandex, WebMoney, and QiQi [@j3Zl6sH5; @1EZBJN9ej].
 Now however, Sci-Hub only advertises donation via Bitcoin, presumably to avoid banking blockades or government seizure of funds.
@@ -1061,7 +1061,7 @@ Cada donación corresponde a una transacción entrante a una dirección conocida
 Consulte la Figura @fig:bitcoin-all para conocer la cantidad donada cada mes, valorada en BTC o USD.
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/explore/bitcoin/monthly-donations-count.svg){#fig:bitcoin width="100%"}
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 **Number of bitcoin donations per month.**
 The number of bitcoin donations to Sci-Hub is shown for each month from June 2015 to December 2017.
 Since February 2016, Sci-Hub has received over 25 donations per month.
@@ -1077,7 +1077,7 @@ A medida que los protocolos de almacenamiento de archivos distribuidos y resiste
 De hecho, Alexandra Elbakyan es solo una persona en el movimiento más amplio de "acceso guerrilla" [@2TjdrEPp; @R9mR68Y4; @xkkXadRh], que persistirá independientemente del destino de Sci-Hub. 
 Como tal, el corpus de literatura académica gratuita de Sci-Hub puede ser extremadamente difícil de suprimir.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 The largest, most prominent academic publishers are thoroughly covered by Sci-Hub, and these publishers have taken note.
 Elsevier (whose 13.5 million works are 96.9% covered by Sci-Hub) and the American Chemical Society (whose 1.4 million works are 98.8% covered) both filed suit against Sci-Hub, despite the limited enforcement options of United States courts.
 The widespread gratis access that Sci-Hub provides to previously paywalled articles calls into question the sustainability of the subscription publishing model [@102oWwJt1; @sheBR4X4].
@@ -1095,7 +1095,7 @@ Según la Figura @fig:downloads, Sci-Hub promedió 185,243 descargas por día en
 En consecuencia, la proporción de descargas de Sci-Hub con respecto a las de la biblioteca Penn en 2017 fue de 20:1. 
 Además, la adopción de Sci-Hub o sitios similares podría acelerarse debido a las nuevas cargas técnicas en el acceso autorizado (el otro lado de las medidas antipiratería) [@2Vc1UrtB; @C3J6AH5V], medidas enérgicas contra el intercambio de artículos a través de redes sociales académicas [@1BKBt9JRq; @nVGhXBcX], o cancelaciones de suscripciones a gran escala por parte de las bibliotecas [@YX9zq2ZF].
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Surveys from 2016 suggest awareness and usage of Sci-Hub was not yet commonplace [@3kbMq39u; @cOKy7PSo].
 However, adoption appears to be growing.
 According to Elbakyan, the number of Sci-Hub downloads increased from 42 million in 2015 to 75 million in 2016, equating to a 79% gain [@cUfIvWm6].
@@ -1116,7 +1116,7 @@ Las negociaciones con Elsevier llegaron a impases en Alemania, Perú y Taiwán.
 Como resultado, cientos de universidades han cancelado todas las suscripciones de Elsevier [@wnNilBvm; @i9e7Fcm8]. 
 Estos eventos hacen eco de las predicciones de los abogados de Elsevier en 2015 [@3noVfYfJ]: “Las acciones de los acusados también amenazan con un daño irreparable inminente para Elsevier porque pareciera que el repositorio de la “Proyecto Biblioteca Génesis” puede estar llegando (o eventualmente se acercará) a un nivel de 'integridad' donde pueda servir como un reemplazo funcionalmente equivalente, aunque evidentemente ilegal, para ScienceDirect”.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Historically, libraries have [often canceled](https://sparcopen.org/our-work/big-deal-cancellation-tracking/) individual journal subscriptions or switched from bundled to à-la-carte selections [@SuZ30LxR; @18zoY6Ild; @9Uk1lLUa].
 More recently, library consortia have threatened wholesale cancellation of specific publishers.
 In 2010, Research Libraries of the UK threatened to let Elsevier contracts expire [@VC6kWHG2; @7oTLbigW], while the University of California raised the possibility of boycotting Nature Publishing Group.
@@ -1141,7 +1141,7 @@ Las editoriales se verán obligadas a adaptarse rápidamente a los modelos de pu
 En palabras de Alexandra Elbakyan [@DCZkZXsz]: 
 "El efecto de la operación a largo plazo de Sci-Hub será que los editores cambien sus modelos de publicación y sostener el acceso abierto, porque el acceso cerrado ya no tendrá sentido".
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 In the worst case for toll access publishers, growing Sci-Hub usage will become both the cause and the effect of dwindling subscriptions.
 Librarians rely on usage metrics and user feedback to evaluate subscriptions [@18zoY6Ild].
 Sci-Hub could decrease the use of library subscriptions as many users find it more convenient than authorized access [@cOKy7PSo].
@@ -1163,7 +1163,7 @@ Por ejemplo, el minado de texto completo de la literatura académica es un área
 Las barreras aquí son legales, no tecnológicas [@llK8SMam; @I6O7IKP7]. 
 Para terminar, si todos los artículos fueran libres, no habría tal cosa como un "sitio web pirata" para acceder a la literatura académica.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Sci-Hub is poised to fundamentally disrupt scholarly publishing.
 The transition to gratis availability of scholarly articles is currently underway, and such a model may be inevitable in the long term [@8RacTmaJ; @1BSPYL8jl; @Bj1n4rGt].
 However, we urge the community to take this opportunity to fully liberate scholarly articles, as well as explore more constructive business models for publishing [@cunYx7X4; @1F2Ri1rrL; @Akbe7cNV].
@@ -1179,7 +1179,7 @@ Este proyecto se realizó completamente abierto, a través del repositorio de Gi
 Varios autores de este estudio se involucraron después de mencionar sus nombres de usuario en las discusiones de GitHub. 
 El modelo totalmente transparente y en línea de este proyecto nos permitió reunir un equipo internacional de personas con experiencia y conocimiento complementarios.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 This project was performed entirely in the open, via the GitHub repository [greenelab/scihub](https://github.com/greenelab/scihub).
 Several authors of this study became involved after we mentioned their usernames in GitHub discussions.
 This project's fully transparent and online model enabled us to assemble an international team of individuals with complementary expertise and knowledge.
@@ -1194,7 +1194,7 @@ El navegador de estadísticas de Sci-Hub es una aplicación de una sola página 
 Las visualizaciones frontend utilizan [Vega-Lite](https://vega.github.io/vega-lite/) [@nyZChH5b]. 
 Ciertos conjuntos de datos para el navegador están alojados en el repositorio de datos [greenelab/scihub-browser-data](https://github.com/greenelab/scihub-browser-data).
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 We managed our computational environment using [Conda](https://conda.io/docs/), allowing us to specify and install dependencies for both Python and R.
 We performed our analyses using a series of [Jupyter](http://jupyter.org/) notebooks.
 In general, data integration and manipulation were performed in Python 3, relying heavily on [Pandas](https://pandas.pydata.org/), while plotting was performed with [ggplot2](http://ggplot2.org/) in R.
@@ -1209,7 +1209,7 @@ La fuente del manuscrito para este estudio se encuentra en [greenelab/scihub-man
 Utilizamos [Manubot](https://github.com/greenelab/manubot-rootstock) para generar automáticamente el manuscrito desde los archivos Markdown. 
 Este sistema, desarrollado originalmente para [Deep Review](https://github.com/greenelab/deep-review) permite la escritura colaborativa en GitHub [@tJKvnIaZ], utiliza análisis continuo para obtener metadatos de referencia y reconstruir el manuscrito frente a cambios [@Qh7xTLwz].
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 The manuscript source for this study is located at [greenelab/scihub-manuscript](https://github.com/greenelab/scihub-manuscript).
 We used the [Manubot](https://github.com/greenelab/manubot-rootstock) to automatically generate the manuscript from Markdown files.
 This system — originally developed for the [Deep Review](https://github.com/greenelab/deep-review) to enable collaborative writing on GitHub [@tJKvnIaZ] — uses continuous analysis to fetch reference metadata and rebuild the manuscript upon changes [@Qh7xTLwz].
@@ -1223,7 +1223,7 @@ La iniciativa DOI comenzó en 1997, y los primeros DOI se registraron en 2000 [@
 Tenga en cuenta que los DOI pueden registrarse de forma retroactiva. 
 Por ejemplo, el descubrimiento de protistas y bacterias de Antony van Leewenhoeck, publicado en 1677 por _Philosophical Transactions de la Royal Society of London_ [@HhEZiSSR], tiene un DOI (`10.1098/rstl.1677.0003`), asignado retroactivamente en 2006.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 We used DOIs (Digital Object Identifiers) to uniquely identify articles.
 The Sci-Hub and LibGen scimag repositories also uniquely identify articles by their DOIs, making DOIs the natural primary identifier for our analyses.
 The DOI initiative began in 1997, and the first DOIs were registered in 2000 [@8zeVK2hX; @JDfJRWbr].
@@ -1239,7 +1239,7 @@ Además, la prevalencia de la asignación de DOI es probablemente menor para los
 La asignación incompleta y no aleatoria de los DOI a artículos académicos es una limitación de este estudio. 
 Sin embargo, los DOI son presumiblemente el identificador menos imperfecto y más extendido para artículos académicos.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Not all scholarly articles have DOIs.
 By evaluating the presence of DOIs in other databases of scholarly literature (such as PubMed, Web of Science, and Scopus), researchers estimate around 90% of newly published articles in the sciences have DOIs [@9sCtTvlE; @10zxQMO6J].
 The prevalence of DOIs varies by discipline and country of publication, with DOI assignment in newly published Arts & Humanities articles around 60% [@9sCtTvlE].
@@ -1256,7 +1256,7 @@ Si bien el manual de DOI establece que "todos los nombres de DOI se convierten e
 Dado el riesgo de DOI inigualables, utilizamos en minúsculas los DOI para cada recurso de entrada lo antes posible en nuestro proceso de procesamiento. 
 La utilización consistente de minúscula [influyó considerablemente](https://github.com/greenelab/scihub/issues/9) en nuestros hallazgos ya que diferentes recursos utilizaron tipografía diferentes del mismo DOI.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 An often overlooked aspect of the DOI system is that DOIs are case-insensitive within the ASCII character range [@8zeVK2hX; @LS0mB1CD].
 In other words, `10.7717/peerj.705` refers to the same article as `10.7717/PeerJ.705`.
 Accordingly, DOIs make a poor standard identifier unless they are consistently cased.
@@ -1279,7 +1279,7 @@ Por lo tanto, la abrumadora mayoría de los artículos académicos referenciados
 Dado que Crossref tiene el acceso programático más exhaustivo y completo, tuvimos un fuerte incentivo para centrarnos únicamente en los DOI registrados por Crossref. 
 Dada la preeminencia de Crossref, es poco probable que la omisión de otras agencias de registro influya sustancialmente en nuestros hallazgos.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 To catalog all scholarly articles, we relied on the Crossref database.
 [Crossref](https://www.crossref.org/) is a DOI Registration Agency (an entity capable of assigning DOIs) for scholarly publishing [@Eq78IAX4].
 There are presently 10 Registration Agencies.
@@ -1302,7 +1302,7 @@ Primero, una tabla DOI con columnas para el tipo de trabajo y la fecha de emisi�
 La fecha de emisión se refiere a la fecha de publicación más antigua conocida, es decir, la fecha de publicación impresa o en línea, lo que ocurra primero. 
 En segundo lugar, un mapeo de DOI a ISSN para asociar artículos con su revista de publicación.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 We queried the `works` endpoint of the [Crossref API](https://api.crossref.org/) to retrieve the metadata for all DOIs, storing the responses in a MongoDB database.
 The queries began on March 21, 2017 and took 12 days to complete.
 In total, we retrieved metadata for 87,542,370 DOIs, corresponding to all Crossref works as of March 21, 2017.
@@ -1321,7 +1321,7 @@ Se excluyeron tipos como `libros`, `revistas`, `números de revistas` y `series 
 Después de filtrar por tipo, quedaron 81,609,016 DOI (77,201,782 de los cuales tenían su año de publicación disponible). 
 Para los propósitos de este estudio, estos DOI representan la totalidad de la literatura académica.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 We [selected](https://github.com/greenelab/scihub/issues/7) a subset of Crossref work types to include in our Sci-Hub coverage analyses that corresponded to scholarly articles (i.e. publications).
 Since we could not locate definitions for the Crossref types, we used our best judgment and evaluated sample works of a given type in the case of uncertainty.
 We included the following types: `book-chapter`, `book-part`, `book-section`, `journal-article`, `proceedings-article`, `reference-entry`, `report`, and `standard`.
@@ -1342,7 +1342,7 @@ La información de la editorial estaba mal estandarizada, por ejemplo, tanto "IC
 Esta versión de Scopus determinó el estado de acceso abierto según si una revista estaba registrada en [DOAJ](https://doaj.org/) o [ROAD](http://road.issn.org/) antes de abril de 2017. 
 Tenga en cuenta que Scopus no indexa todas las revistas académicas [@QyHSyHo3], que es una de las razones por las cuales el 30.5% de los artículos (24,853,345 DOI) no eran atribuibles a una revista.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Prior to June 2017, the Crossref API had an [issue](https://github.com/CrossRef/rest-api-doc/issues/179) that prevented exhaustively downloading journal metadata.
 Therefore, we instead relied on the [Scopus](https://www.scopus.com) database to catalog scholarly journals.
 Scopus uses "title" to refer to all of the following: peer-reviewed journals, trade journals, book series, and conference proceedings.
@@ -1358,7 +1358,7 @@ Específicamente, extrajimos un CiteScore 2015 para 22,256 títulos, 17,336 de l
 Finalmente, consultamos la API de Elsevier para [recuperar](https://github.com/dhimmel/scopus/issues/2) las URL de la página de inicio para 20,992 títulos de Scopus. 
 Consulte [dhimmel/scopus](https://github.com/dhimmel/scopus) para ver el código fuente y los datos relacionados con Scopus.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 We tidied the Scopus Journal Metrics, which evaluate journals based on the number of citations their articles receive.
 Specifically, we extracted a 2015 CiteScore for 22,256 titles, 17,336 of which were included in our journal catalog.
 Finally, we queried the Elsevier API to [retrieve](https://github.com/dhimmel/scopus/issues/2) homepage URLs for 20,992 Scopus titles.
@@ -1374,7 +1374,7 @@ En 2012, LibGen agregó la base de datos "scimag" para la literatura académica.
 Desde la primavera de 2013, Sci-Hub ha subido artículos que obtiene a scimag LibGen [@1H8x8f4Y7]. 
 A finales de 2014, Sci-Hub bifurcó LibGen scimag y comenzó a administrar su propio repositorio de artículos.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Library Genesis (LibGen) is a shadow library primarily comprising illicit copies of academic books and articles.
 Compared to Sci-Hub, the operations of LibGen are more opaque, as the contributors maintain a low profile and do not contact journalists [@1H8x8f4Y7].
 LibGen hosts several collections, including distinct repositories for scientific books and textbooks, fiction books, and comics [@18KKRwlN6].
@@ -1391,7 +1391,7 @@ Después de eliminar los registros que les faltaba `TimeAdded`, quedaron 64,195,
 56,205,763 (87.6%) de los DOI estaban en nuestro catálogo de literatura académica derivado de Crossref. 
 El 12.4% de los DOI de scimag de LibGen que faltan en nuestro catálogo Crossref probablemente comprenda DOI incorrectos, DOI cuya disponibilidad de metadatos sea posterior a nuestra exportación Crossref, DOI de otras agencias de registro y DOI para tipos de publicación excluidos.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 We downloaded the LibGen scimag metadata database on April 7, 2017 as a SQL dump.
 We [imported](https://github.com/greenelab/scihub/issues/2) the SQL dump into MySQL, and then exported the scimag table to a TSV file [@Th4EY2wD].
 Each row of this table corresponds to an article in LibGen, identified by its DOI.
@@ -1412,7 +1412,7 @@ Por ejemplo, los análisis de tiempo de retraso (el tiempo desde la publicación
 Por lo tanto, no informamos sobre estos hallazgos en este manuscrito. 
 En su lugar, proporcionamos la Figura @fig:libgen-lag como un análisis de ejemplo que sería altamente informativo si hubiera fechas de creación confiables disponibles.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Next, we explored the cumulative size of LibGen scimag over time according to the `TimeAdded` field (Figure @fig:libgen-size).
 However, when we compared our plot to one generated from the LibGen scimag database SQL dump on January 1, 2014 [@18KKRwlN6; @GxWkjeN2], we noticed a major discrepancy.
 The earlier analysis identified a total of 22,829,088 DOIs, whereas we found only 233,707 DOIs as of January 1, 2014.
@@ -1432,7 +1432,7 @@ Por ejemplo, el 71% de la colección de artículos se cargó en 13 días a razó
 Es probable que tales colecciones masivas de artículos resulten de fugas bibliográficas [@8mg1a0YE], pero uno solo puede especular sobre esto debido a la fuente indocumentada de cada archivo almacenado en caché en LibGen”. 
 Si bien estamos de acuerdo en que este es el caso más probable, se necesita confirmación de que la adición masiva de artículos no se corresponde simplemente con las actualizaciones masivas en lugar de las cargas iniciales masivas.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 In addition, findings from some previous studies may require additional scrutiny.
 For example, Cabanac writes [@18KKRwlN6]:
 "The growth of LibGen suggests that it has benefited from a few isolated, but massive, additions of scientific articles to its cache.
@@ -1449,7 +1449,7 @@ Observe la gran discrepancia por la cual los artículos del volcado de la base d
 En consecuencia, planteamos la hipótesis de que el campo `TimeAdded` se reemplaza con la modificación, lo que hace imposible evaluar la fecha de la primera carga.
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/libgen-cumulative-works.svg){#fig:libgen-size width="4in" .white}
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 **Number of articles in LibGen scimag over time.**
 The figure shows the number of articles in LibGen scimag, according to its `TimeAdded` field, for two database dumps.
 The number of articles added per day for the January 1, 2014 LibGen database dump was [provided](https://github.com/greenelab/scihub/issues/8#issuecomment-296719787) by Cabanac and corresponds to Figure 1 of @18KKRwlN6.
@@ -1467,7 +1467,7 @@ Por lo tanto, los depósitos de Scimag y Sci-Hub de LibGen se han mantenido sinc
 En Twitter, la cuenta Sci-Hub confirmó este hallazgo, comentando "con pequeñas diferencias, sí, la base de datos es la misma". 
 Por lo tanto, los catálogos LibGen scimag y Sci-Hub DOI se pueden usar de manera intercambiable para fines de investigación.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 On March 19, 2017, Sci-Hub [tweeted](https://twitter.com/Sci_Hub/status/843546352219017218):
 "If you like the list of all DOI collected on Sci-Hub, here it is: sci-hub.cc/downloads/doi.7z … 62,835,101 DOI in alphabetical order".
 The tweet included a download link for a file with the 62,835,101 DOIs that Sci-Hub claims to provide access to.
@@ -1493,7 +1493,7 @@ Describimos las colecciones a continuación e informamos el número de artículo
 Dado que la colección Unpaywall se basa en artículos que los usuarios visitaron, es un mejor reflejo de las necesidades reales de acceso de los académicos contemporáneos. 
 Desafortunadamente, dado que el número de visitas por artículo no se conserva en este conjunto de datos, las estimaciones de la tasa de cumplimiento están sesgadas en relación con los artículos muy visitados y se convierten en una variante de escala (afectada por la popularidad de Unpaywall).
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 [oaDOI](https://oadoi.org/), short for open access DOI, is a service that determines whether a DOI is available gratis somewhere online [@GhX9kmM1].
 oaDOI does not index articles posted to academic social networks or available from illicit repositories such as Sci-Hub [@eOi5pOoT].
 Using the oaDOI infrastructure, the State of OA study investigated the availability of articles from three collections [@eOi5pOoT].
@@ -1516,7 +1516,7 @@ oaDOI clasifica los artículos que no están disponibles en el sitio de su edito
 La versión de oaDOI utilizada en el estudio del estado de OA identificó artículos verdes al buscar en PubMed Central y <abbr title="Bielefeld Academic Search Engine">BASE</abbr>. 
 Los lectores deben tener en cuenta que esta implementación [probablemente cuenta menos](https://github.com/greenelab/scihub-manuscript/issues/36) que los artículos verdes, especialmente si consideran los artículos disponibles de las redes sociales académicas como verdes.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 The State of OA study ascertained the accessibility status of each DOI in each collection using oaDOI [@eOi5pOoT; @1D9l2pC2b].
 Articles for which oaDOI did not identify a full-text were considered "closed".
 Otherwise, articles were assigned a color/status of bronze, green, hybrid, or gold.
@@ -1535,7 +1535,7 @@ Además, eliminamos las citas salientes de los artículos publicados antes de 20
 Las citas entrantes de artículos anteriores a 2015 no se eliminaron. 
 El catálogo resultante consistió en 7,312,607 citas de 200,206 artículos recientes a 3,857,822 artículos referenciados.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 [OpenCitations](http://opencitations.net) is an public domain resource containing scholarly citation data [@H2hXqKsr].
 OpenCitations extracts its information from the Open Access Subset of PubMed Central.
 In the [greenelab/opencitations](https://github.com/greenelab/opencitations) repository, we processed the July 25, 2017 OpenCitations data release [@n73t9GPC; @10hS1L2vZ; @1EcDRAPGi], creating a DOI–cites–DOI catalog of bibliographic references.
@@ -1553,7 +1553,7 @@ En noviembre de 2015, el nombre de dominio de Sci-Hub fue suspendido como result
 Según Bohannon, esto resultó en "una brecha de 18 días en los datos a partir del 4 de noviembre de 2015 cuando el dominio sci-hub.org se cayó y los registros del servidor se configuraron incorrectamente". 
 Mostramos este tiempo de inactividad en la Figura @fig:history.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 The 2016 study titled "Who's downloading pirated papers? Everyone" analyzed a dataset of Sci-Hub access logs [@RsNXQAG2; @t4r48QpO].
 Alexandra Elbakyan worked with journalist John Bohannon to produce a dataset of Sci-Hub's resolved requests from September 1, 2015 through February 29, 2016 [@kQFQ8EaO].
 In November 2015, Sci-Hub's domain name was suspended as the result of legal action by Elsevier [@16k28dBmH; @sR4uAYxB].
@@ -1572,7 +1572,7 @@ Resumimos los eventos de acceso para cada artículo utilizando las siguientes m�
 5. meses: número de meses en que se accedió al artículo
 
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 We filtered the access events by excluding DOIs not included in our literature catalog and omitting records that occurred before an article's publication date.
 This filter preserved 26,984,851 access events for 10,293,836 distinct DOIs (97.5% of the 10,552,418 distinct prefiltered DOIs).
 We summarized the access events for each article using the following metrics:
@@ -1588,7 +1588,7 @@ A continuación, calculamos las métricas de acceso a nivel de revista en base a
 Para cada revista, calculamos los valores promedio para las cinco métricas de registro de acceso descrito arriba. 
 Curiosamente, la revista _Medicina - Programa de Formación Médica Continuada Acreditado_ [recibió](https://greenelab.github.io/scihub/#/journal/21100213100 "Sci-Hub Stats Browser page for the journal Medicine") la mayor cantidad de visitantes por artículo, con un promedio de 33.4 visitantes por cada uno de sus 326 artículos.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Next, we calculated journal-level access metrics based on articles published from January 1, 2014 until the start of the Sci-Hub access log records on September 1, 2015.
 For each journal, we calculated the average values for the five access log metrics described above.
 Interestingly, the journal _Medicine - Programa de Formación Médica Continuada Acreditado_ [received](https://greenelab.github.io/scihub/#/journal/21100213100 "Sci-Hub Stats Browser page for the journal Medicine") the most visitors per article, averaging 33.4 visitors for each of its 326 articles.
@@ -1598,7 +1598,7 @@ Tenga en cuenta que estos análisis no incluyen los registros de acceso de Sci-H
 Desafortunadamente, en ese momento ya habíamos adoptado un congelamiento de principales análisis nuevos. 
 No obstante, hicimos un análisis rápido para evaluar el crecimiento de las descargas de Sci-Hub a lo largo del tiempo que combinó los datos de registro de acceso de 2015-2016 y 2017 (Figura @fig:downloads).
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 Note that these analyses do not include Sci-Hub's access logs for 2017 [@D6wP8q7K], which were [released](https://twitter.com/Sci_Hub/status/954095639859814402) on January 18, 2018.
 Unfortunately, at that time we had already adopted a freeze on major new analyses.
 Nonetheless, we did a quick analysis to assess growth in Sci-Hub downloads over time that combined the 2015–2016 and 2017 access log data (Figure @fig:downloads).
@@ -1619,7 +1619,7 @@ La caída de las descargas de diciembre de 2017 probablemente refleja el efecto 
 A diferencia de los análisis de registro de Sci-Hub en otras partes de este estudio, este gráfico no filtra por artículos válidos (es decir, DOI en nuestro catálogo de literatura académica derivado de Crossref)
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/download/scihub-logs-2017/scihub-log-downloads.svg){#fig:downloads tag="1—figure supplement 1" width="65%"}
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 **Downloads per day on Sci-Hub for months with access logs.**
 The number of articles downloaded from Sci-Hub is shown over time.
 Sci-Hub access logs were combined from two releases: @kQFQ8EaO covering 27,819,963 downloads from September 2015 to February 2016 and @D6wP8q7K covering 150,875,862 downloads from 2017.
@@ -1638,7 +1638,7 @@ Scopus asigna a cada revista un país de publicación.
 La cobertura de Sci-Hub se muestra para países con al menos 100,000 artículos.
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/coverage-by-country.svg){#fig:countries tag="4—figure supplement 1" width="100%"}
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 **Coverage by country of publication.**
 Scopus assigns each journal a country of publication.
 Sci-Hub's coverage is shown for countries with at least 100,000 articles.
@@ -1649,7 +1649,7 @@ Sci-Hub's coverage is shown for countries with at least 100,000 articles.
 La cobertura de Sci-Hub se muestra por separado para artículos en revistas en acceso abierto versus de pago, para cada año desde 1950.
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/coverage-by-year-and-access.svg){#fig:years-by-access tag="6—figure supplement 1" width="100%"}
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 **Coverage of articles by year published and journal access status.**
 Sci-Hub's coverage is shown separately for articles in open versus toll access journals, for each year since 1950.
 </details>
@@ -1665,7 +1665,7 @@ Tenga en cuenta que PennText no tiene una cobertura completa de artículos de br
 Es probable que estas anomalías resulten de errores tanto en PennText (cuya precisión estimamos en 88.2%) como en oaDOI (cuya precisión del estudio del Estado de OA estimó en 90.4%, es decir, la Tabla 1 de @eOi5pOoT informa 5 falsos positivos y 43 falsos negativos en detecciones oaDOI para 500 artículos).
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/state-of-oa-colors-large.svg){#fig:oadoi-large tag="7—figure supplement 1" width="100%"}
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 **Coverage by oaDOI access status on each State of OA collection.**
 Coverage by oaDOI access status is shown for Sci-Hub, PennText, and the union of Sci-Hub and PennText.
 Each panel refers to a different State of OA collection, with Combined referring to the union of the Crossref, Unpaywall, and Web of Science collections.
@@ -1682,7 +1682,7 @@ Durante meses desde junio de 2015, se evaluaron las donaciones totales de bitcoi
 Las donaciones en USD se refieren al valor en dólares de los Estados Unidos al momento de la confirmación de la transacción.
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/explore/bitcoin/monthly-donations-faceted.svg){#fig:bitcoin-all tag="10—figure supplement 1" width="5in"}
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 **Bitcoin donations to Sci-Hub per month.**
 For months since June 2015, total bitcoin donations (deposits to known Sci-Hub addresses) were assessed.
 Donations in USD refers to the United States dollar value at time of transaction confirmation.
@@ -1700,7 +1700,7 @@ Sin embargo, esta señal podría ser el resultado de las marcas de tiempo de car
 Por lo tanto, advertimos en no sacar conclusiones del campo `TimeAdded` en LibGen scimag hasta que su precisión pueda establecerse de manera más confiable.
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/libgen-monthly-lagtimes.svg){#fig:libgen-lag tag="11—figure supplement 1" width="100%" .white}
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 **Lag-time from publication to LibGen upload.**
 For each year of publication from 2010–2017, we plot the relationship between lag-time and LibGen scimag's coverage.
 For example, this plot shows that 75% of articles published in 2011 were uploaded to LibGen within 60 months.
@@ -1719,7 +1719,7 @@ Queremos agradecer a las personas, que no figuran como autores, que proporcionar
 Específicamente, [Ross Mounce](https://github.com/rossmounce), [Richard Smith-Unna](https://github.com/blahah), [Guillaume Cabanac](https://github.com/gcabanac), y [Stuart Taylor](https://github.com/StuartCT) proporcionaron información valiosa mientras el estudio estaba en marcha. 
 Además, agradecemos a GitHub por ofrecer almacenamiento gratuito de archivos grandes como parte de su programa educativo.
 
-<details><summary>Inglés Original</summary>
+<details><summary>Inglés original</summary>
 We'd like to thank the individuals, not listed as authors, who provided comments on [GitHub issues](https://github.com/search?l=&q=repo%3Agreenelab%2Fscihub+repo%3Agreenelab%2Fscihub-manuscript+repo%3Agreenelab%2Fscihub-browser-data+repo%3Adhimmel%2Fscopus+repo%3Agreenelab%2Flibrary-access&ref=advsearch&type=Issues&utf8=%E2%9C%93 "GitHub Issues in Project Repositories") or pull requests.
 Specifically, [Ross Mounce](https://github.com/rossmounce), [Richard Smith-Unna](https://github.com/blahah), [Guillaume Cabanac](https://github.com/gcabanac), and [Stuart Taylor](https://github.com/StuartCT) provided valuable input while the study was underway.
 In addition, we're grateful to GitHub for offering gratis Large File Storage as part of their education program.
