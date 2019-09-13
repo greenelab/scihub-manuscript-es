@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/e9e5cf8e3589f2c9a48b54d2099e31d3c7854d7a/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/8a8dbc2993ff87296892c74e6d0a6e7d795c7025/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@e9e5cf8](https://github.com/greenelab/scihub-manuscript-es/tree/e9e5cf8e3589f2c9a48b54d2099e31d3c7854d7a)
+from [greenelab/scihub-manuscript-es@8a8dbc2](https://github.com/greenelab/scihub-manuscript-es/tree/8a8dbc2993ff87296892c74e6d0a6e7d795c7025)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -319,6 +319,13 @@ Four days later, Sci-Hub restores access after receiving "many letters of suppor
 + **Ⓛ** The court rules on the American Chemical Society suit, ordering Sci-Hub to pay $4.8 million in damages and that "any person or entity in active concert or participation" with Sci-Hub "including any Internet search engines, web hosting and Internet service providers, domain name registrars, and domain name registries, cease facilitating access" [@WBnZqVXT; @XI4kiPR4].
 Within five weeks, the domains sci-hub.io, sci-hub.ac, sci-hub.cc, and sci-hub.bz were suspended by their respective domain name registries [@pmrIfHRq], leaving only the Tor hidden service and several newly-registered/revealed domains in operation.
 </details>
+
+Investigaciones anteriores arrojan algo de luz sobre el alcance de Sci-Hub. 
+Desde la primavera de 2013 hasta finales de 2014, Sci-Hub dependió del repositorio de scimag Library Genesis (LibGen) para almacenar artículos [@1H8x8f4Y7]. 
+Cada vez que un usuario solicitaba un artículo, Sci-Hub revisaba a LibGen para obtener una copia. 
+Si el artículo no estaba en LibGen, Sci-Hub buscaría el artículo para el usuario y luego lo subiría a LibGen. 
+Cabanac comparó el número de artículos en la base de datos de Scimag de LibGen a principios de 2014 con el número total de DOI Crossref, estimando que LibGen contenía el 36% de todos los artículos académicos publicados [@18KKRwlN6]. 
+La cobertura fue mayor para varios editores destacados: 77% para Elsevier, 73% para Wiley y 53% para Springer (antes de su fusión con Macmillan / Nature [@ynhlmOBH]).
 
 <details><summary>Inglés Original</summary>
 Past research sheds some light on Sci-Hub's reach.
