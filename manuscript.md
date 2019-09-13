@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/acc25d044c0354feff88ab53f326b764fb1e5d36/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/bb8a11454be3d99996508e234404922728284ffc/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@acc25d0](https://github.com/greenelab/scihub-manuscript-es/tree/acc25d044c0354feff88ab53f326b764fb1e5d36)
+from [greenelab/scihub-manuscript-es@bb8a114](https://github.com/greenelab/scihub-manuscript-es/tree/bb8a11454be3d99996508e234404922728284ffc)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -179,6 +179,12 @@ Meanwhile, publishing has trended towards oligopoly [@OGMKPsIG], with nondisclos
 Price increases have persisted over the last decade [@AgjD0tTw; @12rSJsEKK; @GWp5Zx0w].
 For example, EBSCO estimates that per-journal subscription costs increased by 25% from 2013–2017, with annual subscription to a journal for research libraries now averaging $1,396 [@5e9PbvWY].
 </details>
+
+En este estudio, utilizamos el término "acceso de pago" (también conocido como "acceso cerrado") para referirnos a la literatura detrás de muros de pago [@zBPP9YKu]. 
+Por otro lado, nos referimos a la literatura que se puede leer libremente como "acceso abierto". 
+Además, discutimos dos variantes de acceso abierto: “libre” y “gratis” [@zBPP9YKu; @tSEdUvgK]. 
+Libre acceso abierto se refiere a literatura que tiene licencia abierta para permitir su reutilización. 
+El acceso abierto gratuito se refiere a la literatura a la que se puede acceder de forma gratuita, aunque las barreras de permiso pueden permanecer (generalmente debido a los derechos de autor) [@7aXVorCC].
 
 <details><summary>Inglés Original</summary>
 In this study, we use the term "toll access" (also known as "closed access") to refer to paywalled literature [@zBPP9YKu].
