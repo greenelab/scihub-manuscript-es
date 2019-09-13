@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/85844b768216f80213de85cacefa7b818c2f4e79/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/e9e5cf8e3589f2c9a48b54d2099e31d3c7854d7a/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@85844b7](https://github.com/greenelab/scihub-manuscript-es/tree/85844b768216f80213de85cacefa7b818c2f4e79)
+from [greenelab/scihub-manuscript-es@e9e5cf8](https://github.com/greenelab/scihub-manuscript-es/tree/e9e5cf8e3589f2c9a48b54d2099e31d3c7854d7a)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -251,13 +251,13 @@ If Sci-Hub's coverage is sufficiently broad, then a radical shift may be underwa
 </details>
 
 ![
-**The history of Sci-Hub.**
-Weekly interest from Google Trends is plotted over time for the search terms "Sci-Hub" and "LibGen".
-The light green period indicates when Sci-Hub used LibGen as its database for storing articles [@1H8x8f4Y7].
-Light blue indicates the collection period of the Sci-Hub access logs that we analyze throughout this study [@kQFQ8EaO].
-Based on these logs and newly released logs for 2017, Figure @fig:downloads shows the number of articles downloaded from Sci-Hub over time, providing an alternative look into Sci-Hub's growth.
-The first pink dotted line represents the collection date of the LibGen scimag metadata used in Cabanac's study [@18KKRwlN6; @GxWkjeN2].
-The second pink dotted line shows the date of Sci-Hub's tweeted DOI catalog used in this study.
+**La historia de Sci-Hub.**
+El interés semanal de Google Trends se traza a lo largo del tiempo para los términos de búsqueda "Sci-Hub" y "LibGen". 
+El período verde claro indica cuándo Sci-Hub utilizó LibGen como su base de datos para almacenar artículos [@1H8x8f4Y7]. 
+El azul claro indica el período de recolección de los registros de acceso de Sci-Hub que analizamos a lo largo de este estudio [@kQFQ8EaO]. 
+En base a estos registros y a los registros recientemente lanzados para 2017, la Figure @fig:downloads muestra la cantidad de artículos descargados de Sci-Hub a lo largo del tiempo, proporcionando una mirada alternativa al crecimiento de Sci-Hub. 
+La primera línea punteada rosa representa la fecha de recolección de los metadatos de scimag LibGen utilizados en el estudio de Cabanac [@18KKRwlN6; @GxWkjeN2]. 
+La segunda línea de puntos rosa muestra la fecha del catálogo de DOI tuiteado de Sci-Hub utilizado en este estudio. 
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/explore/trends/google-trends.png){#fig:history width="100%" .white}
 
 <details><summary>Inglés Subtítulo Original</summary>
