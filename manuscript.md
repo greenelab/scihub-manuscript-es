@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/353933ad77b02ebf578711ebb53f73752de55082/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/a45f500055bb73356c34be321db6ab9dc1f6516a/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@353933a](https://github.com/greenelab/scihub-manuscript-es/tree/353933ad77b02ebf578711ebb53f73752de55082)
+from [greenelab/scihub-manuscript-es@a45f500](https://github.com/greenelab/scihub-manuscript-es/tree/a45f500055bb73356c34be321db6ab9dc1f6516a)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -1645,13 +1645,19 @@ Therefore, we caution against drawing any conclusions from the `TimeAdded` field
 ](https://cdn.rawgit.com/greenelab/scihub/e35cc7b0d3b6dd65bf8ce18945007d2b44a6be1e/figure/libgen-monthly-lagtimes.svg){#fig:libgen-lag tag="11—figure supplement 1" width="100%" .white}
 
 
-## Acknowledgements
+## Agradecimientos
 
+Queremos agradecer a las personas, que no figuran como autores, que proporcionaron comentarios sobre problemas de [GitHub issues](https://github.com/search?l=&q=repo%3Agreenelab%2Fscihub+repo%3Agreenelab%2Fscihub-manuscript+repo%3Agreenelab%2Fscihub-browser-data+repo%3Adhimmel%2Fscopus+repo%3Agreenelab%2Flibrary-access&ref=advsearch&type=Issues&utf8=%E2%9C%93 "GitHub Issues in Project Repositories") o solicitudes de extracción. 
+Específicamente, [Ross Mounce](https://github.com/rossmounce), [Richard Smith-Unna](https://github.com/blahah), [Guillaume Cabanac](https://github.com/gcabanac), y [Stuart Taylor](https://github.com/StuartCT) proporcionaron información valiosa mientras el estudio estaba en marcha. 
+Además, agradecemos a GitHub por ofrecer almacenamiento gratuito de archivos grandes como parte de su programa educativo.
+
+<details><summary>Inglés Original</summary>
 We'd like to thank the individuals, not listed as authors, who provided comments on [GitHub issues](https://github.com/search?l=&q=repo%3Agreenelab%2Fscihub+repo%3Agreenelab%2Fscihub-manuscript+repo%3Agreenelab%2Fscihub-browser-data+repo%3Adhimmel%2Fscopus+repo%3Agreenelab%2Flibrary-access&ref=advsearch&type=Issues&utf8=%E2%9C%93 "GitHub Issues in Project Repositories") or pull requests.
 Specifically, [Ross Mounce](https://github.com/rossmounce), [Richard Smith-Unna](https://github.com/blahah), [Guillaume Cabanac](https://github.com/gcabanac), and [Stuart Taylor](https://github.com/StuartCT) provided valuable input while the study was underway.
 In addition, we're grateful to GitHub for offering gratis Large File Storage as part of their education program.
+</details>
 
-## References {.page_break_before}
+## Referencias {.page_break_before}
 
 <!-- Explicitly insert bibliography here -->
 <div id="refs"></div>
