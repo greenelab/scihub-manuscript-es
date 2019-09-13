@@ -2,8 +2,8 @@
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
-[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://greenelab.github.io/scihub-manuscript/)
-[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://greenelab.github.io/scihub-manuscript/manuscript.pdf)
+[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://greenelab.github.io/scihub-manuscript-es/)
+[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://greenelab.github.io/scihub-manuscript-es/manuscript.pdf)
 [![Build Status](https://travis-ci.com/greenelab/scihub-manuscript-es.svg?branch=master)](https://travis-ci.com/greenelab/scihub-manuscript-es)
 
 ## Descripción del manuscrito
