@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/e264990b35826654195ccf745ca64f22320629ec/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/2c86eb6d9c7e43de1da699dded04ae1e84fb70c6/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@e264990](https://github.com/greenelab/scihub-manuscript-es/tree/e264990b35826654195ccf745ca64f22320629ec)
+from [greenelab/scihub-manuscript-es@2c86eb6](https://github.com/greenelab/scihub-manuscript-es/tree/2c86eb6d9c7e43de1da699dded04ae1e84fb70c6)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -233,6 +233,13 @@ Elbakyan described the project's technical scope in July 2017 [@1H8x8f4Y7]:
 "Sci-Hub technically is by itself a repository, or a library if you like, and not a search engine for some other repository.
 But of course, the most important part in Sci-Hub is not a repository, but the script that can download papers closed behind paywalls."
 </details>
+
+Un método que Sci-Hub usa para evitar los muros de pago es obtener credenciales filtradas de autenticación para instituciones educativas [@1H8x8f4Y7]. 
+Estas credenciales permiten a Sci-Hub usar redes institucionales como proxies y obtener acceso a las revistas de suscripción. 
+Si bien el movimiento de acceso abierto ha progresado lentamente [@KDvO1ctK], Sci-Hub representa un cambio sísmico en el acceso a la literatura académica. 
+Desde su inicio, Sci-Hub ha experimentado un crecimiento sostenido, con picos de interés y conocimiento impulsados por procedimientos legales, interrupciones del servicio, cobertura de noticias y redes sociales (Figure @fig:history and @fig:downloads). 
+Aquí investigamos en qué medida Sci-Hub proporciona acceso a la literatura académica. 
+Si la cobertura de Sci-Hub es suficientemente amplia, entonces puede haber un cambio radical en la forma en que las personas acceden a la literatura académica.
 
 <details><summary>Inglés Original</summary>
 One method Sci-Hub uses to bypass paywalls is by obtaining leaked authentication credentials for educational institutions [@1H8x8f4Y7].
