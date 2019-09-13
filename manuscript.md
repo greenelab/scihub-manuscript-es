@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/2c86eb6d9c7e43de1da699dded04ae1e84fb70c6/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/808ce8c29a319d730d57d7b4c13014e2e2ad6ab8/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@2c86eb6](https://github.com/greenelab/scihub-manuscript-es/tree/2c86eb6d9c7e43de1da699dded04ae1e84fb70c6)
+from [greenelab/scihub-manuscript-es@808ce8c](https://github.com/greenelab/scihub-manuscript-es/tree/808ce8c29a319d730d57d7b4c13014e2e2ad6ab8)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -269,6 +269,30 @@ Based on these logs and newly released logs for 2017, Figure @fig:downloads show
 The first pink dotted line represents the collection date of the LibGen scimag metadata used in Cabanac's study [@18KKRwlN6; @GxWkjeN2].
 The second pink dotted line shows the date of Sci-Hub's tweeted DOI catalog used in this study.
 </details>
+
+En la Figura @fig:history, las letras ⓛⓔⓣⓣⓔⓡⓢ se refieren a los siguientes eventos:
+
++ **Ⓐ** Creado por Alexandra Elbakyan, el sitio web de Sci-Hub se activa el 5 de septiembre de 2011.
++ **Ⓑ** Varios dominios de LibGen caen cuando expira su registro, supuestamente debido a que un administrador de larga data del sitio falleció de cáncer.
++ **Ⓒ** Elsevier presenta una demanda civil contra Sci-Hub y LibGen, en los dominios respectivos sci-hub.org y libgen.org, en el Tribunal de Distrito de los Estados Unidos para el Distrito Sur de Nueva York [@6ZrZVv6E; @j3Zl6sH5]. 
+La queja busca una "oración de alivio" que incluye la incautación de nombres de dominio, daños y "una orden de derogación de ganancias de los Demandados".
++ **Ⓓ** Elsevier recibe a su favor una orden judicial preliminar para suspender los nombres de dominio y evitar que los operadores del sitio distribuyan los trabajos protegidos por derechos de autor de Elsevier [@9GOM6WEw; @BpCqwlYS]. 
+Poco después, Sci-Hub y LibGen resurgen en dominios alternativos fuera de la jurisdicción de los tribunales estadounidenses, incluso en la internet oscura [@16k28dBmH; @sR4uAYxB].
++ **Ⓔ** El artículo "Conoce a la Robin Hood de la Ciencia" de Simon Oxenham estimula una ola de atención y cobertura de noticias sobre Sci-Hub y Alexandra Elbakyan [@SlcfPQQQ], que culminó en _The New York Times_ preguntando "¿Deberían ser gratuitos todos los trabajos de investigación?” [@tMPCGeuL].
++ **Ⓕ** El artículo "¿Quién está descargando documentos pirateados? Todos"de John Bohannon muestra que Sci-Hub se usa en todo el mundo, incluso en países desarrollados [@RsNXQAG2; @t4r48QpO]. 
+Estos hallazgos provocan un debate entre los académicos, con un gran contingente de científicos que apoyan la misión de Sci-Hub [@Zp0s36X0; @cOKy7PSo].
++ **Ⓖ** Alexandra Elbakyan es nombrada una de las "_Nature_'s 10", que contó con "diez personas que importaron" en 2016 [@cUfIvWm6]. 
+Este artículo presenta a Alexandra e incluye una estimación de que Sci-Hub sirve "el 3% de todas las descargas de editoriales científicas de todo el mundo".
++ **Ⓗ** El tribunal considera que Alexandra Elbakyan, Sci-Hub y LibGen son "responsables de infracciones intencionadas de derechos de autor" en un fallo en ausencia, ya que ninguno de los acusados respondió a la queja de Elsevier [@b5B01CbS; @jlNm94FU; @17drH57zs]. 
+El tribunal emite una orden judicial permanente y ordena a los acusados que paguen a Elsevier $ 15 millones, o $ 150,000 por cada una de las [100](https://github.com/greenelab/scihub/issues/39) obras protegidas por derechos de autor. 
+Los daños legales, que los acusados no tienen intención de pagar, ahora devengan intereses.
++ **Ⓘ** La American Chemical Society presenta una demanda contra Sci-Hub en el Tribunal de Distrito de los Estados Unidos para el Distrito Este de Virginia. 
+Su "oración de alivio" solicita que los motores de búsqueda de Internet y los proveedores de servicios de Internet "dejen de facilitar el acceso" a Sci-Hub [@17REO8hrA; @Ia7JSsBI].
++ **Ⓙ** Se publica la versión preliminar de este estudio [@11cb5HXoY], generando titulares como "las revistas de suscripción están condenadas" de _Science_ [@sheBR4X4] y "Inevitablemente Abierto" de _Inside Higher Ed_ [@NIBjp6R1].
++ **Ⓚ** Sci-Hub bloquea el acceso a las direcciones IP rusas debido a disputas con el establishment científico ruso y el nombramiento de una especie de avispa parasitoide recién descubierta, _Idiogramma elbakyanae_, en honor a Alexandra Elbakyan [@PxpGmdxJ; @1Fdmn0XsW]. 
+Cuatro días después, Sci-Hub restablece el acceso después de recibir "muchas cartas de apoyo de investigadores rusos" [@GLDH745f].
++ **Ⓛ** El tribunal dictaminó sobre la demanda de la American Chemical Society, ordenando a Sci-Hub que pague $ 4.8 millones en daños y que "cualquier persona o entidad en concierto o participación activa" con Sci-Hub "incluyendo cualquier motor de búsqueda en Internet, alojamiento web y servicio de proveedores de Internet, registradores de nombres de dominio y registros de nombres de dominio, dejen de facilitar el acceso” [@WBnZqVXT; @XI4kiPR4]. 
+En cinco semanas, los dominios sci-hub.io, sci-hub.ac, sci-hub.cc y sci-hub.bz fueron suspendidos por sus respectivos registros de nombres de dominio [@pmrIfHRq], dejando solo el servicio oculto Tor y varios dominios recientemente registrados/revelados en operación.
 
 <details><summary>Inglés Original</summary>
 In Figure @fig:history, The ⓛⓔⓣⓣⓔⓡⓢ refer to the following events:
