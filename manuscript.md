@@ -27,9 +27,9 @@ title: Sci-Hub provides access to nearly all scholarly literature
 
 This study was published in _eLife_ on February 9, 2018 at <https://doi.org/10.7554/eLife.32822> [@IhliSZDo].<small><em>
 This manuscript
-([permalink](https://greenelab.github.io/scihub-manuscript-es/v/55181d3d41f26bae3f69cbcc8c071c2c2228b2c6/))
+([permalink](https://greenelab.github.io/scihub-manuscript-es/v/e264990b35826654195ccf745ca64f22320629ec/))
 was automatically generated
-from [greenelab/scihub-manuscript-es@55181d3](https://github.com/greenelab/scihub-manuscript-es/tree/55181d3d41f26bae3f69cbcc8c071c2c2228b2c6)
+from [greenelab/scihub-manuscript-es@e264990](https://github.com/greenelab/scihub-manuscript-es/tree/e264990b35826654195ccf745ca64f22320629ec)
 on September 13, 2019.
 Submit feedback on the manuscript at [git.io/v7feh](https://git.io/v7feh) or on the analyses at [git.io/v7fvJ](https://git.io/v7fvJ).
 </em></small>
@@ -221,6 +221,11 @@ Users of Sci-Hub do so at their own risk.
 This study is not an endorsement of using Sci-Hub, and its authors and publishers accept no responsibility on behalf of readers.
 There is a possibility that Sci-Hub users — especially those not using privacy-enhancing services such as Tor — could have their usage history unmasked and face legal or reputational consequences.**
 </details>
+
+Sci-Hub se sirve actualmente en dominios que incluyen https://sci-hub.hk, https://sci-hub.la, https://sci-hub.mn, https://sci-hub.name, https://sci-hub.tv, y https://sci-hub.tw, así como en scihub22266oqcxt.onion — un servicio oculto de Tor [@zvVsLNxf]. 
+Elbakyan describió el alcance técnico del proyecto en julio de 2017 [@1H8x8f4Y7]: 
+“Sci-Hub técnicamente es en sí mismo un repositorio, o una biblioteca si lo desea, y no un motor de búsqueda para algún otro repositorio. 
+Pero, por supuesto, la parte más importante en Sci-Hub no es un repositorio, sino el script que puede descargar documentos cerrados detrás de los muros de pago”.
 
 <details><summary>Inglés Original</summary>
 Sci-Hub is currently served at domains including https://sci-hub.hk, https://sci-hub.la, https://sci-hub.mn, https://sci-hub.name, https://sci-hub.tv, and https://sci-hub.tw, as well as at scihub22266oqcxt.onion — a Tor Hidden Service [@zvVsLNxf].
